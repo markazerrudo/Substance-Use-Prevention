@@ -1,0 +1,118 @@
+CountyName,DistrictName,SchoolName,CharterYN,ReportingCategory,CumulativeEnrollment,TotalSuspensions,TotalSusStudents,TotalDefiance,SuspensionRate,SuspensionViolent_Injury,NonInjury_Violent_Suspension,Weapon_possession_suspension,Drug_Suspensino_Defiance,Other_Suspension_Reason
+Alameda,,,All,RP,2110,111,89,5,4.2,22,54,5,14,7
+Alameda,,,"No ",RP,1979,104,82,5,4.1,21,49,5,13,7
+Alameda,,,Yes,RP,141,7,7,0,5,1,5,0,1,0
+Butte,,,All,RP,103,6,5,0,4.9,0,4,0,2,0
+Butte,,,"No ",RP,92,6,5,0,5.4,0,4,0,2,0
+Butte,,,Yes,RP,11,0,0,0,0,0,0,0,0,0
+Calaveras,,,All,RP,12,0,0,0,0,0,0,0,0,0
+Calaveras,,,"No ",RP,12,0,0,0,0,0,0,0,0,0
+"Contra Costa",,,All,RP,1090,82,59,3,5.4,13,48,3,10,3
+"Contra Costa",,,"No ",RP,1029,81,58,3,5.6,13,48,3,10,3
+"Contra Costa",,,Yes,RP,65,1,1,0,1.5,0,0,0,0,0
+"El Dorado",,,All,RP,73,3,1,0,1.4,0,3,0,0,0
+"El Dorado",,,"No ",RP,54,3,1,0,1.9,0,3,0,0,0
+"El Dorado",,,Yes,RP,21,0,0,0,0,0,0,0,0,0
+Fresno,,,All,RP,573,34,25,0,4.4,10,16,1,7,0
+Fresno,,,"No ",RP,543,34,25,0,4.6,10,16,1,7,0
+Fresno,,,Yes,RP,35,0,0,0,0,0,0,0,0,0
+Humboldt,,,All,RP,88,11,6,1,6.8,1,9,0,0,1
+Humboldt,,,"No ",RP,79,11,6,1,7.6,1,9,0,0,1
+Humboldt,,,Yes,RP,13,0,0,0,0,0,0,0,0,0
+Imperial,,,All,RP,11,0,0,0,0,0,0,0,0,0
+Imperial,,,"No ",RP,11,0,0,0,0,0,0,0,0,0
+Kern,,,All,RP,442,32,27,1,6.1,4,19,2,6,1
+Kern,,,"No ",RP,406,29,25,1,6.2,4,17,2,5,1
+Kern,,,Yes,RP,39,3,2,0,5.1,0,2,0,1,0
+Kings,,,All,RP,60,5,4,0,6.7,0,4,0,1,0
+Kings,,,"No ",RP,50,5,4,0,8,0,4,0,1,0
+Kings,,,Yes,RP,11,0,0,0,0,0,0,0,0,0
+Lassen,,,All,RP,63,5,3,0,4.8,0,4,0,1,0
+Lassen,,,"No ",RP,63,5,3,0,4.8,0,4,0,1,0
+"Los Angeles",,,All,RP,3756,146,109,3,2.9,22,83,3,25,3
+"Los Angeles",,,"No ",RP,3392,144,107,3,3.2,23,85,3,21,3
+"Los Angeles",,,Yes,RP,426,2,2,0,0.5,0,0,0,2,0
+Madera,,,All,RP,13,2,1,0,7.7,0,1,1,0,0
+Madera,,,"No ",RP,11,2,1,0,9.1,0,1,1,0,0
+Marin,,,All,RP,63,2,2,0,3.2,0,2,0,0,0
+Marin,,,"No ",RP,62,2,2,0,3.2,0,2,0,0,0
+Merced,,,All,RP,176,36,14,6,8,1,6,7,4,16
+Merced,,,"No ",RP,171,36,14,6,8.2,1,6,7,4,16
+Monterey,,,All,RP,316,2,2,0,0.6,1,1,0,0,0
+Monterey,,,"No ",RP,305,2,2,0,0.7,1,1,0,0,0
+Monterey,,,Yes,RP,15,0,0,0,0,0,0,0,0,0
+Napa,,,All,RP,36,3,1,0,2.8,3,0,0,0,0
+Napa,,,"No ",RP,36,3,1,0,2.8,3,0,0,0,0
+Nevada,,,All,RP,16,1,1,0,6.3,0,0,0,1,0
+Nevada,,,Yes,RP,11,0,0,0,0,0,0,0,0,0
+Orange,,,All,RP,1409,58,47,2,3.3,10,24,4,11,2
+Orange,,,"No ",RP,1347,57,46,2,3.4,10,23,4,11,2
+Orange,,,Yes,RP,64,0,0,0,0,0,0,0,0,0
+Placer,,,All,RP,307,11,10,1,3.3,1,4,0,3,2
+Placer,,,"No ",RP,278,10,9,1,3.2,0,4,0,3,2
+Placer,,,Yes,RP,34,1,1,0,2.9,1,0,0,0,0
+Riverside,,,All,RP,1493,127,87,4,5.8,20,72,8,20,4
+Riverside,,,"No ",RP,1410,123,85,3,6,19,70,8,20,3
+Riverside,,,Yes,RP,95,4,2,1,2.1,1,2,0,0,1
+Sacramento,,,All,RP,3662,343,211,35,5.8,52,152,14,62,48
+Sacramento,,,"No ",RP,3340,324,197,33,5.9,48,142,14,61,46
+Sacramento,,,Yes,RP,363,19,14,2,3.9,4,10,0,1,2
+"San Benito",,,All,RP,32,3,2,0,6.3,1,1,0,0,0
+"San Benito",,,"No ",RP,32,3,2,0,6.3,1,1,0,0,0
+"San Bernardino",,,All,RP,1578,113,86,4,5.4,17,69,5,16,5
+"San Bernardino",,,"No ",RP,1456,104,81,4,5.6,17,60,5,16,5
+"San Bernardino",,,Yes,RP,159,9,6,0,3.8,0,9,0,0,0
+"San Diego",,,All,RP,2021,79,64,3,3.2,15,36,6,16,3
+"San Diego",,,"No ",RP,1711,79,62,2,3.6,17,35,6,16,2
+"San Diego",,,Yes,RP,351,5,4,1,1.1,1,2,0,1,1
+"San Francisco",,,All,RP,530,43,28,0,5.3,13,22,0,7,0
+"San Francisco",,,"No ",RP,399,34,23,0,5.8,13,18,0,2,0
+"San Francisco",,,Yes,RP,132,8,4,0,3,0,4,0,4,0
+"San Joaquin",,,All,RP,1199,91,65,3,5.4,23,43,3,17,3
+"San Joaquin",,,"No ",RP,1049,86,61,2,5.8,22,40,3,17,2
+"San Joaquin",,,Yes,RP,168,3,3,1,1.8,1,1,0,0,1
+"San Luis Obispo",,,All,RP,44,4,3,0,6.8,2,1,0,1,0
+"San Luis Obispo",,,"No ",RP,42,4,3,0,7.1,2,1,0,1,0
+"San Mateo",,,All,RP,1409,105,64,14,4.5,20,46,2,12,17
+"San Mateo",,,"No ",RP,1288,93,60,14,4.7,19,40,2,7,17
+"San Mateo",,,Yes,RP,130,12,5,0,3.8,1,6,0,5,0
+"Santa Barbara",,,All,RP,60,7,3,0,5,1,6,0,0,0
+"Santa Barbara",,,"No ",RP,56,6,2,0,3.6,1,5,0,0,0
+"Santa Clara",,,All,RP,1044,91,62,1,5.9,29,32,7,18,1
+"Santa Clara",,,"No ",RP,974,89,61,1,6.3,29,30,7,18,1
+"Santa Clara",,,Yes,RP,80,2,1,0,1.3,0,2,0,0,0
+"Santa Cruz",,,All,RP,66,2,1,0,1.5,0,1,0,0,0
+"Santa Cruz",,,"No ",RP,36,2,1,0,2.8,0,1,0,0,0
+"Santa Cruz",,,Yes,RP,30,0,0,0,0,0,0,0,0,0
+Shasta,,,All,RP,91,9,6,0,6.6,1,8,0,0,0
+Shasta,,,"No ",RP,83,9,6,0,7.2,1,8,0,0,0
+Shasta,,,Yes,RP,12,0,0,0,0,0,0,0,0,0
+Siskiyou,,,All,RP,15,1,1,0,6.7,0,1,0,0,0
+Siskiyou,,,"No ",RP,15,1,1,0,6.7,0,1,0,0,0
+Solano,,,All,RP,673,59,43,8,6.4,27,9,0,11,8
+Solano,,,"No ",RP,623,58,42,7,6.7,27,9,0,11,7
+Solano,,,Yes,RP,53,1,1,1,1.9,0,0,0,0,1
+Sonoma,,,All,RP,320,32,15,2,4.7,6,15,2,5,2
+Sonoma,,,"No ",RP,242,16,12,1,5,3,7,1,3,1
+Sonoma,,,Yes,RP,83,16,3,1,3.6,3,8,1,2,1
+Stanislaus,,,All,RP,710,57,43,6,6.1,8,28,2,11,6
+Stanislaus,,,"No ",RP,677,61,42,7,6.2,9,27,2,11,10
+Stanislaus,,,Yes,RP,36,2,2,0,5.6,0,2,0,0,0
+Sutter,,,All,RP,95,0,0,0,0,0,0,0,0,0
+Sutter,,,"No ",RP,39,0,0,0,0,0,0,0,0,0
+Sutter,,,Yes,RP,56,0,0,0,0,0,0,0,0,0
+Tehama,,,All,RP,23,0,0,0,0,0,0,0,0,0
+Tehama,,,"No ",RP,23,0,0,0,0,0,0,0,0,0
+Tulare,,,All,RP,149,12,7,0,4.7,1,9,0,1,0
+Tulare,,,"No ",RP,136,12,7,0,5.1,1,9,0,1,0
+Tulare,,,Yes,RP,16,0,0,0,0,0,0,0,0,0
+Tuolumne,,,All,RP,29,3,3,1,10.3,0,1,0,1,1
+Tuolumne,,,"No ",RP,27,2,2,0,7.4,0,1,0,1,0
+Ventura,,,All,RP,232,16,13,0,5.6,6,7,0,2,0
+Ventura,,,"No ",RP,224,15,12,0,5.4,6,7,0,1,0
+Ventura,,,Yes,RP,12,1,1,0,8.3,0,0,0,1,0
+Yolo,,,All,RP,177,3,3,0,1.7,1,2,0,0,0
+Yolo,,,"No ",RP,161,3,3,0,1.9,1,2,0,0,0
+Yolo,,,Yes,RP,16,0,0,0,0,0,0,0,0,0
+Yuba,,,All,RP,71,1,1,1,1.4,0,0,0,0,1
+Yuba,,,"No ",RP,66,1,1,1,1.5,0,0,0,0,1
