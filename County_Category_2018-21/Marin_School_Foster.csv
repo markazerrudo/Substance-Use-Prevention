@@ -1,0 +1,169 @@
+AcademicYear,AggregateLevel,CountyCode,DistrictCode,SchoolCode,CountyName,DistrictName,SchoolName,CharterYN,ReportingCategory,CumulativeEnrollment,TotalSuspensions,TotalSusStudents,TotalDefiance,SuspensionRate,SuspensionViolent_Injury,NonInjury_Violent_Suspension,Weapon_possession_suspension,Drug_Suspensino_Defiance,Other_Suspension_Reason
+2021-01-08,S,21,,,Marin,"Marin County Office of Education","Marin County Juvenile Court","No ",Foster,13,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Marin County Office of Education","Nonpublic, Nonsectarian Schools","No ",Foster,21,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65300,6024137,Marin,"Bolinas-Stinson Union","Bolinas-Stinson Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65359,6024343,Marin,"Lagunitas Elementary","San Geronimo Valley Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,10215,113183,Marin,"Marin County Office of Education","Marin County Juvenile Court","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,10215,2130037,Marin,"Marin County Office of Education","Marin's Community","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,10215,1,Marin,"Marin County Office of Education","Nonpublic, Nonsectarian Schools","No ",Foster,30,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,10215,2130102,Marin,"Marin County Office of Education","Phoenix Academy",Yes,Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024418,Marin,"Mill Valley Elementary","Edna Maguire Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024467,Marin,"Mill Valley Elementary","Strawberry Point Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024475,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024160,Marin,"Miller Creek Elementary","Lucas Valley Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024194,Marin,"Miller Creek Elementary","Mary E. Silveira Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024202,Marin,"Miller Creek Elementary","Miller Creek Middle","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,1,Marin,"Miller Creek Elementary","Nonpublic, Nonsectarian Schools","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024244,Marin,"Miller Creek Elementary","Vallecito Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024525,Marin,"Novato Unified","Lynwood Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,1,Marin,"Novato Unified","Nonpublic, Nonsectarian Schools","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024582,Marin,"Novato Unified","Rancho Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024590,Marin,"Novato Unified","San Ramon Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,6024731,Marin,"Ross Valley Elementary","Wade Thomas Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024764,Marin,"San Rafael City Elementary","Coleman Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,1,Marin,"San Rafael City Elementary","Nonpublic, Nonsectarian Schools","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65466,2133254,Marin,"San Rafael City High","Madrone High Continuation","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65474,6118491,Marin,"Sausalito Marin City","Willow Creek Academy Charter",Yes,Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,2134310,Marin,"Shoreline Unified","Tomales High","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,2131340,Marin,"Tamalpais Union High","Archie Williams High","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,10215,113183,Marin,"Marin County Office of Education","Marin County Juvenile Court","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,10215,1,Marin,"Marin County Office of Education","Nonpublic, Nonsectarian Schools","No ",Foster,34,5,3,1,8.8,2,0,0,0,1
+2019-01-08,S,21,10215,2130102,Marin,"Marin County Office of Education","Phoenix Academy",Yes,Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6024418,Marin,"Mill Valley Elementary","Edna Maguire Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6024467,Marin,"Mill Valley Elementary","Strawberry Point Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6024475,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65318,6024160,Marin,"Miller Creek Elementary","Lucas Valley Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65318,6024194,Marin,"Miller Creek Elementary","Mary E. Silveira Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65318,6024202,Marin,"Miller Creek Elementary","Miller Creek Middle","No ",Foster,11,10,6,0,54.5,3,4,0,0,0
+2019-01-08,S,21,65318,6024244,Marin,"Miller Creek Elementary","Vallecito Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024525,Marin,"Novato Unified","Lynwood Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,2132264,Marin,"Novato Unified","Marin Oaks High","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024582,Marin,"Novato Unified","Rancho Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024590,Marin,"Novato Unified","San Ramon Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65425,6024632,Marin,"Reed Union Elementary","Del Mar Middle","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,75002,124578,Marin,"Ross Valley Elementary","Hidden Valley Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,75002,6024731,Marin,"Ross Valley Elementary","Wade Thomas Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65474,6118491,Marin,"Sausalito Marin City","Willow Creek Academy Charter",Yes,Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,77065,135350,Marin,"SBE - Ross Valley Elementary","Ross Valley Charter",Yes,Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65482,2131340,Marin,"Tamalpais Union High","Archie Williams High","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,113183,Marin,"Marin County Office of Education","Marin County Juvenile Court","No ",Foster,21,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,1,Marin,"Marin County Office of Education","Nonpublic, Nonsectarian Schools",All,Foster,41,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,113183,Marin,"Marin County Office of Education","Marin County Juvenile Court",All,Foster,21,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,1,Marin,"Marin County Office of Education","Nonpublic, Nonsectarian Schools","No ",Foster,41,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024194,Marin,"Dixie Elementary","Mary E. Silveira Elementary",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024160,Marin,"Dixie Elementary","Dixie Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024194,Marin,"Dixie Elementary","Mary E. Silveira Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024244,Marin,"Dixie Elementary","Vallecito Elementary",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024202,Marin,"Dixie Elementary","Miller Creek Middle","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024160,Marin,"Dixie Elementary","Dixie Elementary",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024202,Marin,"Dixie Elementary","Miller Creek Middle",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024244,Marin,"Dixie Elementary","Vallecito Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65342,1,Marin,"Laguna Joint Elementary","Nonpublic, Nonsectarian Schools","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65342,1,Marin,"Laguna Joint Elementary","Nonpublic, Nonsectarian Schools",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65367,6024376,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65367,6024376,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024475,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024475,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024418,Marin,"Mill Valley Elementary","Edna Maguire Elementary",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024418,Marin,"Mill Valley Elementary","Edna Maguire Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024863,Marin,"San Rafael City Elementary","Sun Valley Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024863,Marin,"San Rafael City Elementary","Sun Valley Elementary",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024756,Marin,"San Rafael City Elementary","Bahia Vista Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024756,Marin,"San Rafael City Elementary","Bahia Vista Elementary",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,1,Marin,"San Rafael City High","Nonpublic, Nonsectarian Schools","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,2133254,Marin,"San Rafael City High","Madrone High Continuation","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,2133254,Marin,"San Rafael City High","Madrone High Continuation",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,1,Marin,"San Rafael City High","Nonpublic, Nonsectarian Schools",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65474,6118491,Marin,"Sausalito Marin City","Willow Creek Academy",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65474,6118491,Marin,"Sausalito Marin City","Willow Creek Academy",Yes,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2131340,Marin,"Tamalpais Union High","Archie Williams High","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2131340,Marin,"Tamalpais Union High","Archie Williams High",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024731,Marin,"Ross Valley Elementary","Wade Thomas Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024277,Marin,"Ross Valley Elementary","Manor Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024277,Marin,"Ross Valley Elementary","Manor Elementary",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024731,Marin,"Ross Valley Elementary","Wade Thomas Elementary",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,124578,Marin,"Ross Valley Elementary","Hidden Valley Elementary","No ",Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,124578,Marin,"Ross Valley Elementary","Hidden Valley Elementary",All,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,77065,135350,Marin,"SBE - Ross Valley Elementary","Ross Valley Charter",Yes,Foster,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,77065,135350,Marin,"SBE - Ross Valley Elementary","Ross Valley Charter",All,Foster,0,0,0,0,0,0,0,0,0,0

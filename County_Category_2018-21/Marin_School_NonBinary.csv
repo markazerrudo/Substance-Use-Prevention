@@ -1,0 +1,27 @@
+AcademicYear,AggregateLevel,CountyCode,DistrictCode,SchoolCode,CountyName,DistrictName,SchoolName,CharterYN,ReportingCategory,CumulativeEnrollment,TotalSuspensions,TotalSusStudents,TotalDefiance,SuspensionRate,SuspensionViolent_Injury,NonInjury_Violent_Suspension,Weapon_possession_suspension,Drug_Suspensino_Defiance,Other_Suspension_Reason
+2021-01-08,S,21,,,Marin,"Novato Unified","Novato High","No ","Non-Binary Gender",12,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65359,6024335,Marin,"Lagunitas Elementary","Lagunitas Elementary","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65359,6024343,Marin,"Lagunitas Elementary","San Geronimo Valley Elementary","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6085187,Marin,"Mill Valley Elementary","Mill Valley Middle","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024459,Marin,"Mill Valley Elementary","Park Elementary","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024202,Marin,"Miller Creek Elementary","Miller Creek Middle","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6113229,Marin,"Novato Unified","Novato Charter",Yes,"Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65425,6024632,Marin,"Reed Union Elementary","Del Mar Middle","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65433,6024673,Marin,"Ross Elementary","Ross Elementary","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,124578,Marin,"Ross Valley Elementary","Hidden Valley Elementary","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,6024731,Marin,"Ross Valley Elementary","Wade Thomas Elementary","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,6024285,Marin,"Ross Valley Elementary","White Hill Middle","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,2134310,Marin,"Shoreline Unified","Tomales High","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,1,Marin,"Tamalpais Union High","Nonpublic, Nonsectarian Schools","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,2131340,Marin,"Tamalpais Union High","Archie Williams High","No ","Non-Binary Gender",11,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6085187,Marin,"Mill Valley Elementary","Mill Valley Middle","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6024475,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65425,6024632,Marin,"Reed Union Elementary","Del Mar Middle","No ","Non-Binary Gender",0,0,0,0,0,0,0,0,0,0

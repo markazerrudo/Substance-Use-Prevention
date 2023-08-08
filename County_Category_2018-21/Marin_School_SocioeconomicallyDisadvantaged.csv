@@ -1,0 +1,399 @@
+AcademicYear,AggregateLevel,CountyCode,DistrictCode,SchoolCode,CountyName,DistrictName,SchoolName,CharterYN,ReportingCategory,CumulativeEnrollment,TotalSuspensions,TotalSusStudents,TotalDefiance,SuspensionRate,SuspensionViolent_Injury,NonInjury_Violent_Suspension,Weapon_possession_suspension,Drug_Suspensino_Defiance,Other_Suspension_Reason
+2021-01-08,S,21,,,Marin,"Bolinas-Stinson Union","Bolinas-Stinson Elementary","No ","Socioeconomically Disadvantaged",44,1,1,1,2.3,0,0,0,0,1
+2021-01-08,S,21,,,Marin,"Kentfield Elementary","Adaline E. Kent Middle","No ","Socioeconomically Disadvantaged",65,3,1,0,1.5,0,3,0,0,0
+2021-01-08,S,21,,,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary","No ","Socioeconomically Disadvantaged",71,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Lagunitas Elementary","Lagunitas Elementary","No ","Socioeconomically Disadvantaged",34,2,2,0,5.9,1,0,0,1,0
+2021-01-08,S,21,,,Marin,"Lagunitas Elementary","San Geronimo Valley Elementary","No ","Socioeconomically Disadvantaged",11,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Larkspur-Corte Madera",Cove,"No ","Socioeconomically Disadvantaged",37,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Larkspur-Corte Madera","Hall Middle","No ","Socioeconomically Disadvantaged",53,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary","No ","Socioeconomically Disadvantaged",47,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Marin County Office of Education","Marin County Juvenile Court","No ","Socioeconomically Disadvantaged",56,1,1,0,1.8,0,1,0,0,0
+2021-01-08,S,21,,,Marin,"Marin County Office of Education","Marin County Special Education","No ","Socioeconomically Disadvantaged",79,9,5,2,6.3,3,2,0,0,2
+2021-01-08,S,21,,,Marin,"Marin County Office of Education","Marin's Community","No ","Socioeconomically Disadvantaged",54,8,5,0,9.3,0,8,0,0,0
+2021-01-08,S,21,,,Marin,"Marin County Office of Education","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",21,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Marin County Office of Education","Phoenix Academy",Yes,"Socioeconomically Disadvantaged",36,2,2,0,5.6,0,1,0,1,0
+2021-01-08,S,21,,,Marin,"Marin County Office of Education","Ross Valley Charter",Yes,"Socioeconomically Disadvantaged",74,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Mill Valley Elementary","Edna Maguire Elementary","No ","Socioeconomically Disadvantaged",25,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Mill Valley Elementary","Mill Valley Middle","No ","Socioeconomically Disadvantaged",65,2,2,0,3.1,0,2,0,0,0
+2021-01-08,S,21,,,Marin,"Mill Valley Elementary","Park Elementary","No ","Socioeconomically Disadvantaged",16,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Mill Valley Elementary","Strawberry Point Elementary","No ","Socioeconomically Disadvantaged",24,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary","No ","Socioeconomically Disadvantaged",24,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Miller Creek Elementary","Lucas Valley Elementary","No ","Socioeconomically Disadvantaged",28,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Miller Creek Elementary","Mary E. Silveira Elementary","No ","Socioeconomically Disadvantaged",109,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Miller Creek Elementary","Miller Creek Middle","No ","Socioeconomically Disadvantaged",115,10,7,0,6.1,0,1,1,4,0
+2021-01-08,S,21,,,Marin,"Miller Creek Elementary","Vallecito Elementary","No ","Socioeconomically Disadvantaged",78,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,Nicasio,Nicasio,"No ","Socioeconomically Disadvantaged",17,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Hamilton Meadow Park","No ","Socioeconomically Disadvantaged",414,33,19,7,4.6,2,16,2,2,8
+2021-01-08,S,21,,,Marin,"Novato Unified","Loma Verde Elementary","No ","Socioeconomically Disadvantaged",192,10,2,0,1,2,8,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Lu Sutton Elementary","No ","Socioeconomically Disadvantaged",246,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Lynwood Elementary","No ","Socioeconomically Disadvantaged",155,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Marin Oaks High","No ","Socioeconomically Disadvantaged",89,14,10,1,11.2,5,3,0,5,1
+2021-01-08,S,21,,,Marin,"Novato Unified","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",19,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Nova Education Center","No ","Socioeconomically Disadvantaged",122,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Novato Charter",Yes,"Socioeconomically Disadvantaged",40,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Novato High","No ","Socioeconomically Disadvantaged",699,41,33,0,4.7,10,5,3,23,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Olive Elementary","No ","Socioeconomically Disadvantaged",157,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Pleasant Valley Elementary","No ","Socioeconomically Disadvantaged",56,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Rancho Elementary","No ","Socioeconomically Disadvantaged",149,3,3,0,2,0,3,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","San Jose Intermediate","No ","Socioeconomically Disadvantaged",306,31,22,1,7.2,5,9,3,13,1
+2021-01-08,S,21,,,Marin,"Novato Unified","San Marin High","No ","Socioeconomically Disadvantaged",389,19,14,2,3.6,1,12,1,2,2
+2021-01-08,S,21,,,Marin,"Novato Unified","San Ramon Elementary","No ","Socioeconomically Disadvantaged",94,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Sinaloa Middle","No ","Socioeconomically Disadvantaged",256,45,18,0,7,0,37,1,6,0
+2021-01-08,S,21,,,Marin,"Reed Union Elementary","Bel Aire Elementary","No ","Socioeconomically Disadvantaged",20,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Reed Union Elementary","Del Mar Middle","No ","Socioeconomically Disadvantaged",23,1,1,0,4.3,0,1,0,0,0
+2021-01-08,S,21,,,Marin,"Reed Union Elementary","Reed Elementary","No ","Socioeconomically Disadvantaged",13,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Ross Valley Elementary","Brookside Elementary","No ","Socioeconomically Disadvantaged",26,1,1,0,3.8,1,0,0,0,0
+2021-01-08,S,21,,,Marin,"Ross Valley Elementary","Hidden Valley Elementary","No ","Socioeconomically Disadvantaged",20,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Ross Valley Elementary","Manor Elementary","No ","Socioeconomically Disadvantaged",52,8,3,0,5.8,0,3,0,2,0
+2021-01-08,S,21,,,Marin,"Ross Valley Elementary","Wade Thomas Elementary","No ","Socioeconomically Disadvantaged",40,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Ross Valley Elementary","White Hill Middle","No ","Socioeconomically Disadvantaged",96,4,4,0,4.2,1,1,0,2,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Bahia Vista Elementary","No ","Socioeconomically Disadvantaged",590,6,6,0,1,0,4,2,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Coleman Elementary","No ","Socioeconomically Disadvantaged",229,2,1,0,0.4,0,1,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Glenwood Elementary","No ","Socioeconomically Disadvantaged",66,6,6,0,9.1,1,5,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ","Socioeconomically Disadvantaged",797,30,24,0,3,3,24,1,2,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Laurel Dell Elementary","No ","Socioeconomically Disadvantaged",256,1,1,0,0.4,0,0,0,1,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","San Pedro Elementary","No ","Socioeconomically Disadvantaged",521,18,12,4,2.3,1,10,0,0,4
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Sun Valley Elementary","No ","Socioeconomically Disadvantaged",122,1,1,0,0.8,0,0,1,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ","Socioeconomically Disadvantaged",571,11,10,0,1.8,2,9,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City High","Madrone High Continuation","No ","Socioeconomically Disadvantaged",155,27,20,0,12.9,4,9,1,13,0
+2021-01-08,S,21,,,Marin,"San Rafael City High","San Rafael High","No ","Socioeconomically Disadvantaged",905,90,67,7,7.4,18,40,4,20,7
+2021-01-08,S,21,,,Marin,"San Rafael City High","Terra Linda High","No ","Socioeconomically Disadvantaged",614,54,47,7,7.7,16,17,1,12,7
+2021-01-08,S,21,,,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy","No ","Socioeconomically Disadvantaged",251,12,11,1,4.4,6,3,1,1,1
+2021-01-08,S,21,,,Marin,"Shoreline Unified","Bodega Bay Elementary","No ","Socioeconomically Disadvantaged",24,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Shoreline Unified","Inverness Elementary","No ","Socioeconomically Disadvantaged",20,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Shoreline Unified","Tomales Elementary","No ","Socioeconomically Disadvantaged",99,2,2,0,2,2,0,0,0,0
+2021-01-08,S,21,,,Marin,"Shoreline Unified","Tomales High","No ","Socioeconomically Disadvantaged",101,8,7,0,6.9,0,6,0,1,0
+2021-01-08,S,21,,,Marin,"Shoreline Unified","West Marin Elementary","No ","Socioeconomically Disadvantaged",75,4,4,1,5.3,0,3,0,0,1
+2021-01-08,S,21,,,Marin,"Tamalpais Union High","Archie Williams High","No ","Socioeconomically Disadvantaged",169,3,2,0,1.2,1,2,0,0,0
+2021-01-08,S,21,,,Marin,"Tamalpais Union High","Redwood High","No ","Socioeconomically Disadvantaged",188,9,5,1,2.7,4,3,0,0,2
+2021-01-08,S,21,,,Marin,"Tamalpais Union High","San Andreas High (Continuation)","No ","Socioeconomically Disadvantaged",44,2,2,0,4.5,2,0,0,0,0
+2021-01-08,S,21,,,Marin,"Tamalpais Union High","Tamalpais High","No ","Socioeconomically Disadvantaged",201,1,1,1,0.5,0,0,0,0,1
+2021-01-08,S,21,,,Marin,"Tamalpais Union High","Tamiscal High (Alternative)","No ","Socioeconomically Disadvantaged",11,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65300,6024137,Marin,"Bolinas-Stinson Union","Bolinas-Stinson Elementary","No ","Socioeconomically Disadvantaged",35,2,1,0,2.9,0,2,0,0,0
+2020-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle","No ","Socioeconomically Disadvantaged",68,2,2,0,2.9,0,2,0,0,0
+2020-01-08,S,21,65334,6024319,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary","No ","Socioeconomically Disadvantaged",90,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65342,6024327,Marin,"Laguna Joint Elementary","Laguna Elementary","No ","Socioeconomically Disadvantaged",12,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65359,6024335,Marin,"Lagunitas Elementary","Lagunitas Elementary","No ","Socioeconomically Disadvantaged",35,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65359,6024343,Marin,"Lagunitas Elementary","San Geronimo Valley Elementary","No ","Socioeconomically Disadvantaged",19,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65367,129148,Marin,"Larkspur-Corte Madera",Cove,"No ","Socioeconomically Disadvantaged",36,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65367,6024350,Marin,"Larkspur-Corte Madera","Hall Middle","No ","Socioeconomically Disadvantaged",60,1,1,0,1.7,0,1,0,0,0
+2020-01-08,S,21,65367,6024376,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary","No ","Socioeconomically Disadvantaged",52,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,10215,113183,Marin,"Marin County Office of Education","Marin County Juvenile Court","No ","Socioeconomically Disadvantaged",45,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education","No ","Socioeconomically Disadvantaged",67,8,4,0,6,6,0,1,0,0
+2020-01-08,S,21,10215,2130037,Marin,"Marin County Office of Education","Marin's Community","No ","Socioeconomically Disadvantaged",74,1,1,0,1.4,0,1,0,0,0
+2020-01-08,S,21,10215,1,Marin,"Marin County Office of Education","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",30,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,10215,2130102,Marin,"Marin County Office of Education","Phoenix Academy",Yes,"Socioeconomically Disadvantaged",27,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024418,Marin,"Mill Valley Elementary","Edna Maguire Elementary","No ","Socioeconomically Disadvantaged",33,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6085187,Marin,"Mill Valley Elementary","Mill Valley Middle","No ","Socioeconomically Disadvantaged",65,2,2,1,3.1,0,0,1,0,1
+2020-01-08,S,21,65391,1,Marin,"Mill Valley Elementary","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024442,Marin,"Mill Valley Elementary","Old Mill Elementary","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024459,Marin,"Mill Valley Elementary","Park Elementary","No ","Socioeconomically Disadvantaged",16,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024467,Marin,"Mill Valley Elementary","Strawberry Point Elementary","No ","Socioeconomically Disadvantaged",21,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024475,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary","No ","Socioeconomically Disadvantaged",29,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024160,Marin,"Miller Creek Elementary","Lucas Valley Elementary","No ","Socioeconomically Disadvantaged",23,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024194,Marin,"Miller Creek Elementary","Mary E. Silveira Elementary","No ","Socioeconomically Disadvantaged",122,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024202,Marin,"Miller Creek Elementary","Miller Creek Middle","No ","Socioeconomically Disadvantaged",122,7,6,0,4.9,0,4,0,3,0
+2020-01-08,S,21,65318,1,Marin,"Miller Creek Elementary","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024244,Marin,"Miller Creek Elementary","Vallecito Elementary","No ","Socioeconomically Disadvantaged",64,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65409,6024483,Marin,Nicasio,Nicasio,"No ","Socioeconomically Disadvantaged",15,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park","No ","Socioeconomically Disadvantaged",438,2,2,1,0.5,0,1,0,0,1
+2020-01-08,S,21,65417,6024509,Marin,"Novato Unified","Loma Verde Elementary","No ","Socioeconomically Disadvantaged",208,1,1,0,0.5,0,1,0,0,0
+2020-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary","No ","Socioeconomically Disadvantaged",218,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024525,Marin,"Novato Unified","Lynwood Elementary","No ","Socioeconomically Disadvantaged",202,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,2132264,Marin,"Novato Unified","Marin Oaks High","No ","Socioeconomically Disadvantaged",77,4,3,1,3.9,0,1,0,2,1
+2020-01-08,S,21,65417,1,Marin,"Novato Unified","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center","No ","Socioeconomically Disadvantaged",29,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6113229,Marin,"Novato Unified","Novato Charter",Yes,"Socioeconomically Disadvantaged",36,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High","No ","Socioeconomically Disadvantaged",612,1,1,0,0.2,1,0,0,0,0
+2020-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary","No ","Socioeconomically Disadvantaged",164,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary","No ","Socioeconomically Disadvantaged",51,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024582,Marin,"Novato Unified","Rancho Elementary","No ","Socioeconomically Disadvantaged",128,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate","No ","Socioeconomically Disadvantaged",336,1,1,0,0.3,0,0,1,0,0
+2020-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High","No ","Socioeconomically Disadvantaged",362,2,2,0,0.6,1,1,0,0,0
+2020-01-08,S,21,65417,6024590,Marin,"Novato Unified","San Ramon Elementary","No ","Socioeconomically Disadvantaged",96,1,1,0,1,1,0,0,0,0
+2020-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle","No ","Socioeconomically Disadvantaged",287,8,6,0,2.1,0,5,0,3,0
+2020-01-08,S,21,65425,6024616,Marin,"Reed Union Elementary","Bel Aire Elementary","No ","Socioeconomically Disadvantaged",19,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65425,6024632,Marin,"Reed Union Elementary","Del Mar Middle","No ","Socioeconomically Disadvantaged",28,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65425,6024657,Marin,"Reed Union Elementary","Reed Elementary","No ","Socioeconomically Disadvantaged",18,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65433,6024673,Marin,"Ross Elementary","Ross Elementary","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,6024681,Marin,"Ross Valley Elementary","Brookside Elementary","No ","Socioeconomically Disadvantaged",22,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,124578,Marin,"Ross Valley Elementary","Hidden Valley Elementary","No ","Socioeconomically Disadvantaged",22,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,6024277,Marin,"Ross Valley Elementary","Manor Elementary","No ","Socioeconomically Disadvantaged",48,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,1,Marin,"Ross Valley Elementary","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,6024731,Marin,"Ross Valley Elementary","Wade Thomas Elementary","No ","Socioeconomically Disadvantaged",33,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,6024285,Marin,"Ross Valley Elementary","White Hill Middle","No ","Socioeconomically Disadvantaged",92,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024756,Marin,"San Rafael City Elementary","Bahia Vista Elementary","No ","Socioeconomically Disadvantaged",530,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024764,Marin,"San Rafael City Elementary","Coleman Elementary","No ","Socioeconomically Disadvantaged",461,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary","No ","Socioeconomically Disadvantaged",82,2,2,0,2.4,0,0,0,2,0
+2020-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ","Socioeconomically Disadvantaged",827,4,4,0,0.5,0,2,0,1,0
+2020-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary","No ","Socioeconomically Disadvantaged",227,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,1,Marin,"San Rafael City Elementary","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024830,Marin,"San Rafael City Elementary","San Pedro Elementary","No ","Socioeconomically Disadvantaged",435,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024863,Marin,"San Rafael City Elementary","Sun Valley Elementary","No ","Socioeconomically Disadvantaged",111,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ","Socioeconomically Disadvantaged",538,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65466,2133254,Marin,"San Rafael City High","Madrone High Continuation","No ","Socioeconomically Disadvantaged",133,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65466,1,Marin,"San Rafael City High","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High","No ","Socioeconomically Disadvantaged",850,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High","No ","Socioeconomically Disadvantaged",550,1,1,0,0.2,0,1,0,0,0
+2020-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy","No ","Socioeconomically Disadvantaged",102,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65474,6118491,Marin,"Sausalito Marin City","Willow Creek Academy Charter",Yes,"Socioeconomically Disadvantaged",151,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,77065,135350,Marin,"SBE - Ross Valley Elementary","Ross Valley Charter",Yes,"Socioeconomically Disadvantaged",66,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,6051627,Marin,"Shoreline Unified","Bodega Bay Elementary","No ","Socioeconomically Disadvantaged",23,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,6024947,Marin,"Shoreline Unified","Inverness Elementary","No ","Socioeconomically Disadvantaged",18,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,1,Marin,"Shoreline Unified","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary","No ","Socioeconomically Disadvantaged",82,3,3,0,3.7,0,0,0,3,0
+2020-01-08,S,21,73361,2134310,Marin,"Shoreline Unified","Tomales High","No ","Socioeconomically Disadvantaged",122,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,6024954,Marin,"Shoreline Unified","West Marin Elementary","No ","Socioeconomically Disadvantaged",84,3,3,3,3.6,0,0,0,0,3
+2020-01-08,S,21,65482,1,Marin,"Tamalpais Union High","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High","No ","Socioeconomically Disadvantaged",224,1,1,0,0.4,0,1,0,0,0
+2020-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)","No ","Socioeconomically Disadvantaged",57,1,1,0,1.8,1,0,0,0,0
+2020-01-08,S,21,65482,2131340,Marin,"Tamalpais Union High","Archie Williams High","No ","Socioeconomically Disadvantaged",228,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High","No ","Socioeconomically Disadvantaged",243,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,2130078,Marin,"Tamalpais Union High","Tamiscal High (Alternative)","No ","Socioeconomically Disadvantaged",17,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65300,6024137,Marin,"Bolinas-Stinson Union","Bolinas-Stinson Elementary","No ","Socioeconomically Disadvantaged",42,1,1,1,2.4,0,0,0,0,1
+2019-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle","No ","Socioeconomically Disadvantaged",58,4,4,0,6.9,0,4,0,0,0
+2019-01-08,S,21,65334,6024319,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary","No ","Socioeconomically Disadvantaged",88,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65342,6024327,Marin,"Laguna Joint Elementary","Laguna Elementary","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65359,6024335,Marin,"Lagunitas Elementary","Lagunitas Elementary","No ","Socioeconomically Disadvantaged",24,1,1,0,4.2,1,0,0,0,0
+2019-01-08,S,21,65359,6024343,Marin,"Lagunitas Elementary","San Geronimo Valley Elementary","No ","Socioeconomically Disadvantaged",14,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65367,129148,Marin,"Larkspur-Corte Madera",Cove,"No ","Socioeconomically Disadvantaged",34,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65367,6024350,Marin,"Larkspur-Corte Madera","Hall Middle","No ","Socioeconomically Disadvantaged",60,2,2,0,3.3,0,1,0,1,0
+2019-01-08,S,21,65367,6024376,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary","No ","Socioeconomically Disadvantaged",50,2,2,0,4,0,2,0,0,0
+2019-01-08,S,21,65375,6024392,Marin,"Lincoln Elementary","Lincoln Union Elementary","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,10215,113183,Marin,"Marin County Office of Education","Marin County Juvenile Court","No ","Socioeconomically Disadvantaged",67,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education","No ","Socioeconomically Disadvantaged",67,6,4,1,6,4,1,0,0,1
+2019-01-08,S,21,10215,2130037,Marin,"Marin County Office of Education","Marin's Community","No ","Socioeconomically Disadvantaged",66,4,3,1,4.5,0,2,0,1,1
+2019-01-08,S,21,10215,1,Marin,"Marin County Office of Education","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",36,5,3,1,8.3,2,0,0,0,1
+2019-01-08,S,21,10215,2130102,Marin,"Marin County Office of Education","Phoenix Academy",Yes,"Socioeconomically Disadvantaged",22,11,7,3,31.8,0,4,0,4,3
+2019-01-08,S,21,65391,6024418,Marin,"Mill Valley Elementary","Edna Maguire Elementary","No ","Socioeconomically Disadvantaged",33,1,1,1,3,0,0,0,0,1
+2019-01-08,S,21,65391,6085187,Marin,"Mill Valley Elementary","Mill Valley Middle","No ","Socioeconomically Disadvantaged",67,6,2,1,3,2,2,0,1,1
+2019-01-08,S,21,65391,1,Marin,"Mill Valley Elementary","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6024442,Marin,"Mill Valley Elementary","Old Mill Elementary","No ","Socioeconomically Disadvantaged",11,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6024459,Marin,"Mill Valley Elementary","Park Elementary","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6024467,Marin,"Mill Valley Elementary","Strawberry Point Elementary","No ","Socioeconomically Disadvantaged",23,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6024475,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary","No ","Socioeconomically Disadvantaged",30,1,1,1,3.3,0,0,0,0,1
+2019-01-08,S,21,65318,6024160,Marin,"Miller Creek Elementary","Lucas Valley Elementary","No ","Socioeconomically Disadvantaged",34,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65318,6024194,Marin,"Miller Creek Elementary","Mary E. Silveira Elementary","No ","Socioeconomically Disadvantaged",133,3,2,1,1.5,0,1,1,0,1
+2019-01-08,S,21,65318,6024202,Marin,"Miller Creek Elementary","Miller Creek Middle","No ","Socioeconomically Disadvantaged",147,23,14,1,9.5,4,11,0,4,1
+2019-01-08,S,21,65318,1,Marin,"Miller Creek Elementary","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65318,6024244,Marin,"Miller Creek Elementary","Vallecito Elementary","No ","Socioeconomically Disadvantaged",73,2,1,0,1.4,0,2,0,0,0
+2019-01-08,S,21,65409,6024483,Marin,Nicasio,Nicasio,"No ","Socioeconomically Disadvantaged",12,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park","No ","Socioeconomically Disadvantaged",465,11,11,2,2.4,0,6,2,0,2
+2019-01-08,S,21,65417,6024509,Marin,"Novato Unified","Loma Verde Elementary","No ","Socioeconomically Disadvantaged",210,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary","No ","Socioeconomically Disadvantaged",269,16,3,0,1.1,0,16,0,0,0
+2019-01-08,S,21,65417,6024525,Marin,"Novato Unified","Lynwood Elementary","No ","Socioeconomically Disadvantaged",207,2,1,1,0.5,0,0,0,0,2
+2019-01-08,S,21,65417,2132264,Marin,"Novato Unified","Marin Oaks High","No ","Socioeconomically Disadvantaged",79,8,6,1,7.6,1,3,0,3,1
+2019-01-08,S,21,65417,1,Marin,"Novato Unified","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center","No ","Socioeconomically Disadvantaged",28,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6113229,Marin,"Novato Unified","Novato Charter",Yes,"Socioeconomically Disadvantaged",28,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High","No ","Socioeconomically Disadvantaged",635,46,36,2,5.7,10,11,3,18,2
+2019-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary","No ","Socioeconomically Disadvantaged",165,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary","No ","Socioeconomically Disadvantaged",60,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024582,Marin,"Novato Unified","Rancho Elementary","No ","Socioeconomically Disadvantaged",115,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate","No ","Socioeconomically Disadvantaged",395,36,23,1,5.8,2,27,1,5,1
+2019-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High","No ","Socioeconomically Disadvantaged",363,15,11,0,3,2,1,0,12,0
+2019-01-08,S,21,65417,6024590,Marin,"Novato Unified","San Ramon Elementary","No ","Socioeconomically Disadvantaged",114,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle","No ","Socioeconomically Disadvantaged",297,19,11,1,3.7,0,10,2,5,2
+2019-01-08,S,21,65425,6024616,Marin,"Reed Union Elementary","Bel Aire Elementary","No ","Socioeconomically Disadvantaged",15,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65425,6024632,Marin,"Reed Union Elementary","Del Mar Middle","No ","Socioeconomically Disadvantaged",36,4,3,0,8.3,0,0,0,2,0
+2019-01-08,S,21,65425,6024657,Marin,"Reed Union Elementary","Reed Elementary","No ","Socioeconomically Disadvantaged",14,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65433,6024673,Marin,"Ross Elementary","Ross Elementary","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,75002,6024681,Marin,"Ross Valley Elementary","Brookside Elementary","No ","Socioeconomically Disadvantaged",31,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,75002,124578,Marin,"Ross Valley Elementary","Hidden Valley Elementary","No ","Socioeconomically Disadvantaged",29,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,75002,6024277,Marin,"Ross Valley Elementary","Manor Elementary","No ","Socioeconomically Disadvantaged",52,3,2,0,3.8,2,1,0,0,0
+2019-01-08,S,21,75002,1,Marin,"Ross Valley Elementary","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,75002,6024731,Marin,"Ross Valley Elementary","Wade Thomas Elementary","No ","Socioeconomically Disadvantaged",34,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,75002,6024285,Marin,"Ross Valley Elementary","White Hill Middle","No ","Socioeconomically Disadvantaged",104,2,2,0,1.9,0,1,0,1,0
+2019-01-08,S,21,65458,6024756,Marin,"San Rafael City Elementary","Bahia Vista Elementary","No ","Socioeconomically Disadvantaged",569,2,2,1,0.4,0,0,0,1,1
+2019-01-08,S,21,65458,6024764,Marin,"San Rafael City Elementary","Coleman Elementary","No ","Socioeconomically Disadvantaged",219,3,3,0,1.4,0,3,0,0,0
+2019-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary","No ","Socioeconomically Disadvantaged",76,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ","Socioeconomically Disadvantaged",833,26,22,0,2.6,0,12,0,14,0
+2019-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary","No ","Socioeconomically Disadvantaged",175,9,9,0,5.1,0,0,0,9,0
+2019-01-08,S,21,65458,1,Marin,"San Rafael City Elementary","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,136671,Marin,"San Rafael City Elementary","Old Gallinas","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6024830,Marin,"San Rafael City Elementary","San Pedro Elementary","No ","Socioeconomically Disadvantaged",554,3,2,1,0.4,0,2,0,0,1
+2019-01-08,S,21,65458,121517,Marin,"San Rafael City Elementary","Short Elementary","No ","Socioeconomically Disadvantaged",94,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6024863,Marin,"San Rafael City Elementary","Sun Valley Elementary","No ","Socioeconomically Disadvantaged",106,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ","Socioeconomically Disadvantaged",591,16,14,4,2.4,2,1,0,6,5
+2019-01-08,S,21,65466,2133254,Marin,"San Rafael City High","Madrone High Continuation","No ","Socioeconomically Disadvantaged",66,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65466,1,Marin,"San Rafael City High","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High","No ","Socioeconomically Disadvantaged",978,34,26,2,2.7,2,14,5,10,2
+2019-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High","No ","Socioeconomically Disadvantaged",627,11,8,3,1.3,0,3,0,3,4
+2019-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy","No ","Socioeconomically Disadvantaged",98,2,2,0,2,1,1,0,0,0
+2019-01-08,S,21,65474,6118491,Marin,"Sausalito Marin City","Willow Creek Academy Charter",Yes,"Socioeconomically Disadvantaged",183,5,4,0,2.2,5,0,0,0,0
+2019-01-08,S,21,77065,135350,Marin,"SBE - Ross Valley Elementary","Ross Valley Charter",Yes,"Socioeconomically Disadvantaged",58,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,73361,6051627,Marin,"Shoreline Unified","Bodega Bay Elementary","No ","Socioeconomically Disadvantaged",16,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,73361,6024947,Marin,"Shoreline Unified","Inverness Elementary","No ","Socioeconomically Disadvantaged",23,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary","No ","Socioeconomically Disadvantaged",96,4,3,2,3.1,0,0,0,2,2
+2019-01-08,S,21,73361,2134310,Marin,"Shoreline Unified","Tomales High","No ","Socioeconomically Disadvantaged",117,15,13,3,11.1,3,0,0,9,3
+2019-01-08,S,21,73361,6024954,Marin,"Shoreline Unified","West Marin Elementary","No ","Socioeconomically Disadvantaged",102,1,1,0,1,0,1,0,0,0
+2019-01-08,S,21,65482,1,Marin,"Tamalpais Union High","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High","No ","Socioeconomically Disadvantaged",243,5,5,1,2.1,1,2,0,1,1
+2019-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)","No ","Socioeconomically Disadvantaged",40,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65482,2131340,Marin,"Tamalpais Union High","Archie Williams High","No ","Socioeconomically Disadvantaged",211,4,3,0,1.4,0,1,0,3,0
+2019-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High","No ","Socioeconomically Disadvantaged",209,6,6,0,2.9,1,0,0,3,0
+2019-01-08,S,21,65482,2130078,Marin,"Tamalpais Union High","Tamiscal High (Alternative)","No ","Socioeconomically Disadvantaged",22,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,1,Marin,"Marin County Office of Education","Nonpublic, Nonsectarian Schools",All,"Socioeconomically Disadvantaged",42,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,2130037,Marin,"Marin County Office of Education","Marin's Community",All,"Socioeconomically Disadvantaged",100,68,30,13,30,2,16,2,21,27
+2018-01-08,S,21,10215,113183,Marin,"Marin County Office of Education","Marin County Juvenile Court","No ","Socioeconomically Disadvantaged",97,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,1,Marin,"Marin County Office of Education","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",42,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,2130102,Marin,"Marin County Office of Education","Phoenix Academy",All,"Socioeconomically Disadvantaged",20,6,5,2,25,0,1,0,3,2
+2018-01-08,S,21,10215,2130102,Marin,"Marin County Office of Education","Phoenix Academy",Yes,"Socioeconomically Disadvantaged",20,6,5,2,25,0,1,0,3,2
+2018-01-08,S,21,10215,2130037,Marin,"Marin County Office of Education","Marin's Community","No ","Socioeconomically Disadvantaged",100,68,30,13,30,2,16,2,21,27
+2018-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education",All,"Socioeconomically Disadvantaged",59,9,4,0,6.8,3,5,0,0,0
+2018-01-08,S,21,10215,113183,Marin,"Marin County Office of Education","Marin County Juvenile Court",All,"Socioeconomically Disadvantaged",97,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education","No ","Socioeconomically Disadvantaged",59,9,4,0,6.8,3,5,0,0,0
+2018-01-08,S,21,65300,6024137,Marin,"Bolinas-Stinson Union","Bolinas-Stinson Elementary",All,"Socioeconomically Disadvantaged",38,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65300,6024137,Marin,"Bolinas-Stinson Union","Bolinas-Stinson Elementary","No ","Socioeconomically Disadvantaged",38,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024194,Marin,"Dixie Elementary","Mary E. Silveira Elementary","No ","Socioeconomically Disadvantaged",121,3,3,1,2.5,0,1,1,0,1
+2018-01-08,S,21,65318,6024202,Marin,"Dixie Elementary","Miller Creek Middle","No ","Socioeconomically Disadvantaged",125,21,13,3,10.4,2,13,0,1,5
+2018-01-08,S,21,65318,6024160,Marin,"Dixie Elementary","Dixie Elementary","No ","Socioeconomically Disadvantaged",45,20,6,6,13.3,1,0,0,0,18
+2018-01-08,S,21,65318,6024244,Marin,"Dixie Elementary","Vallecito Elementary",All,"Socioeconomically Disadvantaged",71,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,1,Marin,"Dixie Elementary","Nonpublic, Nonsectarian Schools",All,"Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,1,Marin,"Dixie Elementary","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024202,Marin,"Dixie Elementary","Miller Creek Middle",All,"Socioeconomically Disadvantaged",125,21,13,3,10.4,2,13,0,1,5
+2018-01-08,S,21,65318,6024160,Marin,"Dixie Elementary","Dixie Elementary",All,"Socioeconomically Disadvantaged",45,20,6,6,13.3,1,0,0,0,18
+2018-01-08,S,21,65318,6024194,Marin,"Dixie Elementary","Mary E. Silveira Elementary",All,"Socioeconomically Disadvantaged",121,3,3,1,2.5,0,1,1,0,1
+2018-01-08,S,21,65318,6024244,Marin,"Dixie Elementary","Vallecito Elementary","No ","Socioeconomically Disadvantaged",71,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle",All,"Socioeconomically Disadvantaged",60,7,6,0,10,0,3,0,0,0
+2018-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle","No ","Socioeconomically Disadvantaged",60,7,6,0,10,0,3,0,0,0
+2018-01-08,S,21,65334,6024319,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary","No ","Socioeconomically Disadvantaged",70,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65334,6024319,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary",All,"Socioeconomically Disadvantaged",70,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65342,6024327,Marin,"Laguna Joint Elementary","Laguna Elementary",All,"Socioeconomically Disadvantaged",14,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65342,6024327,Marin,"Laguna Joint Elementary","Laguna Elementary","No ","Socioeconomically Disadvantaged",14,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65342,1,Marin,"Laguna Joint Elementary","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65342,1,Marin,"Laguna Joint Elementary","Nonpublic, Nonsectarian Schools",All,"Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65359,6024335,Marin,"Lagunitas Elementary","Lagunitas Elementary","No ","Socioeconomically Disadvantaged",19,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65359,6024343,Marin,"Lagunitas Elementary","San Geronimo Valley Elementary","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65359,6024343,Marin,"Lagunitas Elementary","San Geronimo Valley Elementary",All,"Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65359,6024335,Marin,"Lagunitas Elementary","Lagunitas Elementary",All,"Socioeconomically Disadvantaged",19,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65367,6024350,Marin,"Larkspur-Corte Madera","Hall Middle",All,"Socioeconomically Disadvantaged",70,3,3,0,4.3,0,0,0,1,0
+2018-01-08,S,21,65367,129148,Marin,"Larkspur-Corte Madera",Cove,All,"Socioeconomically Disadvantaged",61,6,4,1,6.6,1,4,0,0,1
+2018-01-08,S,21,65367,6024350,Marin,"Larkspur-Corte Madera","Hall Middle","No ","Socioeconomically Disadvantaged",70,3,3,0,4.3,0,0,0,1,0
+2018-01-08,S,21,65367,6024376,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary","No ","Socioeconomically Disadvantaged",56,7,2,0,3.6,4,3,0,0,0
+2018-01-08,S,21,65367,129148,Marin,"Larkspur-Corte Madera",Cove,"No ","Socioeconomically Disadvantaged",61,6,4,1,6.6,1,4,0,0,1
+2018-01-08,S,21,65367,6024376,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary",All,"Socioeconomically Disadvantaged",56,7,2,0,3.6,4,3,0,0,0
+2018-01-08,S,21,65391,6024459,Marin,"Mill Valley Elementary","Park Elementary",All,"Socioeconomically Disadvantaged",11,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,1,Marin,"Mill Valley Elementary","Nonpublic, Nonsectarian Schools",All,"Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024467,Marin,"Mill Valley Elementary","Strawberry Point Elementary","No ","Socioeconomically Disadvantaged",39,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024475,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary",All,"Socioeconomically Disadvantaged",20,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024475,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary","No ","Socioeconomically Disadvantaged",20,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024442,Marin,"Mill Valley Elementary","Old Mill Elementary",All,"Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6085187,Marin,"Mill Valley Elementary","Mill Valley Middle",All,"Socioeconomically Disadvantaged",77,6,5,1,6.5,0,1,0,3,2
+2018-01-08,S,21,65391,6024418,Marin,"Mill Valley Elementary","Edna Maguire Elementary","No ","Socioeconomically Disadvantaged",52,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,1,Marin,"Mill Valley Elementary","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024467,Marin,"Mill Valley Elementary","Strawberry Point Elementary",All,"Socioeconomically Disadvantaged",39,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6085187,Marin,"Mill Valley Elementary","Mill Valley Middle","No ","Socioeconomically Disadvantaged",77,6,5,1,6.5,0,1,0,3,2
+2018-01-08,S,21,65391,6024418,Marin,"Mill Valley Elementary","Edna Maguire Elementary",All,"Socioeconomically Disadvantaged",52,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024442,Marin,"Mill Valley Elementary","Old Mill Elementary","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024459,Marin,"Mill Valley Elementary","Park Elementary","No ","Socioeconomically Disadvantaged",11,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65409,6024483,Marin,Nicasio,Nicasio,"No ","Socioeconomically Disadvantaged",11,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65409,6024483,Marin,Nicasio,Nicasio,All,"Socioeconomically Disadvantaged",11,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary",All,"Socioeconomically Disadvantaged",158,1,1,0,0.6,1,0,0,0,0
+2018-01-08,S,21,65417,2132264,Marin,"Novato Unified","Marin Oaks High",All,"Socioeconomically Disadvantaged",87,6,6,3,6.9,0,1,0,2,3
+2018-01-08,S,21,65417,6024590,Marin,"Novato Unified","San Ramon Elementary",All,"Socioeconomically Disadvantaged",96,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary","No ","Socioeconomically Disadvantaged",247,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High","No ","Socioeconomically Disadvantaged",348,31,24,3,6.9,8,5,0,12,4
+2018-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate","No ","Socioeconomically Disadvantaged",363,51,33,2,9.1,3,32,1,12,2
+2018-01-08,S,21,65417,6113229,Marin,"Novato Unified","Novato Charter",All,"Socioeconomically Disadvantaged",33,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle",All,"Socioeconomically Disadvantaged",274,14,9,0,3.3,0,10,0,4,0
+2018-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary","No ","Socioeconomically Disadvantaged",158,1,1,0,0.6,1,0,0,0,0
+2018-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate",All,"Socioeconomically Disadvantaged",363,51,33,2,9.1,3,32,1,12,2
+2018-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High",All,"Socioeconomically Disadvantaged",605,49,34,1,5.6,3,18,1,24,1
+2018-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary",All,"Socioeconomically Disadvantaged",247,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary","No ","Socioeconomically Disadvantaged",51,1,1,0,2,0,0,0,0,0
+2018-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High","No ","Socioeconomically Disadvantaged",605,49,34,1,5.6,3,18,1,24,1
+2018-01-08,S,21,65417,6024525,Marin,"Novato Unified","Lynwood Elementary",All,"Socioeconomically Disadvantaged",221,5,2,0,0.9,0,4,0,0,0
+2018-01-08,S,21,65417,1,Marin,"Novato Unified","Nonpublic, Nonsectarian Schools",All,"Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024590,Marin,"Novato Unified","San Ramon Elementary","No ","Socioeconomically Disadvantaged",96,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High",All,"Socioeconomically Disadvantaged",348,31,24,3,6.9,8,5,0,12,4
+2018-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle","No ","Socioeconomically Disadvantaged",274,14,9,0,3.3,0,10,0,4,0
+2018-01-08,S,21,65417,6024509,Marin,"Novato Unified","Loma Verde Elementary",All,"Socioeconomically Disadvantaged",213,3,1,0,0.5,0,3,0,0,0
+2018-01-08,S,21,65417,6024509,Marin,"Novato Unified","Loma Verde Elementary","No ","Socioeconomically Disadvantaged",213,3,1,0,0.5,0,3,0,0,0
+2018-01-08,S,21,65417,2132264,Marin,"Novato Unified","Marin Oaks High","No ","Socioeconomically Disadvantaged",87,6,6,3,6.9,0,1,0,2,3
+2018-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary",All,"Socioeconomically Disadvantaged",51,1,1,0,2,0,0,0,0,0
+2018-01-08,S,21,65417,1,Marin,"Novato Unified","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024582,Marin,"Novato Unified","Rancho Elementary","No ","Socioeconomically Disadvantaged",111,3,3,0,2.7,0,3,0,0,0
+2018-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center",All,"Socioeconomically Disadvantaged",35,1,1,0,2.9,1,0,0,0,0
+2018-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park",All,"Socioeconomically Disadvantaged",473,15,13,2,2.7,1,12,0,0,2
+2018-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center","No ","Socioeconomically Disadvantaged",35,1,1,0,2.9,1,0,0,0,0
+2018-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park","No ","Socioeconomically Disadvantaged",473,15,13,2,2.7,1,12,0,0,2
+2018-01-08,S,21,65417,6113229,Marin,"Novato Unified","Novato Charter",Yes,"Socioeconomically Disadvantaged",33,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024525,Marin,"Novato Unified","Lynwood Elementary","No ","Socioeconomically Disadvantaged",221,5,2,0,0.9,0,4,0,0,0
+2018-01-08,S,21,65417,6024582,Marin,"Novato Unified","Rancho Elementary",All,"Socioeconomically Disadvantaged",111,3,3,0,2.7,0,3,0,0,0
+2018-01-08,S,21,65425,6024616,Marin,"Reed Union Elementary","Bel Aire Elementary","No ","Socioeconomically Disadvantaged",26,1,1,0,3.8,0,0,1,0,0
+2018-01-08,S,21,65425,6024632,Marin,"Reed Union Elementary","Del Mar Middle",All,"Socioeconomically Disadvantaged",36,5,4,0,11.1,0,5,0,0,0
+2018-01-08,S,21,65425,6024632,Marin,"Reed Union Elementary","Del Mar Middle","No ","Socioeconomically Disadvantaged",36,5,4,0,11.1,0,5,0,0,0
+2018-01-08,S,21,65425,6024657,Marin,"Reed Union Elementary","Reed Elementary","No ","Socioeconomically Disadvantaged",21,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65425,6024657,Marin,"Reed Union Elementary","Reed Elementary",All,"Socioeconomically Disadvantaged",21,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65425,6024616,Marin,"Reed Union Elementary","Bel Aire Elementary",All,"Socioeconomically Disadvantaged",26,1,1,0,3.8,0,0,1,0,0
+2018-01-08,S,21,65433,6024673,Marin,"Ross Elementary","Ross Elementary",All,"Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65433,6024673,Marin,"Ross Elementary","Ross Elementary","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,1,Marin,"San Rafael City Elementary","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024830,Marin,"San Rafael City Elementary","San Pedro Elementary",All,"Socioeconomically Disadvantaged",546,4,3,0,0.5,3,1,0,0,0
+2018-01-08,S,21,65458,6024756,Marin,"San Rafael City Elementary","Bahia Vista Elementary","No ","Socioeconomically Disadvantaged",578,9,5,1,0.9,5,2,0,0,1
+2018-01-08,S,21,65458,6024830,Marin,"San Rafael City Elementary","San Pedro Elementary","No ","Socioeconomically Disadvantaged",546,4,3,0,0.5,3,1,0,0,0
+2018-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8",All,"Socioeconomically Disadvantaged",569,17,15,1,2.6,0,4,2,9,1
+2018-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary","No ","Socioeconomically Disadvantaged",80,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,121517,Marin,"San Rafael City Elementary","Short Elementary",All,"Socioeconomically Disadvantaged",153,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary",All,"Socioeconomically Disadvantaged",80,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024764,Marin,"San Rafael City Elementary","Coleman Elementary",All,"Socioeconomically Disadvantaged",226,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ","Socioeconomically Disadvantaged",569,17,15,1,2.6,0,4,2,9,1
+2018-01-08,S,21,65458,6024764,Marin,"San Rafael City Elementary","Coleman Elementary","No ","Socioeconomically Disadvantaged",226,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024863,Marin,"San Rafael City Elementary","Sun Valley Elementary",All,"Socioeconomically Disadvantaged",100,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary","No ","Socioeconomically Disadvantaged",183,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle",All,"Socioeconomically Disadvantaged",846,78,53,8,6.3,5,32,1,22,12
+2018-01-08,S,21,65458,121517,Marin,"San Rafael City Elementary","Short Elementary","No ","Socioeconomically Disadvantaged",153,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary",All,"Socioeconomically Disadvantaged",183,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024756,Marin,"San Rafael City Elementary","Bahia Vista Elementary",All,"Socioeconomically Disadvantaged",578,9,5,1,0.9,5,2,0,0,1
+2018-01-08,S,21,65458,6024863,Marin,"San Rafael City Elementary","Sun Valley Elementary","No ","Socioeconomically Disadvantaged",100,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ","Socioeconomically Disadvantaged",846,78,53,8,6.3,5,32,1,22,12
+2018-01-08,S,21,65458,1,Marin,"San Rafael City Elementary","Nonpublic, Nonsectarian Schools",All,"Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,1,Marin,"San Rafael City High","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,1,Marin,"San Rafael City High","Nonpublic, Nonsectarian Schools",All,"Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High",All,"Socioeconomically Disadvantaged",610,31,26,1,4.3,0,12,1,16,1
+2018-01-08,S,21,65466,2133254,Marin,"San Rafael City High","Madrone High Continuation","No ","Socioeconomically Disadvantaged",59,13,11,3,18.6,2,7,0,1,3
+2018-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High","No ","Socioeconomically Disadvantaged",610,31,26,1,4.3,0,12,1,16,1
+2018-01-08,S,21,65466,2133254,Marin,"San Rafael City High","Madrone High Continuation",All,"Socioeconomically Disadvantaged",59,13,11,3,18.6,2,7,0,1,3
+2018-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High","No ","Socioeconomically Disadvantaged",921,109,77,16,8.4,18,45,2,24,18
+2018-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High",All,"Socioeconomically Disadvantaged",921,109,77,16,8.4,18,45,2,24,18
+2018-01-08,S,21,65474,6118491,Marin,"Sausalito Marin City","Willow Creek Academy",All,"Socioeconomically Disadvantaged",180,11,10,3,5.6,2,3,0,3,3
+2018-01-08,S,21,65474,6118491,Marin,"Sausalito Marin City","Willow Creek Academy",Yes,"Socioeconomically Disadvantaged",180,11,10,3,5.6,2,3,0,3,3
+2018-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy",All,"Socioeconomically Disadvantaged",112,10,9,6,8,1,3,0,0,6
+2018-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy","No ","Socioeconomically Disadvantaged",112,10,9,6,8,1,3,0,0,6
+2018-01-08,S,21,65482,2131340,Marin,"Tamalpais Union High","Archie Williams High","No ","Socioeconomically Disadvantaged",170,8,8,0,4.7,2,4,0,2,0
+2018-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High","No ","Socioeconomically Disadvantaged",192,23,14,2,7.3,1,5,0,12,4
+2018-01-08,S,21,65482,1,Marin,"Tamalpais Union High","Nonpublic, Nonsectarian Schools",All,"Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2130078,Marin,"Tamalpais Union High","Tamiscal High (Alternative)",All,"Socioeconomically Disadvantaged",13,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High","No ","Socioeconomically Disadvantaged",199,13,12,1,6,0,4,1,6,1
+2018-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)","No ","Socioeconomically Disadvantaged",50,2,2,0,4,1,1,0,0,0
+2018-01-08,S,21,65482,2131340,Marin,"Tamalpais Union High","Archie Williams High",All,"Socioeconomically Disadvantaged",170,8,8,0,4.7,2,4,0,2,0
+2018-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High",All,"Socioeconomically Disadvantaged",199,13,12,1,6,0,4,1,6,1
+2018-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)",All,"Socioeconomically Disadvantaged",50,2,2,0,4,1,1,0,0,0
+2018-01-08,S,21,65482,1,Marin,"Tamalpais Union High","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High",All,"Socioeconomically Disadvantaged",192,23,14,2,7.3,1,5,0,12,4
+2018-01-08,S,21,65482,2130078,Marin,"Tamalpais Union High","Tamiscal High (Alternative)","No ","Socioeconomically Disadvantaged",13,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,6024947,Marin,"Shoreline Unified","Inverness Elementary",All,"Socioeconomically Disadvantaged",19,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary","No ","Socioeconomically Disadvantaged",115,9,4,1,3.5,7,1,0,0,1
+2018-01-08,S,21,73361,2134310,Marin,"Shoreline Unified","Tomales High","No ","Socioeconomically Disadvantaged",114,14,12,6,10.5,2,1,0,5,6
+2018-01-08,S,21,73361,6024954,Marin,"Shoreline Unified","West Marin Elementary","No ","Socioeconomically Disadvantaged",103,2,2,0,1.9,2,0,0,0,0
+2018-01-08,S,21,73361,6024954,Marin,"Shoreline Unified","West Marin Elementary",All,"Socioeconomically Disadvantaged",103,2,2,0,1.9,2,0,0,0,0
+2018-01-08,S,21,73361,6051627,Marin,"Shoreline Unified","Bodega Bay Elementary",All,"Socioeconomically Disadvantaged",20,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,2134310,Marin,"Shoreline Unified","Tomales High",All,"Socioeconomically Disadvantaged",114,14,12,6,10.5,2,1,0,5,6
+2018-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary",All,"Socioeconomically Disadvantaged",115,9,4,1,3.5,7,1,0,0,1
+2018-01-08,S,21,73361,6024947,Marin,"Shoreline Unified","Inverness Elementary","No ","Socioeconomically Disadvantaged",19,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,6051627,Marin,"Shoreline Unified","Bodega Bay Elementary","No ","Socioeconomically Disadvantaged",20,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024731,Marin,"Ross Valley Elementary","Wade Thomas Elementary","No ","Socioeconomically Disadvantaged",32,1,1,0,3.1,1,0,0,0,0
+2018-01-08,S,21,75002,1,Marin,"Ross Valley Elementary","Nonpublic, Nonsectarian Schools",All,"Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024285,Marin,"Ross Valley Elementary","White Hill Middle","No ","Socioeconomically Disadvantaged",108,10,10,0,9.3,1,4,1,4,0
+2018-01-08,S,21,75002,6024681,Marin,"Ross Valley Elementary","Brookside Elementary","No ","Socioeconomically Disadvantaged",30,6,1,0,3.3,0,4,0,0,0
+2018-01-08,S,21,75002,6024681,Marin,"Ross Valley Elementary","Brookside Elementary",All,"Socioeconomically Disadvantaged",30,6,1,0,3.3,0,4,0,0,0
+2018-01-08,S,21,75002,124578,Marin,"Ross Valley Elementary","Hidden Valley Elementary",All,"Socioeconomically Disadvantaged",26,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024285,Marin,"Ross Valley Elementary","White Hill Middle",All,"Socioeconomically Disadvantaged",108,10,10,0,9.3,1,4,1,4,0
+2018-01-08,S,21,75002,6024277,Marin,"Ross Valley Elementary","Manor Elementary",All,"Socioeconomically Disadvantaged",55,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024277,Marin,"Ross Valley Elementary","Manor Elementary","No ","Socioeconomically Disadvantaged",55,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024731,Marin,"Ross Valley Elementary","Wade Thomas Elementary",All,"Socioeconomically Disadvantaged",32,1,1,0,3.1,1,0,0,0,0
+2018-01-08,S,21,75002,1,Marin,"Ross Valley Elementary","Nonpublic, Nonsectarian Schools","No ","Socioeconomically Disadvantaged",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,124578,Marin,"Ross Valley Elementary","Hidden Valley Elementary","No ","Socioeconomically Disadvantaged",26,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,77065,135350,Marin,"SBE - Ross Valley Elementary","Ross Valley Charter",Yes,"Socioeconomically Disadvantaged",54,2,1,0,1.9,1,1,0,0,0
+2018-01-08,S,21,77065,135350,Marin,"SBE - Ross Valley Elementary","Ross Valley Charter",All,"Socioeconomically Disadvantaged",54,2,1,0,1.9,1,1,0,0,0

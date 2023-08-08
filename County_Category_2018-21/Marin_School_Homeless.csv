@@ -1,0 +1,208 @@
+AcademicYear,AggregateLevel,CountyCode,DistrictCode,SchoolCode,CountyName,DistrictName,SchoolName,CharterYN,ReportingCategory,CumulativeEnrollment,TotalSuspensions,TotalSusStudents,TotalDefiance,SuspensionRate,SuspensionViolent_Injury,NonInjury_Violent_Suspension,Weapon_possession_suspension,Drug_Suspensino_Defiance,Other_Suspension_Reason
+2021-01-08,S,21,,,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary","No ",Homeless,18,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Miller Creek Elementary","Mary E. Silveira Elementary","No ",Homeless,15,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Miller Creek Elementary","Miller Creek Middle","No ",Homeless,20,4,2,0,10,0,1,0,3,0
+2021-01-08,S,21,,,Marin,"Miller Creek Elementary","Vallecito Elementary","No ",Homeless,16,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Hamilton Meadow Park","No ",Homeless,37,1,1,0,2.7,0,1,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","San Jose Intermediate","No ",Homeless,22,1,1,0,4.5,1,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Sinaloa Middle","No ",Homeless,16,1,1,0,6.3,0,1,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Bahia Vista Elementary","No ",Homeless,208,3,3,0,1.4,0,2,1,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Coleman Elementary","No ",Homeless,55,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Glenwood Elementary","No ",Homeless,14,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ",Homeless,317,19,14,0,4.4,3,14,1,1,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Laurel Dell Elementary","No ",Homeless,49,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","San Pedro Elementary","No ",Homeless,153,4,3,1,2,0,2,0,0,1
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Sun Valley Elementary","No ",Homeless,20,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ",Homeless,148,4,3,0,2,1,3,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City High","Madrone High Continuation","No ",Homeless,43,9,5,0,11.6,4,3,0,2,0
+2021-01-08,S,21,,,Marin,"San Rafael City High","San Rafael High","No ",Homeless,314,38,29,2,9.2,8,20,1,6,2
+2021-01-08,S,21,,,Marin,"San Rafael City High","Terra Linda High","No ",Homeless,162,24,19,5,11.7,7,8,0,4,5
+2020-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65334,6024319,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary","No ",Homeless,11,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65367,6024350,Marin,"Larkspur-Corte Madera","Hall Middle","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65367,6024376,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,10215,2130037,Marin,"Marin County Office of Education","Marin's Community","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,10215,2130102,Marin,"Marin County Office of Education","Phoenix Academy",Yes,Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6085187,Marin,"Mill Valley Elementary","Mill Valley Middle","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024459,Marin,"Mill Valley Elementary","Park Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024194,Marin,"Miller Creek Elementary","Mary E. Silveira Elementary","No ",Homeless,11,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024202,Marin,"Miller Creek Elementary","Miller Creek Middle","No ",Homeless,20,1,1,0,5,0,1,0,0,0
+2020-01-08,S,21,65318,6024244,Marin,"Miller Creek Elementary","Vallecito Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park","No ",Homeless,45,1,1,0,2.2,0,1,0,0,0
+2020-01-08,S,21,65417,6024509,Marin,"Novato Unified","Loma Verde Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024525,Marin,"Novato Unified","Lynwood Elementary","No ",Homeless,13,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,2132264,Marin,"Novato Unified","Marin Oaks High","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,1,Marin,"Novato Unified","Nonpublic, Nonsectarian Schools","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary","No ",Homeless,13,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate","No ",Homeless,33,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024590,Marin,"Novato Unified","San Ramon Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle","No ",Homeless,22,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,6024285,Marin,"Ross Valley Elementary","White Hill Middle","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024756,Marin,"San Rafael City Elementary","Bahia Vista Elementary","No ",Homeless,224,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024764,Marin,"San Rafael City Elementary","Coleman Elementary","No ",Homeless,106,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary","No ",Homeless,17,1,1,0,5.9,0,0,0,1,0
+2020-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ",Homeless,338,2,2,0,0.6,0,1,0,0,0
+2020-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary","No ",Homeless,45,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,1,Marin,"San Rafael City Elementary","Nonpublic, Nonsectarian Schools","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024830,Marin,"San Rafael City Elementary","San Pedro Elementary","No ",Homeless,136,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024863,Marin,"San Rafael City Elementary","Sun Valley Elementary","No ",Homeless,24,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ",Homeless,118,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65466,2133254,Marin,"San Rafael City High","Madrone High Continuation","No ",Homeless,30,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High","No ",Homeless,209,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High","No ",Homeless,98,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65474,6118491,Marin,"Sausalito Marin City","Willow Creek Academy Charter",Yes,Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,2134310,Marin,"Shoreline Unified","Tomales High","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,2131340,Marin,"Tamalpais Union High","Archie Williams High","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65334,6024319,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65359,6024343,Marin,"Lagunitas Elementary","San Geronimo Valley Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65367,6024350,Marin,"Larkspur-Corte Madera","Hall Middle","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65367,6024376,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,10215,2130037,Marin,"Marin County Office of Education","Marin's Community","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65318,6024160,Marin,"Miller Creek Elementary","Lucas Valley Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65318,6024194,Marin,"Miller Creek Elementary","Mary E. Silveira Elementary","No ",Homeless,17,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65318,6024202,Marin,"Miller Creek Elementary","Miller Creek Middle","No ",Homeless,29,2,1,0,3.4,0,2,0,0,0
+2019-01-08,S,21,65318,6024244,Marin,"Miller Creek Elementary","Vallecito Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park","No ",Homeless,29,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024509,Marin,"Novato Unified","Loma Verde Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary","No ",Homeless,13,3,1,0,7.7,0,3,0,0,0
+2019-01-08,S,21,65417,6024525,Marin,"Novato Unified","Lynwood Elementary","No ",Homeless,17,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,2132264,Marin,"Novato Unified","Marin Oaks High","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High","No ",Homeless,21,5,4,0,19,1,1,2,1,0
+2019-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary","No ",Homeless,12,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024582,Marin,"Novato Unified","Rancho Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate","No ",Homeless,45,13,4,0,8.9,0,12,0,1,0
+2019-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High","No ",Homeless,11,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024590,Marin,"Novato Unified","San Ramon Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle","No ",Homeless,28,5,2,0,7.1,0,4,0,1,0
+2019-01-08,S,21,75002,6024681,Marin,"Ross Valley Elementary","Brookside Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,75002,6024277,Marin,"Ross Valley Elementary","Manor Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,75002,6024285,Marin,"Ross Valley Elementary","White Hill Middle","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6024756,Marin,"San Rafael City Elementary","Bahia Vista Elementary","No ",Homeless,152,1,1,0,0.7,0,0,0,1,0
+2019-01-08,S,21,65458,6024764,Marin,"San Rafael City Elementary","Coleman Elementary","No ",Homeless,24,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ",Homeless,270,6,4,0,1.5,0,4,0,2,0
+2019-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary","No ",Homeless,33,5,5,0,15.2,0,0,0,5,0
+2019-01-08,S,21,65458,1,Marin,"San Rafael City Elementary","Nonpublic, Nonsectarian Schools","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6024830,Marin,"San Rafael City Elementary","San Pedro Elementary","No ",Homeless,112,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,121517,Marin,"San Rafael City Elementary","Short Elementary","No ",Homeless,13,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6024863,Marin,"San Rafael City Elementary","Sun Valley Elementary","No ",Homeless,18,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ",Homeless,81,6,4,2,4.9,0,0,0,2,3
+2019-01-08,S,21,65466,2133254,Marin,"San Rafael City High","Madrone High Continuation","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High","No ",Homeless,229,8,7,1,3.1,0,5,1,1,1
+2019-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High","No ",Homeless,114,3,2,1,1.8,0,1,0,0,2
+2019-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65474,6118491,Marin,"Sausalito Marin City","Willow Creek Academy Charter",Yes,Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,77065,135350,Marin,"SBE - Ross Valley Elementary","Ross Valley Charter",Yes,Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,73361,2134310,Marin,"Shoreline Unified","Tomales High","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,2130102,Marin,"Marin County Office of Education","Phoenix Academy",Yes,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,2130037,Marin,"Marin County Office of Education","Marin's Community","No ",Homeless,11,12,8,5,72.7,0,4,0,3,5
+2018-01-08,S,21,10215,2130037,Marin,"Marin County Office of Education","Marin's Community",All,Homeless,11,12,8,5,72.7,0,4,0,3,5
+2018-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,2130102,Marin,"Marin County Office of Education","Phoenix Academy",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024244,Marin,"Dixie Elementary","Vallecito Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024160,Marin,"Dixie Elementary","Dixie Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024202,Marin,"Dixie Elementary","Miller Creek Middle",All,Homeless,16,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024244,Marin,"Dixie Elementary","Vallecito Elementary",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024160,Marin,"Dixie Elementary","Dixie Elementary",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024202,Marin,"Dixie Elementary","Miller Creek Middle","No ",Homeless,16,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024194,Marin,"Dixie Elementary","Mary E. Silveira Elementary","No ",Homeless,18,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024194,Marin,"Dixie Elementary","Mary E. Silveira Elementary",All,Homeless,18,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65334,6024319,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65334,6024319,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65367,6024350,Marin,"Larkspur-Corte Madera","Hall Middle","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65367,129148,Marin,"Larkspur-Corte Madera",Cove,"No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65367,6024376,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65367,6024350,Marin,"Larkspur-Corte Madera","Hall Middle",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65367,129148,Marin,"Larkspur-Corte Madera",Cove,All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65367,6024376,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6085187,Marin,"Mill Valley Elementary","Mill Valley Middle",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6085187,Marin,"Mill Valley Elementary","Mill Valley Middle","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024582,Marin,"Novato Unified","Rancho Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle","No ",Homeless,17,1,1,0,5.9,0,0,0,1,0
+2018-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024582,Marin,"Novato Unified","Rancho Elementary",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024525,Marin,"Novato Unified","Lynwood Elementary",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024590,Marin,"Novato Unified","San Ramon Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,2132264,Marin,"Novato Unified","Marin Oaks High","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park","No ",Homeless,33,1,1,0,3,0,1,0,0,0
+2018-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park",All,Homeless,33,1,1,0,3,0,1,0,0,0
+2018-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate","No ",Homeless,14,1,1,0,7.1,0,1,0,0,0
+2018-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle",All,Homeless,17,1,1,0,5.9,0,0,0,1,0
+2018-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024509,Marin,"Novato Unified","Loma Verde Elementary",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024590,Marin,"Novato Unified","San Ramon Elementary",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024525,Marin,"Novato Unified","Lynwood Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary","No ",Homeless,11,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary",All,Homeless,11,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate",All,Homeless,14,1,1,0,7.1,0,1,0,0,0
+2018-01-08,S,21,65417,2132264,Marin,"Novato Unified","Marin Oaks High",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024509,Marin,"Novato Unified","Loma Verde Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary",All,Homeless,29,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024830,Marin,"San Rafael City Elementary","San Pedro Elementary","No ",Homeless,138,1,1,0,0.7,1,0,0,0,0
+2018-01-08,S,21,65458,6024764,Marin,"San Rafael City Elementary","Coleman Elementary",All,Homeless,35,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ",Homeless,88,3,3,1,3.4,0,1,1,0,1
+2018-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle",All,Homeless,271,27,14,5,5.2,0,12,1,5,9
+2018-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary",All,Homeless,13,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,121517,Marin,"San Rafael City Elementary","Short Elementary",All,Homeless,31,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ",Homeless,271,27,14,5,5.2,0,12,1,5,9
+2018-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary","No ",Homeless,29,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8",All,Homeless,88,3,3,1,3.4,0,1,1,0,1
+2018-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary","No ",Homeless,13,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024830,Marin,"San Rafael City Elementary","San Pedro Elementary",All,Homeless,138,1,1,0,0.7,1,0,0,0,0
+2018-01-08,S,21,65458,6024756,Marin,"San Rafael City Elementary","Bahia Vista Elementary","No ",Homeless,182,5,2,0,1.1,3,2,0,0,0
+2018-01-08,S,21,65458,6024756,Marin,"San Rafael City Elementary","Bahia Vista Elementary",All,Homeless,182,5,2,0,1.1,3,2,0,0,0
+2018-01-08,S,21,65458,6024764,Marin,"San Rafael City Elementary","Coleman Elementary","No ",Homeless,35,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024863,Marin,"San Rafael City Elementary","Sun Valley Elementary",All,Homeless,13,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024863,Marin,"San Rafael City Elementary","Sun Valley Elementary","No ",Homeless,13,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,121517,Marin,"San Rafael City Elementary","Short Elementary","No ",Homeless,31,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High","No ",Homeless,86,3,3,0,3.5,0,2,0,1,0
+2018-01-08,S,21,65466,2133254,Marin,"San Rafael City High","Madrone High Continuation",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High",All,Homeless,141,19,12,0,8.5,7,7,0,5,0
+2018-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High","No ",Homeless,141,19,12,0,8.5,7,7,0,5,0
+2018-01-08,S,21,65466,2133254,Marin,"San Rafael City High","Madrone High Continuation","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High",All,Homeless,86,3,3,0,3.5,0,2,0,1,0
+2018-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy","No ",Homeless,13,1,1,0,7.7,0,1,0,0,0
+2018-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy",All,Homeless,13,1,1,0,7.7,0,1,0,0,0
+2018-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,2134310,Marin,"Shoreline Unified","Tomales High","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,2134310,Marin,"Shoreline Unified","Tomales High",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,6024954,Marin,"Shoreline Unified","West Marin Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,6024954,Marin,"Shoreline Unified","West Marin Elementary",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024285,Marin,"Ross Valley Elementary","White Hill Middle",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024285,Marin,"Ross Valley Elementary","White Hill Middle","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024277,Marin,"Ross Valley Elementary","Manor Elementary",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024277,Marin,"Ross Valley Elementary","Manor Elementary","No ",Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,77065,135350,Marin,"SBE - Ross Valley Elementary","Ross Valley Charter",All,Homeless,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,77065,135350,Marin,"SBE - Ross Valley Elementary","Ross Valley Charter",Yes,Homeless,0,0,0,0,0,0,0,0,0,0

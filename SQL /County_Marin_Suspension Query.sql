@@ -65,31 +65,7 @@ ORDER BY `AcademicYear`,`ReportingCategory`;
 
 SELECT * FROM County_Marin_Suspensions;
 
-#Changing from code to actual reporting category name for tableau export
-UPDATE `SusDataTotal`
-SET `ReportingCategory` = Case `Reportingcategory`
-	WHEN 'RB' THEN 'African American'
-    WHEN 'RI' THEN 'American Indian or Alaska Native'
-    WHEN 'RA' THEN 'Asian'
-    WHEN 'RF' THEN 'Filipino'
-    WHEN 'RD' THEN 'Not Reported'
-    WHEN 'RH' Then 'Hispanic or Latino'
-    WHEN 'RP' Then 'Pacific Islander'
-    WHEN 'RT' THEN 'Two or More Races'
-    WHEN 'RW' THEN 'White'
-    WHEN 'GM' THEN 'Male'
-    WHEN 'GF' THEN 'Female'
-    WHEN 'GX' THEN 'Non-Binary Gender'
-    WHEN 'GZ' THEN 'Missing Gender'
-    WHEN 'SE' THEN 'English Learners'
-    WHEN 'SD' THEN 'Studnets iwth Disabilities'
-    WHEN 'SS' THEN 'Socioeconomically Disadvantaged'
-    WHEN 'SM' THEN 'Migrant'
-    WHEN 'SF' THEN 'Foster'
-    WHEN 'SH' THEN 'Homeless'
-    WHEN 'TA' THEN 'Total'
-    ELSE ReportingCategory
-    END;
+
     
 CREATE VIEW District_Marin_Suspensions AS
 SELECT * FROM `SusDataTotal`
@@ -109,3 +85,38 @@ SELECT * FROM Schools_Marin_Suspensions;
 
 SELECT * FROM `SusDataTotal`
 ORDER BY `AcademicYear`;
+
+UPDATE `SusDataTotal`
+SET `ReportingCategory` = Case `Reportingcategory`
+	WHEN 'RB' THEN 'African American'
+    WHEN 'RI' THEN 'American Indian or Alaska Native'
+    WHEN 'RA' THEN 'Asian'
+    WHEN 'RF' THEN 'Filipino'
+    WHEN 'RD' THEN 'Not Reported'
+    WHEN 'RH' Then 'Hispanic or Latino'
+    WHEN 'RP' Then 'Pacific Islander'
+    WHEN 'RT' THEN 'Two or More Races'
+    WHEN 'RW' THEN 'White'
+    WHEN 'GM' THEN 'Male'
+    WHEN 'GF' THEN 'Female'
+    WHEN 'GX' THEN 'Non-Binary Gender'
+    WHEN 'GZ' THEN 'Missing Gender'
+    WHEN 'SE' THEN 'English Learners'
+    WHEN 'SD' THEN 'Students with Disabilities'
+    WHEN 'SS' THEN 'Socioeconomically Disadvantaged'
+    WHEN 'SM' THEN 'Migrant'
+    WHEN 'SF' THEN 'Foster'
+    WHEN 'SH' THEN 'Homeless'
+    WHEN 'TA' THEN 'Total'
+    ELSE ReportingCategory
+    END;
+
+UPDATE `SusDatatotal`
+SET `SchoolName` = 'Archie Williams High'
+WHERE `SchoolName` = 'Sir Francis Drake high';
+
+#I need to change the academic years to dates as well. 
+
+
+#I need to change Drake to Archie Willian for continuity August 8th
+#Changing from code to actual reporting category name for tableau export

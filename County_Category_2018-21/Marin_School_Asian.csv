@@ -1,0 +1,356 @@
+AcademicYear,AggregateLevel,CountyCode,DistrictCode,SchoolCode,CountyName,DistrictName,SchoolName,CharterYN,ReportingCategory,CumulativeEnrollment,TotalSuspensions,TotalSusStudents,TotalDefiance,SuspensionRate,SuspensionViolent_Injury,NonInjury_Violent_Suspension,Weapon_possession_suspension,Drug_Suspensino_Defiance,Other_Suspension_Reason
+2021-01-08,S,21,,,Marin,"Kentfield Elementary","Adaline E. Kent Middle","No ",Asian,26,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary","No ",Asian,11,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Larkspur-Corte Madera",Cove,"No ",Asian,26,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Larkspur-Corte Madera","Hall Middle","No ",Asian,20,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary","No ",Asian,17,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Marin County Office of Education","Marin County Special Education","No ",Asian,16,3,1,1,6.3,1,1,0,0,1
+2021-01-08,S,21,,,Marin,"Mill Valley Elementary","Edna Maguire Elementary","No ",Asian,31,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Mill Valley Elementary","Mill Valley Middle","No ",Asian,35,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Mill Valley Elementary","Strawberry Point Elementary","No ",Asian,19,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary","No ",Asian,12,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Miller Creek Elementary","Lucas Valley Elementary","No ",Asian,30,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Miller Creek Elementary","Mary E. Silveira Elementary","No ",Asian,24,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Miller Creek Elementary","Miller Creek Middle","No ",Asian,51,2,1,0,2,0,2,0,0,0
+2021-01-08,S,21,,,Marin,"Miller Creek Elementary","Vallecito Elementary","No ",Asian,29,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Hamilton Meadow Park","No ",Asian,20,2,2,0,10,1,0,0,1,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Loma Verde Elementary","No ",Asian,15,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Nova Education Center","No ",Asian,18,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Novato Charter",Yes,Asian,22,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Novato High","No ",Asian,79,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Olive Elementary","No ",Asian,17,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Rancho Elementary","No ",Asian,46,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","San Jose Intermediate","No ",Asian,47,1,1,0,2.1,1,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","San Marin High","No ",Asian,68,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","San Ramon Elementary","No ",Asian,25,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Sinaloa Middle","No ",Asian,36,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Reed Union Elementary","Bel Aire Elementary","No ",Asian,21,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Reed Union Elementary","Del Mar Middle","No ",Asian,27,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Reed Union Elementary","Reed Elementary","No ",Asian,19,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Ross Valley Elementary","Manor Elementary","No ",Asian,11,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Ross Valley Elementary","Wade Thomas Elementary","No ",Asian,22,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Ross Valley Elementary","White Hill Middle","No ",Asian,14,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Bahia Vista Elementary","No ",Asian,11,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Coleman Elementary","No ",Asian,12,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Glenwood Elementary","No ",Asian,11,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ",Asian,37,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Sun Valley Elementary","No ",Asian,21,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ",Asian,17,1,1,0,5.9,0,1,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City High","San Rafael High","No ",Asian,36,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City High","Terra Linda High","No ",Asian,65,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy","No ",Asian,35,1,1,0,2.9,1,0,0,0,0
+2021-01-08,S,21,,,Marin,"Tamalpais Union High","Archie Williams High","No ",Asian,30,1,1,0,3.3,1,0,0,0,0
+2021-01-08,S,21,,,Marin,"Tamalpais Union High","Redwood High","No ",Asian,106,1,1,0,0.9,0,1,0,0,0
+2021-01-08,S,21,,,Marin,"Tamalpais Union High","Tamalpais High","No ",Asian,91,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65300,6024137,Marin,"Bolinas-Stinson Union","Bolinas-Stinson Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle","No ",Asian,28,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65334,6024319,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary","No ",Asian,15,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65334,1,Marin,"Kentfield Elementary","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65342,6024327,Marin,"Laguna Joint Elementary","Laguna Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65359,6024335,Marin,"Lagunitas Elementary","Lagunitas Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65359,6024343,Marin,"Lagunitas Elementary","San Geronimo Valley Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65367,129148,Marin,"Larkspur-Corte Madera",Cove,"No ",Asian,31,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65367,6024350,Marin,"Larkspur-Corte Madera","Hall Middle","No ",Asian,26,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65367,6024376,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary","No ",Asian,26,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65367,1,Marin,"Larkspur-Corte Madera","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65375,6024392,Marin,"Lincoln Elementary","Lincoln Union Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,10215,113183,Marin,"Marin County Office of Education","Marin County Juvenile Court","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education","No ",Asian,15,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,10215,2130037,Marin,"Marin County Office of Education","Marin's Community","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,10215,1,Marin,"Marin County Office of Education","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,10215,2130102,Marin,"Marin County Office of Education","Phoenix Academy",Yes,Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024418,Marin,"Mill Valley Elementary","Edna Maguire Elementary","No ",Asian,30,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6085187,Marin,"Mill Valley Elementary","Mill Valley Middle","No ",Asian,47,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,1,Marin,"Mill Valley Elementary","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024442,Marin,"Mill Valley Elementary","Old Mill Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024459,Marin,"Mill Valley Elementary","Park Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024467,Marin,"Mill Valley Elementary","Strawberry Point Elementary","No ",Asian,17,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024475,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary","No ",Asian,13,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024160,Marin,"Miller Creek Elementary","Lucas Valley Elementary","No ",Asian,45,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024194,Marin,"Miller Creek Elementary","Mary E. Silveira Elementary","No ",Asian,31,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024202,Marin,"Miller Creek Elementary","Miller Creek Middle","No ",Asian,52,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,1,Marin,"Miller Creek Elementary","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024244,Marin,"Miller Creek Elementary","Vallecito Elementary","No ",Asian,34,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65409,6024483,Marin,Nicasio,Nicasio,"No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park","No ",Asian,25,1,1,0,4,1,0,0,0,0
+2020-01-08,S,21,65417,6024509,Marin,"Novato Unified","Loma Verde Elementary","No ",Asian,17,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary","No ",Asian,11,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024525,Marin,"Novato Unified","Lynwood Elementary","No ",Asian,12,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,2132264,Marin,"Novato Unified","Marin Oaks High","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,1,Marin,"Novato Unified","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6113229,Marin,"Novato Unified","Novato Charter",Yes,Asian,17,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High","No ",Asian,78,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary","No ",Asian,13,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024582,Marin,"Novato Unified","Rancho Elementary","No ",Asian,56,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate","No ",Asian,45,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High","No ",Asian,55,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024590,Marin,"Novato Unified","San Ramon Elementary","No ",Asian,32,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle","No ",Asian,44,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65425,6024616,Marin,"Reed Union Elementary","Bel Aire Elementary","No ",Asian,19,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65425,6024632,Marin,"Reed Union Elementary","Del Mar Middle","No ",Asian,38,6,2,0,5.3,1,4,0,1,0
+2020-01-08,S,21,65425,1,Marin,"Reed Union Elementary","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65425,6024657,Marin,"Reed Union Elementary","Reed Elementary","No ",Asian,22,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65433,6024673,Marin,"Ross Elementary","Ross Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,6024681,Marin,"Ross Valley Elementary","Brookside Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,124578,Marin,"Ross Valley Elementary","Hidden Valley Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,6024277,Marin,"Ross Valley Elementary","Manor Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,1,Marin,"Ross Valley Elementary","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,6024731,Marin,"Ross Valley Elementary","Wade Thomas Elementary","No ",Asian,19,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,6024285,Marin,"Ross Valley Elementary","White Hill Middle","No ",Asian,20,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024756,Marin,"San Rafael City Elementary","Bahia Vista Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024764,Marin,"San Rafael City Elementary","Coleman Elementary","No ",Asian,27,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary","No ",Asian,12,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ",Asian,42,1,1,0,2.4,0,1,0,0,0
+2020-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,1,Marin,"San Rafael City Elementary","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024830,Marin,"San Rafael City Elementary","San Pedro Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024863,Marin,"San Rafael City Elementary","Sun Valley Elementary","No ",Asian,15,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ",Asian,17,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65466,2133254,Marin,"San Rafael City High","Madrone High Continuation","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65466,1,Marin,"San Rafael City High","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High","No ",Asian,46,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High","No ",Asian,72,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65474,6118491,Marin,"Sausalito Marin City","Willow Creek Academy Charter",Yes,Asian,36,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,77065,135350,Marin,"SBE - Ross Valley Elementary","Ross Valley Charter",Yes,Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,6051627,Marin,"Shoreline Unified","Bodega Bay Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,6024947,Marin,"Shoreline Unified","Inverness Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,1,Marin,"Shoreline Unified","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,2134310,Marin,"Shoreline Unified","Tomales High","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,6024954,Marin,"Shoreline Unified","West Marin Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,1,Marin,"Tamalpais Union High","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High","No ",Asian,99,2,1,0,1,0,2,0,0,0
+2020-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,2131340,Marin,"Tamalpais Union High","Archie Williams High","No ",Asian,37,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High","No ",Asian,95,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,2130078,Marin,"Tamalpais Union High","Tamiscal High (Alternative)","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65300,6024137,Marin,"Bolinas-Stinson Union","Bolinas-Stinson Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle","No ",Asian,23,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65334,6024319,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary","No ",Asian,23,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65334,1,Marin,"Kentfield Elementary","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65342,6024327,Marin,"Laguna Joint Elementary","Laguna Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65359,6024335,Marin,"Lagunitas Elementary","Lagunitas Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65359,1,Marin,"Lagunitas Elementary","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65359,6024343,Marin,"Lagunitas Elementary","San Geronimo Valley Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65367,129148,Marin,"Larkspur-Corte Madera",Cove,"No ",Asian,26,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65367,6024350,Marin,"Larkspur-Corte Madera","Hall Middle","No ",Asian,37,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65367,6024376,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary","No ",Asian,32,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65367,1,Marin,"Larkspur-Corte Madera","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65375,6024392,Marin,"Lincoln Elementary","Lincoln Union Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,10215,113183,Marin,"Marin County Office of Education","Marin County Juvenile Court","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education","No ",Asian,17,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,10215,2130037,Marin,"Marin County Office of Education","Marin's Community","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,10215,1,Marin,"Marin County Office of Education","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,10215,2130102,Marin,"Marin County Office of Education","Phoenix Academy",Yes,Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6024418,Marin,"Mill Valley Elementary","Edna Maguire Elementary","No ",Asian,32,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6085187,Marin,"Mill Valley Elementary","Mill Valley Middle","No ",Asian,50,2,2,1,4,0,0,0,1,1
+2019-01-08,S,21,65391,1,Marin,"Mill Valley Elementary","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6024442,Marin,"Mill Valley Elementary","Old Mill Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6024459,Marin,"Mill Valley Elementary","Park Elementary","No ",Asian,12,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6024467,Marin,"Mill Valley Elementary","Strawberry Point Elementary","No ",Asian,19,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6024475,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary","No ",Asian,13,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65318,6024160,Marin,"Miller Creek Elementary","Lucas Valley Elementary","No ",Asian,51,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65318,6024194,Marin,"Miller Creek Elementary","Mary E. Silveira Elementary","No ",Asian,26,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65318,6024202,Marin,"Miller Creek Elementary","Miller Creek Middle","No ",Asian,46,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65318,1,Marin,"Miller Creek Elementary","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65318,6024244,Marin,"Miller Creek Elementary","Vallecito Elementary","No ",Asian,44,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65409,6024483,Marin,Nicasio,Nicasio,"No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park","No ",Asian,23,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024509,Marin,"Novato Unified","Loma Verde Elementary","No ",Asian,17,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary","No ",Asian,17,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024525,Marin,"Novato Unified","Lynwood Elementary","No ",Asian,17,1,1,0,5.9,1,0,0,0,0
+2019-01-08,S,21,65417,2132264,Marin,"Novato Unified","Marin Oaks High","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,1,Marin,"Novato Unified","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6113229,Marin,"Novato Unified","Novato Charter",Yes,Asian,11,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High","No ",Asian,79,1,1,0,1.3,0,0,0,1,0
+2019-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary","No ",Asian,12,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary","No ",Asian,14,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024582,Marin,"Novato Unified","Rancho Elementary","No ",Asian,57,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate","No ",Asian,50,1,1,0,2,0,0,1,0,0
+2019-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High","No ",Asian,54,1,1,0,1.9,0,0,0,1,0
+2019-01-08,S,21,65417,6024590,Marin,"Novato Unified","San Ramon Elementary","No ",Asian,35,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle","No ",Asian,46,1,1,0,2.2,0,0,0,1,0
+2019-01-08,S,21,65425,6024616,Marin,"Reed Union Elementary","Bel Aire Elementary","No ",Asian,23,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65425,6024632,Marin,"Reed Union Elementary","Del Mar Middle","No ",Asian,46,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65425,1,Marin,"Reed Union Elementary","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65425,6024657,Marin,"Reed Union Elementary","Reed Elementary","No ",Asian,22,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65433,6024673,Marin,"Ross Elementary","Ross Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,75002,6024681,Marin,"Ross Valley Elementary","Brookside Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,75002,124578,Marin,"Ross Valley Elementary","Hidden Valley Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,75002,6024277,Marin,"Ross Valley Elementary","Manor Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,75002,1,Marin,"Ross Valley Elementary","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,75002,6024731,Marin,"Ross Valley Elementary","Wade Thomas Elementary","No ",Asian,15,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,75002,6024285,Marin,"Ross Valley Elementary","White Hill Middle","No ",Asian,21,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6024756,Marin,"San Rafael City Elementary","Bahia Vista Elementary","No ",Asian,11,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6024764,Marin,"San Rafael City Elementary","Coleman Elementary","No ",Asian,15,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary","No ",Asian,13,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ",Asian,39,1,1,0,2.6,0,1,0,0,0
+2019-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,1,Marin,"San Rafael City Elementary","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,136671,Marin,"San Rafael City Elementary","Old Gallinas","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6024830,Marin,"San Rafael City Elementary","San Pedro Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,121517,Marin,"San Rafael City Elementary","Short Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6024863,Marin,"San Rafael City Elementary","Sun Valley Elementary","No ",Asian,18,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ",Asian,23,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65466,2133254,Marin,"San Rafael City High","Madrone High Continuation","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65466,1,Marin,"San Rafael City High","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High","No ",Asian,46,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High","No ",Asian,82,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65474,6118491,Marin,"Sausalito Marin City","Willow Creek Academy Charter",Yes,Asian,35,2,1,0,2.9,2,0,0,0,0
+2019-01-08,S,21,77065,135350,Marin,"SBE - Ross Valley Elementary","Ross Valley Charter",Yes,Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,73361,6051627,Marin,"Shoreline Unified","Bodega Bay Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,73361,6024947,Marin,"Shoreline Unified","Inverness Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,73361,2134310,Marin,"Shoreline Unified","Tomales High","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,73361,6024954,Marin,"Shoreline Unified","West Marin Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65482,1,Marin,"Tamalpais Union High","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High","No ",Asian,99,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65482,2131340,Marin,"Tamalpais Union High","Archie Williams High","No ",Asian,40,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High","No ",Asian,110,1,1,0,0.9,0,0,0,1,0
+2019-01-08,S,21,65482,2130078,Marin,"Tamalpais Union High","Tamiscal High (Alternative)","No ",Asian,11,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education",All,Asian,15,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,2130102,Marin,"Marin County Office of Education","Phoenix Academy",Yes,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,2130037,Marin,"Marin County Office of Education","Marin's Community","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,2130037,Marin,"Marin County Office of Education","Marin's Community",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,2130102,Marin,"Marin County Office of Education","Phoenix Academy",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education","No ",Asian,15,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65300,6024137,Marin,"Bolinas-Stinson Union","Bolinas-Stinson Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65300,6024137,Marin,"Bolinas-Stinson Union","Bolinas-Stinson Elementary",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024244,Marin,"Dixie Elementary","Vallecito Elementary",All,Asian,43,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024194,Marin,"Dixie Elementary","Mary E. Silveira Elementary","No ",Asian,35,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024160,Marin,"Dixie Elementary","Dixie Elementary","No ",Asian,62,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024202,Marin,"Dixie Elementary","Miller Creek Middle","No ",Asian,41,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024202,Marin,"Dixie Elementary","Miller Creek Middle",All,Asian,41,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024244,Marin,"Dixie Elementary","Vallecito Elementary","No ",Asian,43,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024160,Marin,"Dixie Elementary","Dixie Elementary",All,Asian,62,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024194,Marin,"Dixie Elementary","Mary E. Silveira Elementary",All,Asian,35,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle",All,Asian,23,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65334,6024319,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary","No ",Asian,19,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65334,6024319,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary",All,Asian,19,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle","No ",Asian,23,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65359,6024343,Marin,"Lagunitas Elementary","San Geronimo Valley Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65359,6024343,Marin,"Lagunitas Elementary","San Geronimo Valley Elementary",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65359,6024335,Marin,"Lagunitas Elementary","Lagunitas Elementary",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65359,6024335,Marin,"Lagunitas Elementary","Lagunitas Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65367,6024350,Marin,"Larkspur-Corte Madera","Hall Middle","No ",Asian,24,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65367,129148,Marin,"Larkspur-Corte Madera",Cove,"No ",Asian,26,1,1,0,3.8,1,0,0,0,0
+2018-01-08,S,21,65367,6024376,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary","No ",Asian,32,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65367,129148,Marin,"Larkspur-Corte Madera",Cove,All,Asian,26,1,1,0,3.8,1,0,0,0,0
+2018-01-08,S,21,65367,6024350,Marin,"Larkspur-Corte Madera","Hall Middle",All,Asian,24,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65367,6024376,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary",All,Asian,32,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024418,Marin,"Mill Valley Elementary","Edna Maguire Elementary","No ",Asian,38,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024442,Marin,"Mill Valley Elementary","Old Mill Elementary",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024467,Marin,"Mill Valley Elementary","Strawberry Point Elementary",All,Asian,28,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024418,Marin,"Mill Valley Elementary","Edna Maguire Elementary",All,Asian,38,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6085187,Marin,"Mill Valley Elementary","Mill Valley Middle","No ",Asian,48,1,1,0,2.1,0,0,0,1,0
+2018-01-08,S,21,65391,6024459,Marin,"Mill Valley Elementary","Park Elementary","No ",Asian,13,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024467,Marin,"Mill Valley Elementary","Strawberry Point Elementary","No ",Asian,28,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024459,Marin,"Mill Valley Elementary","Park Elementary",All,Asian,13,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024475,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary","No ",Asian,17,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024475,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary",All,Asian,17,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6085187,Marin,"Mill Valley Elementary","Mill Valley Middle",All,Asian,48,1,1,0,2.1,0,0,0,1,0
+2018-01-08,S,21,65391,6024442,Marin,"Mill Valley Elementary","Old Mill Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65409,6024483,Marin,Nicasio,Nicasio,"No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65409,6024483,Marin,Nicasio,Nicasio,All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6113229,Marin,"Novato Unified","Novato Charter",Yes,Asian,12,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary",All,Asian,14,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary","No ",Asian,14,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary",All,Asian,16,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024582,Marin,"Novato Unified","Rancho Elementary","No ",Asian,59,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary","No ",Asian,17,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle","No ",Asian,43,6,2,0,4.7,0,6,0,0,0
+2018-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High",All,Asian,61,1,1,0,1.6,0,0,0,1,0
+2018-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High",All,Asian,75,1,1,0,1.3,0,0,0,1,0
+2018-01-08,S,21,65417,6024590,Marin,"Novato Unified","San Ramon Elementary",All,Asian,28,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park",All,Asian,27,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate","No ",Asian,48,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024525,Marin,"Novato Unified","Lynwood Elementary","No ",Asian,21,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024525,Marin,"Novato Unified","Lynwood Elementary",All,Asian,21,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6113229,Marin,"Novato Unified","Novato Charter",All,Asian,12,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High","No ",Asian,75,1,1,0,1.3,0,0,0,1,0
+2018-01-08,S,21,65417,6024509,Marin,"Novato Unified","Loma Verde Elementary","No ",Asian,16,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary","No ",Asian,16,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,2132264,Marin,"Novato Unified","Marin Oaks High",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary",All,Asian,17,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle",All,Asian,43,6,2,0,4.7,0,6,0,0,0
+2018-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate",All,Asian,48,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024582,Marin,"Novato Unified","Rancho Elementary",All,Asian,59,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024590,Marin,"Novato Unified","San Ramon Elementary","No ",Asian,28,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024509,Marin,"Novato Unified","Loma Verde Elementary",All,Asian,16,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High","No ",Asian,61,1,1,0,1.6,0,0,0,1,0
+2018-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park","No ",Asian,27,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,2132264,Marin,"Novato Unified","Marin Oaks High","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65425,6024616,Marin,"Reed Union Elementary","Bel Aire Elementary","No ",Asian,29,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65425,6024616,Marin,"Reed Union Elementary","Bel Aire Elementary",All,Asian,29,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65425,6024657,Marin,"Reed Union Elementary","Reed Elementary","No ",Asian,24,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65425,6024632,Marin,"Reed Union Elementary","Del Mar Middle",All,Asian,45,7,3,0,6.7,0,7,0,0,0
+2018-01-08,S,21,65425,6024632,Marin,"Reed Union Elementary","Del Mar Middle","No ",Asian,45,7,3,0,6.7,0,7,0,0,0
+2018-01-08,S,21,65425,6024657,Marin,"Reed Union Elementary","Reed Elementary",All,Asian,24,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65433,6024673,Marin,"Ross Elementary","Ross Elementary",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65433,6024673,Marin,"Ross Elementary","Ross Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,1,Marin,"San Rafael City Elementary","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ",Asian,25,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary",All,Asian,20,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024863,Marin,"San Rafael City Elementary","Sun Valley Elementary",All,Asian,27,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ",Asian,42,1,1,1,2.4,0,0,0,0,1
+2018-01-08,S,21,65458,6024756,Marin,"San Rafael City Elementary","Bahia Vista Elementary",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024756,Marin,"San Rafael City Elementary","Bahia Vista Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024863,Marin,"San Rafael City Elementary","Sun Valley Elementary","No ",Asian,27,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8",All,Asian,25,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024764,Marin,"San Rafael City Elementary","Coleman Elementary",All,Asian,14,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024764,Marin,"San Rafael City Elementary","Coleman Elementary","No ",Asian,14,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle",All,Asian,42,1,1,1,2.4,0,0,0,0,1
+2018-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary","No ",Asian,20,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,121517,Marin,"San Rafael City Elementary","Short Elementary",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,1,Marin,"San Rafael City Elementary","Nonpublic, Nonsectarian Schools",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,121517,Marin,"San Rafael City Elementary","Short Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High","No ",Asian,52,3,2,0,3.8,1,1,0,1,0
+2018-01-08,S,21,65466,1,Marin,"San Rafael City High","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High",All,Asian,77,1,1,0,1.3,0,0,1,0,0
+2018-01-08,S,21,65466,1,Marin,"San Rafael City High","Nonpublic, Nonsectarian Schools",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High","No ",Asian,77,1,1,0,1.3,0,0,1,0,0
+2018-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High",All,Asian,52,3,2,0,3.8,1,1,0,1,0
+2018-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65474,6118491,Marin,"Sausalito Marin City","Willow Creek Academy",Yes,Asian,41,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65474,6118491,Marin,"Sausalito Marin City","Willow Creek Academy",All,Asian,41,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,1,Marin,"Tamalpais Union High","Nonpublic, Nonsectarian Schools",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2131340,Marin,"Tamalpais Union High","Archie Williams High","No ",Asian,45,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High",All,Asian,124,3,3,0,2.4,0,0,0,3,0
+2018-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High",All,Asian,108,3,3,0,2.8,0,1,0,1,0
+2018-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High","No ",Asian,108,3,3,0,2.8,0,1,0,1,0
+2018-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2130078,Marin,"Tamalpais Union High","Tamiscal High (Alternative)","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High","No ",Asian,124,3,3,0,2.4,0,0,0,3,0
+2018-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2130078,Marin,"Tamalpais Union High","Tamiscal High (Alternative)",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,1,Marin,"Tamalpais Union High","Nonpublic, Nonsectarian Schools","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2131340,Marin,"Tamalpais Union High","Archie Williams High",All,Asian,45,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,6024947,Marin,"Shoreline Unified","Inverness Elementary",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,6024947,Marin,"Shoreline Unified","Inverness Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,2134310,Marin,"Shoreline Unified","Tomales High",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,2134310,Marin,"Shoreline Unified","Tomales High","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024285,Marin,"Ross Valley Elementary","White Hill Middle","No ",Asian,19,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024731,Marin,"Ross Valley Elementary","Wade Thomas Elementary",All,Asian,17,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024277,Marin,"Ross Valley Elementary","Manor Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024681,Marin,"Ross Valley Elementary","Brookside Elementary",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024731,Marin,"Ross Valley Elementary","Wade Thomas Elementary","No ",Asian,17,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024285,Marin,"Ross Valley Elementary","White Hill Middle",All,Asian,19,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,124578,Marin,"Ross Valley Elementary","Hidden Valley Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,124578,Marin,"Ross Valley Elementary","Hidden Valley Elementary",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024277,Marin,"Ross Valley Elementary","Manor Elementary",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024681,Marin,"Ross Valley Elementary","Brookside Elementary","No ",Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,77065,135350,Marin,"SBE - Ross Valley Elementary","Ross Valley Charter",All,Asian,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,77065,135350,Marin,"SBE - Ross Valley Elementary","Ross Valley Charter",Yes,Asian,0,0,0,0,0,0,0,0,0,0

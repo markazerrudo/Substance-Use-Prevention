@@ -1,0 +1,409 @@
+AcademicYear,AggregateLevel,CountyCode,DistrictCode,SchoolCode,CountyName,DistrictName,SchoolName,CharterYN,ReportingCategory,CumulativeEnrollment,TotalSuspensions,TotalSusStudents,TotalDefiance,SuspensionRate,SuspensionViolent_Injury,NonInjury_Violent_Suspension,Weapon_possession_suspension,Drug_Suspensino_Defiance,Other_Suspension_Reason
+2021-01-08,S,21,,,Marin,"Bolinas-Stinson Union","Bolinas-Stinson Elementary","No ","Hispanic or Latino",26,1,1,1,3.8,0,0,0,0,1
+2021-01-08,S,21,,,Marin,"Kentfield Elementary","Adaline E. Kent Middle","No ","Hispanic or Latino",85,3,1,0,1.2,0,3,0,0,0
+2021-01-08,S,21,,,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary","No ","Hispanic or Latino",90,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Lagunitas Elementary","Lagunitas Elementary","No ","Hispanic or Latino",22,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Larkspur-Corte Madera",Cove,"No ","Hispanic or Latino",56,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Larkspur-Corte Madera","Hall Middle","No ","Hispanic or Latino",61,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary","No ","Hispanic or Latino",80,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Marin County Office of Education","Marin County Juvenile Court","No ","Hispanic or Latino",22,1,1,0,4.5,0,1,0,0,0
+2021-01-08,S,21,,,Marin,"Marin County Office of Education","Marin County Special Education","No ","Hispanic or Latino",85,3,2,0,2.4,1,2,0,0,0
+2021-01-08,S,21,,,Marin,"Marin County Office of Education","Marin's Community","No ","Hispanic or Latino",46,8,5,0,10.9,0,8,0,0,0
+2021-01-08,S,21,,,Marin,"Marin County Office of Education","Phoenix Academy",Yes,"Hispanic or Latino",35,2,2,0,5.7,0,1,0,1,0
+2021-01-08,S,21,,,Marin,"Marin County Office of Education","Ross Valley Charter",Yes,"Hispanic or Latino",65,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Mill Valley Elementary","Edna Maguire Elementary","No ","Hispanic or Latino",40,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Mill Valley Elementary","Mill Valley Middle","No ","Hispanic or Latino",77,1,1,0,1.3,0,1,0,0,0
+2021-01-08,S,21,,,Marin,"Mill Valley Elementary","Old Mill Elementary","No ","Hispanic or Latino",14,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Mill Valley Elementary","Park Elementary","No ","Hispanic or Latino",21,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Mill Valley Elementary","Strawberry Point Elementary","No ","Hispanic or Latino",33,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary","No ","Hispanic or Latino",32,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Miller Creek Elementary","Lucas Valley Elementary","No ","Hispanic or Latino",34,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Miller Creek Elementary","Mary E. Silveira Elementary","No ","Hispanic or Latino",130,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Miller Creek Elementary","Miller Creek Middle","No ","Hispanic or Latino",148,16,9,0,6.1,0,6,3,4,0
+2021-01-08,S,21,,,Marin,"Miller Creek Elementary","Vallecito Elementary","No ","Hispanic or Latino",97,1,1,0,1,0,1,0,0,0
+2021-01-08,S,21,,,Marin,Nicasio,Nicasio,"No ","Hispanic or Latino",19,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Hamilton Meadow Park","No ","Hispanic or Latino",389,29,16,6,4.1,2,14,2,1,7
+2021-01-08,S,21,,,Marin,"Novato Unified","Loma Verde Elementary","No ","Hispanic or Latino",195,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Lu Sutton Elementary","No ","Hispanic or Latino",231,1,1,0,0.4,0,1,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Lynwood Elementary","No ","Hispanic or Latino",196,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Marin Oaks High","No ","Hispanic or Latino",75,7,7,0,9.3,4,1,0,2,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",17,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Nova Education Center","No ","Hispanic or Latino",92,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Novato Charter",Yes,"Hispanic or Latino",36,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Novato High","No ","Hispanic or Latino",675,41,34,0,5,12,3,4,22,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Olive Elementary","No ","Hispanic or Latino",146,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Pleasant Valley Elementary","No ","Hispanic or Latino",82,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Rancho Elementary","No ","Hispanic or Latino",141,2,2,0,1.4,0,2,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","San Jose Intermediate","No ","Hispanic or Latino",284,34,22,2,7.7,7,7,4,14,2
+2021-01-08,S,21,,,Marin,"Novato Unified","San Marin High","No ","Hispanic or Latino",379,13,10,1,2.6,1,10,0,1,1
+2021-01-08,S,21,,,Marin,"Novato Unified","San Ramon Elementary","No ","Hispanic or Latino",92,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Sinaloa Middle","No ","Hispanic or Latino",249,33,18,0,7.2,0,27,1,5,0
+2021-01-08,S,21,,,Marin,"Reed Union Elementary","Bel Aire Elementary","No ","Hispanic or Latino",27,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Reed Union Elementary","Del Mar Middle","No ","Hispanic or Latino",30,1,1,0,3.3,1,0,0,0,0
+2021-01-08,S,21,,,Marin,"Reed Union Elementary","Reed Elementary","No ","Hispanic or Latino",28,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Ross Elementary","Ross Elementary","No ","Hispanic or Latino",22,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Ross Valley Elementary","Brookside Elementary","No ","Hispanic or Latino",35,1,1,0,2.9,1,0,0,0,0
+2021-01-08,S,21,,,Marin,"Ross Valley Elementary","Hidden Valley Elementary","No ","Hispanic or Latino",24,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Ross Valley Elementary","Manor Elementary","No ","Hispanic or Latino",42,7,2,0,4.8,0,2,0,2,0
+2021-01-08,S,21,,,Marin,"Ross Valley Elementary","Wade Thomas Elementary","No ","Hispanic or Latino",33,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Ross Valley Elementary","White Hill Middle","No ","Hispanic or Latino",95,2,2,0,2.1,1,0,0,1,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Bahia Vista Elementary","No ","Hispanic or Latino",586,6,6,0,1,0,4,2,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Coleman Elementary","No ","Hispanic or Latino",221,2,1,0,0.5,0,1,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Glenwood Elementary","No ","Hispanic or Latino",69,4,4,0,5.8,0,4,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ","Hispanic or Latino",806,29,23,0,2.9,3,23,1,2,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Laurel Dell Elementary","No ","Hispanic or Latino",250,1,1,0,0.4,0,0,0,1,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","San Pedro Elementary","No ","Hispanic or Latino",523,18,12,4,2.3,1,10,0,0,4
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Sun Valley Elementary","No ","Hispanic or Latino",132,1,1,0,0.8,0,0,1,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ","Hispanic or Latino",598,12,11,0,1.8,3,9,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City High","Madrone High Continuation","No ","Hispanic or Latino",165,26,20,0,12.1,4,9,1,12,0
+2021-01-08,S,21,,,Marin,"San Rafael City High","San Rafael High","No ","Hispanic or Latino",949,97,71,7,7.5,22,44,5,18,7
+2021-01-08,S,21,,,Marin,"San Rafael City High","Terra Linda High","No ","Hispanic or Latino",626,59,50,8,8,14,20,1,15,8
+2021-01-08,S,21,,,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy","No ","Hispanic or Latino",129,4,4,0,3.1,1,2,1,0,0
+2021-01-08,S,21,,,Marin,"Shoreline Unified","Bodega Bay Elementary","No ","Hispanic or Latino",16,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Shoreline Unified","Inverness Elementary","No ","Hispanic or Latino",22,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Shoreline Unified","Tomales Elementary","No ","Hispanic or Latino",94,2,2,0,2.1,2,0,0,0,0
+2021-01-08,S,21,,,Marin,"Shoreline Unified","Tomales High","No ","Hispanic or Latino",100,9,8,0,8,0,7,0,1,0
+2021-01-08,S,21,,,Marin,"Shoreline Unified","West Marin Elementary","No ","Hispanic or Latino",75,3,3,0,4,0,3,0,0,0
+2021-01-08,S,21,,,Marin,"Tamalpais Union High","Archie Williams High","No ","Hispanic or Latino",182,5,4,0,2.2,1,2,0,2,0
+2021-01-08,S,21,,,Marin,"Tamalpais Union High","Redwood High","No ","Hispanic or Latino",312,11,8,0,2.6,6,4,0,1,0
+2021-01-08,S,21,,,Marin,"Tamalpais Union High","San Andreas High (Continuation)","No ","Hispanic or Latino",32,1,1,0,3.1,1,0,0,0,0
+2021-01-08,S,21,,,Marin,"Tamalpais Union High","Tamalpais High","No ","Hispanic or Latino",197,1,1,0,0.5,0,1,0,0,0
+2021-01-08,S,21,,,Marin,"Tamalpais Union High","Tamiscal High (Alternative)","No ","Hispanic or Latino",19,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65300,6024137,Marin,"Bolinas-Stinson Union","Bolinas-Stinson Elementary","No ","Hispanic or Latino",21,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle","No ","Hispanic or Latino",81,1,1,0,1.2,0,1,0,0,0
+2020-01-08,S,21,65334,6024319,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary","No ","Hispanic or Latino",95,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65334,1,Marin,"Kentfield Elementary","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65342,6024327,Marin,"Laguna Joint Elementary","Laguna Elementary","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65359,6024335,Marin,"Lagunitas Elementary","Lagunitas Elementary","No ","Hispanic or Latino",18,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65359,6024343,Marin,"Lagunitas Elementary","San Geronimo Valley Elementary","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65367,129148,Marin,"Larkspur-Corte Madera",Cove,"No ","Hispanic or Latino",54,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65367,6024350,Marin,"Larkspur-Corte Madera","Hall Middle","No ","Hispanic or Latino",66,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65367,6024376,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary","No ","Hispanic or Latino",83,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65367,1,Marin,"Larkspur-Corte Madera","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65375,6024392,Marin,"Lincoln Elementary","Lincoln Union Elementary","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,10215,113183,Marin,"Marin County Office of Education","Marin County Juvenile Court","No ","Hispanic or Latino",30,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education","No ","Hispanic or Latino",83,4,2,0,2.4,4,0,0,0,0
+2020-01-08,S,21,10215,2130037,Marin,"Marin County Office of Education","Marin's Community","No ","Hispanic or Latino",57,1,1,0,1.8,0,1,0,0,0
+2020-01-08,S,21,10215,1,Marin,"Marin County Office of Education","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,10215,2130102,Marin,"Marin County Office of Education","Phoenix Academy",Yes,"Hispanic or Latino",24,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024418,Marin,"Mill Valley Elementary","Edna Maguire Elementary","No ","Hispanic or Latino",48,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6085187,Marin,"Mill Valley Elementary","Mill Valley Middle","No ","Hispanic or Latino",90,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,1,Marin,"Mill Valley Elementary","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024442,Marin,"Mill Valley Elementary","Old Mill Elementary","No ","Hispanic or Latino",17,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024459,Marin,"Mill Valley Elementary","Park Elementary","No ","Hispanic or Latino",17,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024467,Marin,"Mill Valley Elementary","Strawberry Point Elementary","No ","Hispanic or Latino",29,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024475,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary","No ","Hispanic or Latino",39,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024160,Marin,"Miller Creek Elementary","Lucas Valley Elementary","No ","Hispanic or Latino",33,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024194,Marin,"Miller Creek Elementary","Mary E. Silveira Elementary","No ","Hispanic or Latino",148,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024202,Marin,"Miller Creek Elementary","Miller Creek Middle","No ","Hispanic or Latino",137,3,3,0,2.2,0,2,0,1,0
+2020-01-08,S,21,65318,1,Marin,"Miller Creek Elementary","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024244,Marin,"Miller Creek Elementary","Vallecito Elementary","No ","Hispanic or Latino",84,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65409,6024483,Marin,Nicasio,Nicasio,"No ","Hispanic or Latino",18,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park","No ","Hispanic or Latino",399,2,2,1,0.5,0,1,0,0,1
+2020-01-08,S,21,65417,6024509,Marin,"Novato Unified","Loma Verde Elementary","No ","Hispanic or Latino",214,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary","No ","Hispanic or Latino",218,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024525,Marin,"Novato Unified","Lynwood Elementary","No ","Hispanic or Latino",219,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,2132264,Marin,"Novato Unified","Marin Oaks High","No ","Hispanic or Latino",69,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,1,Marin,"Novato Unified","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",16,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center","No ","Hispanic or Latino",24,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6113229,Marin,"Novato Unified","Novato Charter",Yes,"Hispanic or Latino",40,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High","No ","Hispanic or Latino",604,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary","No ","Hispanic or Latino",150,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary","No ","Hispanic or Latino",72,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024582,Marin,"Novato Unified","Rancho Elementary","No ","Hispanic or Latino",134,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate","No ","Hispanic or Latino",316,1,1,0,0.3,0,0,1,0,0
+2020-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High","No ","Hispanic or Latino",362,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024590,Marin,"Novato Unified","San Ramon Elementary","No ","Hispanic or Latino",109,1,1,0,0.9,1,0,0,0,0
+2020-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle","No ","Hispanic or Latino",272,1,1,0,0.4,0,1,0,0,0
+2020-01-08,S,21,65425,6024616,Marin,"Reed Union Elementary","Bel Aire Elementary","No ","Hispanic or Latino",31,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65425,6024632,Marin,"Reed Union Elementary","Del Mar Middle","No ","Hispanic or Latino",31,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65425,1,Marin,"Reed Union Elementary","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65425,6024657,Marin,"Reed Union Elementary","Reed Elementary","No ","Hispanic or Latino",27,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65433,6024673,Marin,"Ross Elementary","Ross Elementary","No ","Hispanic or Latino",26,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,6024681,Marin,"Ross Valley Elementary","Brookside Elementary","No ","Hispanic or Latino",32,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,124578,Marin,"Ross Valley Elementary","Hidden Valley Elementary","No ","Hispanic or Latino",25,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,6024277,Marin,"Ross Valley Elementary","Manor Elementary","No ","Hispanic or Latino",45,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,1,Marin,"Ross Valley Elementary","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,6024731,Marin,"Ross Valley Elementary","Wade Thomas Elementary","No ","Hispanic or Latino",34,1,1,0,2.9,1,0,0,0,0
+2020-01-08,S,21,75002,6024285,Marin,"Ross Valley Elementary","White Hill Middle","No ","Hispanic or Latino",92,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024756,Marin,"San Rafael City Elementary","Bahia Vista Elementary","No ","Hispanic or Latino",534,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024764,Marin,"San Rafael City Elementary","Coleman Elementary","No ","Hispanic or Latino",450,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary","No ","Hispanic or Latino",79,2,2,0,2.5,0,1,0,1,0
+2020-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ","Hispanic or Latino",826,3,3,0,0.4,0,1,0,1,0
+2020-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary","No ","Hispanic or Latino",226,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,1,Marin,"San Rafael City Elementary","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024830,Marin,"San Rafael City Elementary","San Pedro Elementary","No ","Hispanic or Latino",450,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024863,Marin,"San Rafael City Elementary","Sun Valley Elementary","No ","Hispanic or Latino",127,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ","Hispanic or Latino",565,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65466,2133254,Marin,"San Rafael City High","Madrone High Continuation","No ","Hispanic or Latino",139,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65466,1,Marin,"San Rafael City High","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High","No ","Hispanic or Latino",881,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High","No ","Hispanic or Latino",602,1,1,0,0.2,0,1,0,0,0
+2020-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy","No ","Hispanic or Latino",35,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65474,6118491,Marin,"Sausalito Marin City","Willow Creek Academy Charter",Yes,"Hispanic or Latino",96,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,77065,135350,Marin,"SBE - Ross Valley Elementary","Ross Valley Charter",Yes,"Hispanic or Latino",61,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,6051627,Marin,"Shoreline Unified","Bodega Bay Elementary","No ","Hispanic or Latino",18,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,6024947,Marin,"Shoreline Unified","Inverness Elementary","No ","Hispanic or Latino",22,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,1,Marin,"Shoreline Unified","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary","No ","Hispanic or Latino",89,3,3,0,3.4,0,0,0,3,0
+2020-01-08,S,21,73361,2134310,Marin,"Shoreline Unified","Tomales High","No ","Hispanic or Latino",114,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,6024954,Marin,"Shoreline Unified","West Marin Elementary","No ","Hispanic or Latino",76,2,2,2,2.6,0,0,0,0,2
+2020-01-08,S,21,65482,1,Marin,"Tamalpais Union High","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High","No ","Hispanic or Latino",313,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)","No ","Hispanic or Latino",33,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,2131340,Marin,"Tamalpais Union High","Archie Williams High","No ","Hispanic or Latino",196,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High","No ","Hispanic or Latino",202,1,1,0,0.5,0,0,0,1,0
+2020-01-08,S,21,65482,2130078,Marin,"Tamalpais Union High","Tamiscal High (Alternative)","No ","Hispanic or Latino",20,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65300,6024137,Marin,"Bolinas-Stinson Union","Bolinas-Stinson Elementary","No ","Hispanic or Latino",21,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle","No ","Hispanic or Latino",81,4,4,1,4.9,0,3,0,0,1
+2019-01-08,S,21,65334,6024319,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary","No ","Hispanic or Latino",91,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65334,1,Marin,"Kentfield Elementary","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65342,6024327,Marin,"Laguna Joint Elementary","Laguna Elementary","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65359,6024335,Marin,"Lagunitas Elementary","Lagunitas Elementary","No ","Hispanic or Latino",22,1,1,0,4.5,1,0,0,0,0
+2019-01-08,S,21,65359,1,Marin,"Lagunitas Elementary","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65359,6024343,Marin,"Lagunitas Elementary","San Geronimo Valley Elementary","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65367,129148,Marin,"Larkspur-Corte Madera",Cove,"No ","Hispanic or Latino",60,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65367,6024350,Marin,"Larkspur-Corte Madera","Hall Middle","No ","Hispanic or Latino",72,2,2,0,2.8,0,1,0,1,0
+2019-01-08,S,21,65367,6024376,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary","No ","Hispanic or Latino",75,1,1,0,1.3,0,1,0,0,0
+2019-01-08,S,21,65367,1,Marin,"Larkspur-Corte Madera","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65375,6024392,Marin,"Lincoln Elementary","Lincoln Union Elementary","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,10215,113183,Marin,"Marin County Office of Education","Marin County Juvenile Court","No ","Hispanic or Latino",48,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education","No ","Hispanic or Latino",77,2,2,0,2.6,1,0,0,1,0
+2019-01-08,S,21,10215,2130037,Marin,"Marin County Office of Education","Marin's Community","No ","Hispanic or Latino",71,8,4,2,5.6,0,3,0,1,3
+2019-01-08,S,21,10215,1,Marin,"Marin County Office of Education","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,10215,2130102,Marin,"Marin County Office of Education","Phoenix Academy",Yes,"Hispanic or Latino",23,11,7,3,30.4,0,4,0,4,3
+2019-01-08,S,21,65391,6024418,Marin,"Mill Valley Elementary","Edna Maguire Elementary","No ","Hispanic or Latino",54,1,1,1,1.9,0,0,0,0,1
+2019-01-08,S,21,65391,6085187,Marin,"Mill Valley Elementary","Mill Valley Middle","No ","Hispanic or Latino",84,1,1,1,1.2,0,0,0,0,1
+2019-01-08,S,21,65391,1,Marin,"Mill Valley Elementary","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6024442,Marin,"Mill Valley Elementary","Old Mill Elementary","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6024459,Marin,"Mill Valley Elementary","Park Elementary","No ","Hispanic or Latino",18,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6024467,Marin,"Mill Valley Elementary","Strawberry Point Elementary","No ","Hispanic or Latino",30,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6024475,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary","No ","Hispanic or Latino",40,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65318,6024160,Marin,"Miller Creek Elementary","Lucas Valley Elementary","No ","Hispanic or Latino",37,2,1,1,2.7,0,0,0,0,2
+2019-01-08,S,21,65318,6024194,Marin,"Miller Creek Elementary","Mary E. Silveira Elementary","No ","Hispanic or Latino",143,1,1,1,0.7,0,0,0,0,1
+2019-01-08,S,21,65318,6024202,Marin,"Miller Creek Elementary","Miller Creek Middle","No ","Hispanic or Latino",140,14,9,1,6.4,2,9,0,2,1
+2019-01-08,S,21,65318,1,Marin,"Miller Creek Elementary","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65318,6024244,Marin,"Miller Creek Elementary","Vallecito Elementary","No ","Hispanic or Latino",91,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65409,6024483,Marin,Nicasio,Nicasio,"No ","Hispanic or Latino",21,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park","No ","Hispanic or Latino",402,7,7,2,1.7,0,2,2,0,2
+2019-01-08,S,21,65417,6024509,Marin,"Novato Unified","Loma Verde Elementary","No ","Hispanic or Latino",194,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary","No ","Hispanic or Latino",232,6,2,0,0.9,0,6,0,0,0
+2019-01-08,S,21,65417,6024525,Marin,"Novato Unified","Lynwood Elementary","No ","Hispanic or Latino",205,2,1,1,0.5,0,0,0,0,2
+2019-01-08,S,21,65417,2132264,Marin,"Novato Unified","Marin Oaks High","No ","Hispanic or Latino",62,6,4,1,6.5,1,2,0,2,1
+2019-01-08,S,21,65417,1,Marin,"Novato Unified","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",14,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center","No ","Hispanic or Latino",24,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6113229,Marin,"Novato Unified","Novato Charter",Yes,"Hispanic or Latino",41,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High","No ","Hispanic or Latino",572,34,25,1,4.4,7,5,3,17,1
+2019-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary","No ","Hispanic or Latino",151,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary","No ","Hispanic or Latino",73,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024582,Marin,"Novato Unified","Rancho Elementary","No ","Hispanic or Latino",118,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate","No ","Hispanic or Latino",355,25,15,0,4.2,1,19,0,5,0
+2019-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High","No ","Hispanic or Latino",364,14,10,1,2.7,2,1,0,10,1
+2019-01-08,S,21,65417,6024590,Marin,"Novato Unified","San Ramon Elementary","No ","Hispanic or Latino",104,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle","No ","Hispanic or Latino",258,15,8,1,3.1,0,8,1,4,2
+2019-01-08,S,21,65425,6024616,Marin,"Reed Union Elementary","Bel Aire Elementary","No ","Hispanic or Latino",23,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65425,6024632,Marin,"Reed Union Elementary","Del Mar Middle","No ","Hispanic or Latino",33,1,1,0,3,0,0,0,0,0
+2019-01-08,S,21,65425,1,Marin,"Reed Union Elementary","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65425,6024657,Marin,"Reed Union Elementary","Reed Elementary","No ","Hispanic or Latino",20,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65433,6024673,Marin,"Ross Elementary","Ross Elementary","No ","Hispanic or Latino",24,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,75002,6024681,Marin,"Ross Valley Elementary","Brookside Elementary","No ","Hispanic or Latino",44,8,1,0,2.3,0,8,0,0,0
+2019-01-08,S,21,75002,124578,Marin,"Ross Valley Elementary","Hidden Valley Elementary","No ","Hispanic or Latino",27,1,1,0,3.7,0,1,0,0,0
+2019-01-08,S,21,75002,6024277,Marin,"Ross Valley Elementary","Manor Elementary","No ","Hispanic or Latino",37,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,75002,1,Marin,"Ross Valley Elementary","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,75002,6024731,Marin,"Ross Valley Elementary","Wade Thomas Elementary","No ","Hispanic or Latino",36,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,75002,6024285,Marin,"Ross Valley Elementary","White Hill Middle","No ","Hispanic or Latino",98,1,1,0,1,0,0,0,1,0
+2019-01-08,S,21,65458,6024756,Marin,"San Rafael City Elementary","Bahia Vista Elementary","No ","Hispanic or Latino",559,2,2,1,0.4,0,0,0,1,1
+2019-01-08,S,21,65458,6024764,Marin,"San Rafael City Elementary","Coleman Elementary","No ","Hispanic or Latino",214,2,2,0,0.9,0,2,0,0,0
+2019-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary","No ","Hispanic or Latino",84,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ","Hispanic or Latino",854,27,23,0,2.7,0,12,0,15,0
+2019-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary","No ","Hispanic or Latino",182,8,8,0,4.4,0,0,0,8,0
+2019-01-08,S,21,65458,1,Marin,"San Rafael City Elementary","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",13,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,136671,Marin,"San Rafael City Elementary","Old Gallinas","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6024830,Marin,"San Rafael City Elementary","San Pedro Elementary","No ","Hispanic or Latino",555,3,2,1,0.4,0,2,0,0,1
+2019-01-08,S,21,65458,121517,Marin,"San Rafael City Elementary","Short Elementary","No ","Hispanic or Latino",93,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6024863,Marin,"San Rafael City Elementary","Sun Valley Elementary","No ","Hispanic or Latino",121,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ","Hispanic or Latino",623,18,15,4,2.4,2,2,1,6,5
+2019-01-08,S,21,65466,2133254,Marin,"San Rafael City High","Madrone High Continuation","No ","Hispanic or Latino",64,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65466,1,Marin,"San Rafael City High","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High","No ","Hispanic or Latino",990,33,26,1,2.6,2,15,4,10,1
+2019-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High","No ","Hispanic or Latino",648,11,8,3,1.2,0,3,0,4,4
+2019-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy","No ","Hispanic or Latino",38,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65474,6118491,Marin,"Sausalito Marin City","Willow Creek Academy Charter",Yes,"Hispanic or Latino",96,1,1,0,1,1,0,0,0,0
+2019-01-08,S,21,77065,135350,Marin,"SBE - Ross Valley Elementary","Ross Valley Charter",Yes,"Hispanic or Latino",56,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,73361,6051627,Marin,"Shoreline Unified","Bodega Bay Elementary","No ","Hispanic or Latino",16,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,73361,6024947,Marin,"Shoreline Unified","Inverness Elementary","No ","Hispanic or Latino",21,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary","No ","Hispanic or Latino",91,4,3,1,3.3,0,1,0,2,1
+2019-01-08,S,21,73361,2134310,Marin,"Shoreline Unified","Tomales High","No ","Hispanic or Latino",114,15,13,4,11.4,3,0,0,8,4
+2019-01-08,S,21,73361,6024954,Marin,"Shoreline Unified","West Marin Elementary","No ","Hispanic or Latino",74,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65482,1,Marin,"Tamalpais Union High","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High","No ","Hispanic or Latino",318,9,8,0,2.5,1,6,0,2,0
+2019-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)","No ","Hispanic or Latino",31,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65482,2131340,Marin,"Tamalpais Union High","Archie Williams High","No ","Hispanic or Latino",190,4,4,0,2.1,0,2,0,2,0
+2019-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High","No ","Hispanic or Latino",190,2,2,0,1.1,0,0,0,2,0
+2019-01-08,S,21,65482,2130078,Marin,"Tamalpais Union High","Tamiscal High (Alternative)","No ","Hispanic or Latino",27,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,2130102,Marin,"Marin County Office of Education","Phoenix Academy",All,"Hispanic or Latino",18,6,5,2,27.8,0,1,0,3,2
+2018-01-08,S,21,10215,2130102,Marin,"Marin County Office of Education","Phoenix Academy",Yes,"Hispanic or Latino",18,6,5,2,27.8,0,1,0,3,2
+2018-01-08,S,21,10215,2130037,Marin,"Marin County Office of Education","Marin's Community","No ","Hispanic or Latino",101,49,29,11,28.7,1,16,2,17,13
+2018-01-08,S,21,10215,113183,Marin,"Marin County Office of Education","Marin County Juvenile Court","No ","Hispanic or Latino",62,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,1,Marin,"Marin County Office of Education","Nonpublic, Nonsectarian Schools",All,"Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education","No ","Hispanic or Latino",70,10,6,0,8.6,1,7,0,1,0
+2018-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education",All,"Hispanic or Latino",70,10,6,0,8.6,1,7,0,1,0
+2018-01-08,S,21,10215,113183,Marin,"Marin County Office of Education","Marin County Juvenile Court",All,"Hispanic or Latino",62,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,2130037,Marin,"Marin County Office of Education","Marin's Community",All,"Hispanic or Latino",101,49,29,11,28.7,1,16,2,17,13
+2018-01-08,S,21,10215,1,Marin,"Marin County Office of Education","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65300,6024137,Marin,"Bolinas-Stinson Union","Bolinas-Stinson Elementary",All,"Hispanic or Latino",15,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65300,6024137,Marin,"Bolinas-Stinson Union","Bolinas-Stinson Elementary","No ","Hispanic or Latino",15,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,1,Marin,"Dixie Elementary","Nonpublic, Nonsectarian Schools",All,"Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024202,Marin,"Dixie Elementary","Miller Creek Middle","No ","Hispanic or Latino",117,13,7,1,6,1,9,0,0,3
+2018-01-08,S,21,65318,6024160,Marin,"Dixie Elementary","Dixie Elementary",All,"Hispanic or Latino",37,6,2,2,5.4,0,0,0,0,6
+2018-01-08,S,21,65318,6024194,Marin,"Dixie Elementary","Mary E. Silveira Elementary","No ","Hispanic or Latino",125,1,1,0,0.8,0,0,1,0,0
+2018-01-08,S,21,65318,6024244,Marin,"Dixie Elementary","Vallecito Elementary",All,"Hispanic or Latino",70,1,1,0,1.4,0,1,0,0,0
+2018-01-08,S,21,65318,6024194,Marin,"Dixie Elementary","Mary E. Silveira Elementary",All,"Hispanic or Latino",125,1,1,0,0.8,0,0,1,0,0
+2018-01-08,S,21,65318,6024244,Marin,"Dixie Elementary","Vallecito Elementary","No ","Hispanic or Latino",70,1,1,0,1.4,0,1,0,0,0
+2018-01-08,S,21,65318,6024160,Marin,"Dixie Elementary","Dixie Elementary","No ","Hispanic or Latino",37,6,2,2,5.4,0,0,0,0,6
+2018-01-08,S,21,65318,1,Marin,"Dixie Elementary","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024202,Marin,"Dixie Elementary","Miller Creek Middle",All,"Hispanic or Latino",117,13,7,1,6,1,9,0,0,3
+2018-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle",All,"Hispanic or Latino",95,3,2,0,2.1,0,2,0,0,0
+2018-01-08,S,21,65334,6024319,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary",All,"Hispanic or Latino",69,4,1,1,1.4,0,2,0,0,1
+2018-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle","No ","Hispanic or Latino",95,3,2,0,2.1,0,2,0,0,0
+2018-01-08,S,21,65334,6024319,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary","No ","Hispanic or Latino",69,4,1,1,1.4,0,2,0,0,1
+2018-01-08,S,21,65334,1,Marin,"Kentfield Elementary","Nonpublic, Nonsectarian Schools",All,"Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65334,1,Marin,"Kentfield Elementary","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65342,6024327,Marin,"Laguna Joint Elementary","Laguna Elementary",All,"Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65342,6024327,Marin,"Laguna Joint Elementary","Laguna Elementary","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65359,6024335,Marin,"Lagunitas Elementary","Lagunitas Elementary","No ","Hispanic or Latino",21,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65359,6024343,Marin,"Lagunitas Elementary","San Geronimo Valley Elementary",All,"Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65359,6024343,Marin,"Lagunitas Elementary","San Geronimo Valley Elementary","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65359,6024335,Marin,"Lagunitas Elementary","Lagunitas Elementary",All,"Hispanic or Latino",21,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65367,6024350,Marin,"Larkspur-Corte Madera","Hall Middle",All,"Hispanic or Latino",76,2,2,0,2.6,0,0,0,1,0
+2018-01-08,S,21,65367,6024376,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary",All,"Hispanic or Latino",71,2,1,1,1.4,0,1,0,0,1
+2018-01-08,S,21,65367,1,Marin,"Larkspur-Corte Madera","Nonpublic, Nonsectarian Schools",All,"Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65367,129148,Marin,"Larkspur-Corte Madera",Cove,"No ","Hispanic or Latino",58,3,3,0,5.2,0,3,0,0,0
+2018-01-08,S,21,65367,6024350,Marin,"Larkspur-Corte Madera","Hall Middle","No ","Hispanic or Latino",76,2,2,0,2.6,0,0,0,1,0
+2018-01-08,S,21,65367,129148,Marin,"Larkspur-Corte Madera",Cove,All,"Hispanic or Latino",58,3,3,0,5.2,0,3,0,0,0
+2018-01-08,S,21,65367,1,Marin,"Larkspur-Corte Madera","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65367,6024376,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary","No ","Hispanic or Latino",71,2,1,1,1.4,0,1,0,0,1
+2018-01-08,S,21,65391,6024418,Marin,"Mill Valley Elementary","Edna Maguire Elementary",All,"Hispanic or Latino",57,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024459,Marin,"Mill Valley Elementary","Park Elementary",All,"Hispanic or Latino",21,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024475,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary",All,"Hispanic or Latino",40,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024418,Marin,"Mill Valley Elementary","Edna Maguire Elementary","No ","Hispanic or Latino",57,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024475,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary","No ","Hispanic or Latino",40,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,1,Marin,"Mill Valley Elementary","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6085187,Marin,"Mill Valley Elementary","Mill Valley Middle","No ","Hispanic or Latino",86,1,1,0,1.2,0,0,0,1,0
+2018-01-08,S,21,65391,6024467,Marin,"Mill Valley Elementary","Strawberry Point Elementary",All,"Hispanic or Latino",38,4,1,1,2.6,0,1,0,0,3
+2018-01-08,S,21,65391,6085187,Marin,"Mill Valley Elementary","Mill Valley Middle",All,"Hispanic or Latino",86,1,1,0,1.2,0,0,0,1,0
+2018-01-08,S,21,65391,6024442,Marin,"Mill Valley Elementary","Old Mill Elementary",All,"Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024459,Marin,"Mill Valley Elementary","Park Elementary","No ","Hispanic or Latino",21,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,1,Marin,"Mill Valley Elementary","Nonpublic, Nonsectarian Schools",All,"Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024467,Marin,"Mill Valley Elementary","Strawberry Point Elementary","No ","Hispanic or Latino",38,4,1,1,2.6,0,1,0,0,3
+2018-01-08,S,21,65391,6024442,Marin,"Mill Valley Elementary","Old Mill Elementary","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65409,6024483,Marin,Nicasio,Nicasio,"No ","Hispanic or Latino",22,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65409,6024483,Marin,Nicasio,Nicasio,All,"Hispanic or Latino",22,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024582,Marin,"Novato Unified","Rancho Elementary","No ","Hispanic or Latino",120,5,5,0,4.2,0,5,0,0,0
+2018-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate",All,"Hispanic or Latino",321,34,24,1,7.5,2,20,0,10,1
+2018-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary",All,"Hispanic or Latino",67,2,2,0,3,1,0,0,0,0
+2018-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary",All,"Hispanic or Latino",216,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024582,Marin,"Novato Unified","Rancho Elementary",All,"Hispanic or Latino",120,5,5,0,4.2,0,5,0,0,0
+2018-01-08,S,21,65417,2132264,Marin,"Novato Unified","Marin Oaks High","No ","Hispanic or Latino",76,10,8,3,10.5,0,1,0,5,4
+2018-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate","No ","Hispanic or Latino",321,34,24,1,7.5,2,20,0,10,1
+2018-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center","No ","Hispanic or Latino",22,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center",All,"Hispanic or Latino",22,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6113229,Marin,"Novato Unified","Novato Charter",Yes,"Hispanic or Latino",43,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle",All,"Hispanic or Latino",253,5,5,0,2,0,2,0,3,0
+2018-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High",All,"Hispanic or Latino",364,31,22,1,6,5,8,0,14,2
+2018-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High",All,"Hispanic or Latino",582,44,29,1,5,3,20,1,18,1
+2018-01-08,S,21,65417,2132264,Marin,"Novato Unified","Marin Oaks High",All,"Hispanic or Latino",76,10,8,3,10.5,0,1,0,5,4
+2018-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High","No ","Hispanic or Latino",582,44,29,1,5,3,20,1,18,1
+2018-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary","No ","Hispanic or Latino",67,2,2,0,3,1,0,0,0,0
+2018-01-08,S,21,65417,6024525,Marin,"Novato Unified","Lynwood Elementary",All,"Hispanic or Latino",202,1,1,0,0.5,0,1,0,0,0
+2018-01-08,S,21,65417,6024590,Marin,"Novato Unified","San Ramon Elementary",All,"Hispanic or Latino",95,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary","No ","Hispanic or Latino",152,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High","No ","Hispanic or Latino",364,31,22,1,6,5,8,0,14,2
+2018-01-08,S,21,65417,1,Marin,"Novato Unified","Nonpublic, Nonsectarian Schools",All,"Hispanic or Latino",14,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary","No ","Hispanic or Latino",216,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary",All,"Hispanic or Latino",152,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6113229,Marin,"Novato Unified","Novato Charter",All,"Hispanic or Latino",43,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle","No ","Hispanic or Latino",253,5,5,0,2,0,2,0,3,0
+2018-01-08,S,21,65417,6024590,Marin,"Novato Unified","San Ramon Elementary","No ","Hispanic or Latino",95,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park","No ","Hispanic or Latino",401,13,10,2,2.5,1,10,0,0,2
+2018-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park",All,"Hispanic or Latino",401,13,10,2,2.5,1,10,0,0,2
+2018-01-08,S,21,65417,6024509,Marin,"Novato Unified","Loma Verde Elementary",All,"Hispanic or Latino",182,3,1,0,0.5,0,3,0,0,0
+2018-01-08,S,21,65417,6024509,Marin,"Novato Unified","Loma Verde Elementary","No ","Hispanic or Latino",182,3,1,0,0.5,0,3,0,0,0
+2018-01-08,S,21,65417,6024525,Marin,"Novato Unified","Lynwood Elementary","No ","Hispanic or Latino",202,1,1,0,0.5,0,1,0,0,0
+2018-01-08,S,21,65417,1,Marin,"Novato Unified","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",14,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65425,6024616,Marin,"Reed Union Elementary","Bel Aire Elementary","No ","Hispanic or Latino",26,1,1,0,3.8,1,0,0,0,0
+2018-01-08,S,21,65425,6024632,Marin,"Reed Union Elementary","Del Mar Middle",All,"Hispanic or Latino",23,3,2,0,8.7,0,3,0,0,0
+2018-01-08,S,21,65425,6024657,Marin,"Reed Union Elementary","Reed Elementary","No ","Hispanic or Latino",21,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65425,6024632,Marin,"Reed Union Elementary","Del Mar Middle","No ","Hispanic or Latino",23,3,2,0,8.7,0,3,0,0,0
+2018-01-08,S,21,65425,6024616,Marin,"Reed Union Elementary","Bel Aire Elementary",All,"Hispanic or Latino",26,1,1,0,3.8,1,0,0,0,0
+2018-01-08,S,21,65425,6024657,Marin,"Reed Union Elementary","Reed Elementary",All,"Hispanic or Latino",21,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65433,6024673,Marin,"Ross Elementary","Ross Elementary","No ","Hispanic or Latino",27,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65433,6024673,Marin,"Ross Elementary","Ross Elementary",All,"Hispanic or Latino",27,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle",All,"Hispanic or Latino",859,79,53,9,6.2,5,33,1,21,13
+2018-01-08,S,21,65458,6024756,Marin,"San Rafael City Elementary","Bahia Vista Elementary",All,"Hispanic or Latino",571,9,5,1,0.9,5,2,0,0,1
+2018-01-08,S,21,65458,121517,Marin,"San Rafael City Elementary","Short Elementary",All,"Hispanic or Latino",155,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ","Hispanic or Latino",859,79,53,9,6.2,5,33,1,21,13
+2018-01-08,S,21,65458,6024756,Marin,"San Rafael City Elementary","Bahia Vista Elementary","No ","Hispanic or Latino",571,9,5,1,0.9,5,2,0,0,1
+2018-01-08,S,21,65458,6024830,Marin,"San Rafael City Elementary","San Pedro Elementary",All,"Hispanic or Latino",554,4,3,0,0.5,3,1,0,0,0
+2018-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8",All,"Hispanic or Latino",602,17,15,1,2.5,1,3,2,9,1
+2018-01-08,S,21,65458,6024863,Marin,"San Rafael City Elementary","Sun Valley Elementary","No ","Hispanic or Latino",104,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary","No ","Hispanic or Latino",90,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary","No ","Hispanic or Latino",180,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ","Hispanic or Latino",602,17,15,1,2.5,1,3,2,9,1
+2018-01-08,S,21,65458,6024764,Marin,"San Rafael City Elementary","Coleman Elementary","No ","Hispanic or Latino",210,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024863,Marin,"San Rafael City Elementary","Sun Valley Elementary",All,"Hispanic or Latino",104,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,1,Marin,"San Rafael City Elementary","Nonpublic, Nonsectarian Schools",All,"Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary",All,"Hispanic or Latino",90,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary",All,"Hispanic or Latino",180,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024830,Marin,"San Rafael City Elementary","San Pedro Elementary","No ","Hispanic or Latino",554,4,3,0,0.5,3,1,0,0,0
+2018-01-08,S,21,65458,6024764,Marin,"San Rafael City Elementary","Coleman Elementary",All,"Hispanic or Latino",210,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,121517,Marin,"San Rafael City Elementary","Short Elementary","No ","Hispanic or Latino",155,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,1,Marin,"San Rafael City Elementary","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,2133254,Marin,"San Rafael City High","Madrone High Continuation",All,"Hispanic or Latino",64,13,11,3,17.2,2,6,0,2,3
+2018-01-08,S,21,65466,1,Marin,"San Rafael City High","Nonpublic, Nonsectarian Schools",All,"Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High","No ","Hispanic or Latino",620,32,26,1,4.2,0,14,0,15,1
+2018-01-08,S,21,65466,1,Marin,"San Rafael City High","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,2133254,Marin,"San Rafael City High","Madrone High Continuation","No ","Hispanic or Latino",64,13,11,3,17.2,2,6,0,2,3
+2018-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High","No ","Hispanic or Latino",921,110,81,15,8.8,18,45,2,26,17
+2018-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High",All,"Hispanic or Latino",921,110,81,15,8.8,18,45,2,26,17
+2018-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High",All,"Hispanic or Latino",620,32,26,1,4.2,0,14,0,15,1
+2018-01-08,S,21,65474,6118491,Marin,"Sausalito Marin City","Willow Creek Academy",Yes,"Hispanic or Latino",108,6,6,1,5.6,0,4,0,1,1
+2018-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy",All,"Hispanic or Latino",38,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy","No ","Hispanic or Latino",38,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65474,6118491,Marin,"Sausalito Marin City","Willow Creek Academy",All,"Hispanic or Latino",108,6,6,1,5.6,0,4,0,1,1
+2018-01-08,S,21,65482,2130078,Marin,"Tamalpais Union High","Tamiscal High (Alternative)",All,"Hispanic or Latino",19,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,1,Marin,"Tamalpais Union High","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)","No ","Hispanic or Latino",37,1,1,0,2.7,0,1,0,0,0
+2018-01-08,S,21,65482,1,Marin,"Tamalpais Union High","Nonpublic, Nonsectarian Schools",All,"Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2131340,Marin,"Tamalpais Union High","Archie Williams High","No ","Hispanic or Latino",172,5,5,0,2.9,1,2,0,2,0
+2018-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High",All,"Hispanic or Latino",178,5,5,0,2.8,0,1,0,4,0
+2018-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High",All,"Hispanic or Latino",292,6,5,0,1.7,0,2,1,3,0
+2018-01-08,S,21,65482,2130078,Marin,"Tamalpais Union High","Tamiscal High (Alternative)","No ","Hispanic or Latino",19,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2131340,Marin,"Tamalpais Union High","Archie Williams High",All,"Hispanic or Latino",172,5,5,0,2.9,1,2,0,2,0
+2018-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High","No ","Hispanic or Latino",292,6,5,0,1.7,0,2,1,3,0
+2018-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)",All,"Hispanic or Latino",37,1,1,0,2.7,0,1,0,0,0
+2018-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High","No ","Hispanic or Latino",178,5,5,0,2.8,0,1,0,4,0
+2018-01-08,S,21,73361,6024947,Marin,"Shoreline Unified","Inverness Elementary","No ","Hispanic or Latino",19,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,2134310,Marin,"Shoreline Unified","Tomales High",All,"Hispanic or Latino",99,8,8,3,8.1,1,1,0,3,3
+2018-01-08,S,21,73361,6024947,Marin,"Shoreline Unified","Inverness Elementary",All,"Hispanic or Latino",19,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,6051627,Marin,"Shoreline Unified","Bodega Bay Elementary","No ","Hispanic or Latino",15,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,2134310,Marin,"Shoreline Unified","Tomales High","No ","Hispanic or Latino",99,8,8,3,8.1,1,1,0,3,3
+2018-01-08,S,21,73361,6024954,Marin,"Shoreline Unified","West Marin Elementary",All,"Hispanic or Latino",81,1,1,0,1.2,1,0,0,0,0
+2018-01-08,S,21,73361,6024954,Marin,"Shoreline Unified","West Marin Elementary","No ","Hispanic or Latino",81,1,1,0,1.2,1,0,0,0,0
+2018-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary","No ","Hispanic or Latino",103,3,2,0,1.9,2,1,0,0,0
+2018-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary",All,"Hispanic or Latino",103,3,2,0,1.9,2,1,0,0,0
+2018-01-08,S,21,73361,6051627,Marin,"Shoreline Unified","Bodega Bay Elementary",All,"Hispanic or Latino",15,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,1,Marin,"Ross Valley Elementary","Nonpublic, Nonsectarian Schools","No ","Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024277,Marin,"Ross Valley Elementary","Manor Elementary",All,"Hispanic or Latino",41,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024681,Marin,"Ross Valley Elementary","Brookside Elementary","No ","Hispanic or Latino",36,4,1,0,2.8,0,4,0,0,0
+2018-01-08,S,21,75002,6024731,Marin,"Ross Valley Elementary","Wade Thomas Elementary",All,"Hispanic or Latino",40,1,1,0,2.5,1,0,0,0,0
+2018-01-08,S,21,75002,6024731,Marin,"Ross Valley Elementary","Wade Thomas Elementary","No ","Hispanic or Latino",40,1,1,0,2.5,1,0,0,0,0
+2018-01-08,S,21,75002,6024285,Marin,"Ross Valley Elementary","White Hill Middle","No ","Hispanic or Latino",90,4,4,0,4.4,1,0,0,3,0
+2018-01-08,S,21,75002,1,Marin,"Ross Valley Elementary","Nonpublic, Nonsectarian Schools",All,"Hispanic or Latino",0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,124578,Marin,"Ross Valley Elementary","Hidden Valley Elementary","No ","Hispanic or Latino",34,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024681,Marin,"Ross Valley Elementary","Brookside Elementary",All,"Hispanic or Latino",36,4,1,0,2.8,0,4,0,0,0
+2018-01-08,S,21,75002,6024277,Marin,"Ross Valley Elementary","Manor Elementary","No ","Hispanic or Latino",41,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024285,Marin,"Ross Valley Elementary","White Hill Middle",All,"Hispanic or Latino",90,4,4,0,4.4,1,0,0,3,0
+2018-01-08,S,21,75002,124578,Marin,"Ross Valley Elementary","Hidden Valley Elementary",All,"Hispanic or Latino",34,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,77065,135350,Marin,"SBE - Ross Valley Elementary","Ross Valley Charter",All,"Hispanic or Latino",43,2,1,0,2.3,1,1,0,0,0
+2018-01-08,S,21,77065,135350,Marin,"SBE - Ross Valley Elementary","Ross Valley Charter",Yes,"Hispanic or Latino",43,2,1,0,2.3,1,1,0,0,0

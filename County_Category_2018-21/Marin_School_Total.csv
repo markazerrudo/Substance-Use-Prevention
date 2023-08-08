@@ -1,0 +1,432 @@
+AcademicYear,AggregateLevel,CountyCode,DistrictCode,SchoolCode,CountyName,DistrictName,SchoolName,CharterYN,ReportingCategory,CumulativeEnrollment,TotalSuspensions,TotalSusStudents,TotalDefiance,SuspensionRate,SuspensionViolent_Injury,NonInjury_Violent_Suspension,Weapon_possession_suspension,Drug_Suspensino_Defiance,Other_Suspension_Reason
+2021-01-08,S,21,,,Marin,"Bolinas-Stinson Union","Bolinas-Stinson Elementary","No ",Total,105,3,3,2,2.9,0,1,0,0,2
+2021-01-08,S,21,,,Marin,"Kentfield Elementary","Adaline E. Kent Middle","No ",Total,521,11,9,0,1.7,0,9,1,0,0
+2021-01-08,S,21,,,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary","No ",Total,538,1,1,0,0.2,1,0,0,0,0
+2021-01-08,S,21,,,Marin,"Kentfield Elementary","Nonpublic, Nonsectarian Schools","No ",Total,2,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Laguna Joint Elementary","Laguna Elementary","No ",Total,16,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Laguna Joint Elementary","Lincoln Union","No ",Total,7,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Lagunitas Elementary","Lagunitas Elementary","No ",Total,147,2,2,0,1.4,1,0,0,1,0
+2021-01-08,S,21,,,Marin,"Lagunitas Elementary","San Geronimo Valley Elementary","No ",Total,58,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Larkspur-Corte Madera",Cove,"No ",Total,370,1,1,0,0.3,0,1,0,0,0
+2021-01-08,S,21,,,Marin,"Larkspur-Corte Madera","Hall Middle","No ",Total,491,3,3,0,0.6,0,2,0,1,0
+2021-01-08,S,21,,,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary","No ",Total,517,2,2,0,0.4,0,2,0,0,0
+2021-01-08,S,21,,,Marin,"Larkspur-Corte Madera","Nonpublic, Nonsectarian Schools","No ",Total,5,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Marin County Office of Education","Marin County Juvenile Court","No ",Total,56,1,1,0,1.8,0,1,0,0,0
+2021-01-08,S,21,,,Marin,"Marin County Office of Education","Marin County Special Education","No ",Total,232,30,12,6,5.2,11,8,2,0,6
+2021-01-08,S,21,,,Marin,"Marin County Office of Education","Marin's Community","No ",Total,71,8,5,0,7,0,8,0,0,0
+2021-01-08,S,21,,,Marin,"Marin County Office of Education","Nonpublic, Nonsectarian Schools","No ",Total,23,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Marin County Office of Education","Phoenix Academy",Yes,Total,39,2,2,0,5.1,0,1,0,1,0
+2021-01-08,S,21,,,Marin,"Marin County Office of Education","Ross Valley Charter",Yes,Total,217,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Mill Valley Elementary","Edna Maguire Elementary","No ",Total,431,6,2,1,0.5,2,1,0,0,3
+2021-01-08,S,21,,,Marin,"Mill Valley Elementary","Mill Valley Middle","No ",Total,828,22,15,0,1.8,6,9,2,2,0
+2021-01-08,S,21,,,Marin,"Mill Valley Elementary","Nonpublic, Nonsectarian Schools","No ",Total,7,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Mill Valley Elementary","Old Mill Elementary","No ",Total,267,2,2,0,0.7,1,1,0,0,0
+2021-01-08,S,21,,,Marin,"Mill Valley Elementary","Park Elementary","No ",Total,275,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Mill Valley Elementary","Strawberry Point Elementary","No ",Total,264,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary","No ",Total,400,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Miller Creek Elementary","Lucas Valley Elementary","No ",Total,346,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Miller Creek Elementary","Mary E. Silveira Elementary","No ",Total,393,1,1,0,0.3,0,1,0,0,0
+2021-01-08,S,21,,,Marin,"Miller Creek Elementary","Miller Creek Middle","No ",Total,667,35,23,1,3.4,2,14,3,10,1
+2021-01-08,S,21,,,Marin,"Miller Creek Elementary","Nonpublic, Nonsectarian Schools","No ",Total,10,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Miller Creek Elementary","Vallecito Elementary","No ",Total,412,1,1,0,0.2,0,1,0,0,0
+2021-01-08,S,21,,,Marin,Nicasio,Nicasio,"No ",Total,36,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Hamilton Meadow Park","No ",Total,551,40,25,7,4.5,3,21,2,2,8
+2021-01-08,S,21,,,Marin,"Novato Unified","Loma Verde Elementary","No ",Total,417,15,3,0,0.7,4,11,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Lu Sutton Elementary","No ",Total,359,1,1,0,0.3,0,1,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Lynwood Elementary","No ",Total,268,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Marin Oaks High","No ",Total,112,17,13,1,11.6,7,4,0,5,1
+2021-01-08,S,21,,,Marin,"Novato Unified","Nonpublic, Nonsectarian Schools","No ",Total,56,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Nova Education Center","No ",Total,276,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Novato Charter",Yes,Total,272,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Novato High","No ",Total,1515,49,41,1,2.7,14,6,4,24,1
+2021-01-08,S,21,,,Marin,"Novato Unified","Olive Elementary","No ",Total,354,1,1,0,0.3,0,1,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Pleasant Valley Elementary","No ",Total,405,1,1,0,0.2,0,1,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Rancho Elementary","No ",Total,376,6,4,1,1.1,0,5,0,0,1
+2021-01-08,S,21,,,Marin,"Novato Unified","San Jose Intermediate","No ",Total,576,52,37,2,6.4,10,15,4,21,2
+2021-01-08,S,21,,,Marin,"Novato Unified","San Marin High","No ",Total,1179,27,21,2,1.8,2,18,1,3,2
+2021-01-08,S,21,,,Marin,"Novato Unified","San Ramon Elementary","No ",Total,426,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Novato Unified","Sinaloa Middle","No ",Total,798,63,28,0,3.5,0,53,1,8,0
+2021-01-08,S,21,,,Marin,"Reed Union Elementary","Bel Aire Elementary","No ",Total,339,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Reed Union Elementary","Del Mar Middle","No ",Total,419,25,17,0,4.1,12,11,0,1,0
+2021-01-08,S,21,,,Marin,"Reed Union Elementary","Nonpublic, Nonsectarian Schools","No ",Total,2,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Reed Union Elementary","Reed Elementary","No ",Total,289,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Ross Elementary","Nonpublic, Nonsectarian Schools","No ",Total,1,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Ross Elementary","Ross Elementary","No ",Total,372,8,5,0,1.3,3,5,0,0,0
+2021-01-08,S,21,,,Marin,"Ross Valley Elementary","Brookside Elementary","No ",Total,296,2,2,0,0.7,1,1,0,0,0
+2021-01-08,S,21,,,Marin,"Ross Valley Elementary","District Office","No ",Total,8,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Ross Valley Elementary","Hidden Valley Elementary","No ",Total,253,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Ross Valley Elementary","Manor Elementary","No ",Total,234,10,5,0,2.1,0,5,0,2,0
+2021-01-08,S,21,,,Marin,"Ross Valley Elementary","Nonpublic, Nonsectarian Schools","No ",Total,10,2,1,0,10,1,1,0,0,0
+2021-01-08,S,21,,,Marin,"Ross Valley Elementary","Wade Thomas Elementary","No ",Total,332,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Ross Valley Elementary","White Hill Middle","No ",Total,678,8,8,0,1.2,1,5,0,2,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Bahia Vista Elementary","No ",Total,600,6,6,0,1,0,4,2,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Coleman Elementary","No ",Total,382,2,1,0,0.3,0,1,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Glenwood Elementary","No ",Total,300,14,10,0,3.3,1,13,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ",Total,1103,31,25,0,2.3,3,25,1,2,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Laurel Dell Elementary","No ",Total,288,2,2,0,0.7,0,1,0,1,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Nonpublic, Nonsectarian Schools","No ",Total,18,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","San Pedro Elementary","No ",Total,534,18,12,4,2.2,1,10,0,0,4
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Sun Valley Elementary","No ",Total,473,5,4,1,0.8,0,3,1,0,1
+2021-01-08,S,21,,,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ",Total,702,14,13,0,1.9,3,11,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City High","Madrone High Continuation","No ",Total,173,29,22,0,12.7,4,9,1,15,0
+2021-01-08,S,21,,,Marin,"San Rafael City High","Nonpublic, Nonsectarian Schools","No ",Total,25,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"San Rafael City High","San Rafael High","No ",Total,1374,110,80,7,5.8,25,48,5,24,7
+2021-01-08,S,21,,,Marin,"San Rafael City High","Terra Linda High","No ",Total,1270,72,62,10,4.9,19,24,2,16,10
+2021-01-08,S,21,,,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy","No ",Total,433,15,14,1,3.2,6,5,2,1,1
+2021-01-08,S,21,,,Marin,"Sausalito Marin City","Nonpublic, Nonsectarian Schools","No ",Total,3,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Shoreline Unified","Bodega Bay Elementary","No ",Total,30,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Shoreline Unified","Inverness Elementary","No ",Total,40,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Shoreline Unified","Nonpublic, Nonsectarian Schools","No ",Total,2,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Shoreline Unified","Tomales Elementary","No ",Total,152,4,3,0,2,2,2,0,0,0
+2021-01-08,S,21,,,Marin,"Shoreline Unified","Tomales High","No ",Total,149,11,10,0,6.7,1,7,1,1,0
+2021-01-08,S,21,,,Marin,"Shoreline Unified","West Marin Elementary","No ",Total,132,4,4,1,3,0,3,0,0,1
+2021-01-08,S,21,,,Marin,"Tamalpais Union High","Archie Williams High","No ",Total,1310,13,12,0,0.9,4,4,1,4,0
+2021-01-08,S,21,,,Marin,"Tamalpais Union High","Nonpublic, Nonsectarian Schools","No ",Total,29,0,0,0,0,0,0,0,0,0
+2021-01-08,S,21,,,Marin,"Tamalpais Union High","Redwood High","No ",Total,1977,25,18,1,0.9,14,7,1,1,2
+2021-01-08,S,21,,,Marin,"Tamalpais Union High","San Andreas High (Continuation)","No ",Total,101,3,3,0,3,3,0,0,0,0
+2021-01-08,S,21,,,Marin,"Tamalpais Union High","Tamalpais High","No ",Total,1676,9,9,1,0.5,2,2,0,4,1
+2021-01-08,S,21,,,Marin,"Tamalpais Union High","Tamiscal High (Alternative)","No ",Total,144,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65300,6024137,Marin,"Bolinas-Stinson Union","Bolinas-Stinson Elementary","No ",Total,92,3,2,1,2.2,0,2,0,0,1
+2020-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle","No ",Total,535,2,2,0,0.4,0,2,0,0,0
+2020-01-08,S,21,65334,6024319,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary","No ",Total,584,2,2,0,0.3,2,0,0,0,0
+2020-01-08,S,21,65334,1,Marin,"Kentfield Elementary","Nonpublic, Nonsectarian Schools","No ",Total,3,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65342,6024327,Marin,"Laguna Joint Elementary","Laguna Elementary","No ",Total,20,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65359,6024335,Marin,"Lagunitas Elementary","Lagunitas Elementary","No ",Total,156,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65359,6024343,Marin,"Lagunitas Elementary","San Geronimo Valley Elementary","No ",Total,85,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65367,129148,Marin,"Larkspur-Corte Madera",Cove,"No ",Total,382,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65367,6024350,Marin,"Larkspur-Corte Madera","Hall Middle","No ",Total,526,3,3,0,0.6,2,1,0,0,0
+2020-01-08,S,21,65367,6024376,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary","No ",Total,585,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65367,1,Marin,"Larkspur-Corte Madera","Nonpublic, Nonsectarian Schools","No ",Total,4,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65375,6024392,Marin,"Lincoln Elementary","Lincoln Union Elementary","No ",Total,10,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,10215,113183,Marin,"Marin County Office of Education","Marin County Juvenile Court","No ",Total,45,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education","No ",Total,233,11,7,0,3,9,0,1,0,0
+2020-01-08,S,21,10215,2130037,Marin,"Marin County Office of Education","Marin's Community","No ",Total,86,1,1,0,1.2,0,1,0,0,0
+2020-01-08,S,21,10215,1,Marin,"Marin County Office of Education","Nonpublic, Nonsectarian Schools","No ",Total,33,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,10215,2130102,Marin,"Marin County Office of Education","Phoenix Academy",Yes,Total,29,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024418,Marin,"Mill Valley Elementary","Edna Maguire Elementary","No ",Total,506,3,2,2,0.4,0,0,0,0,3
+2020-01-08,S,21,65391,6085187,Marin,"Mill Valley Elementary","Mill Valley Middle","No ",Total,969,3,3,1,0.3,0,0,1,1,1
+2020-01-08,S,21,65391,1,Marin,"Mill Valley Elementary","Nonpublic, Nonsectarian Schools","No ",Total,6,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024442,Marin,"Mill Valley Elementary","Old Mill Elementary","No ",Total,287,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024459,Marin,"Mill Valley Elementary","Park Elementary","No ",Total,279,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024467,Marin,"Mill Valley Elementary","Strawberry Point Elementary","No ",Total,276,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65391,6024475,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary","No ",Total,437,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024160,Marin,"Miller Creek Elementary","Lucas Valley Elementary","No ",Total,359,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024194,Marin,"Miller Creek Elementary","Mary E. Silveira Elementary","No ",Total,479,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024202,Marin,"Miller Creek Elementary","Miller Creek Middle","No ",Total,704,10,9,0,1.3,0,5,0,5,0
+2020-01-08,S,21,65318,1,Marin,"Miller Creek Elementary","Nonpublic, Nonsectarian Schools","No ",Total,12,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65318,6024244,Marin,"Miller Creek Elementary","Vallecito Elementary","No ",Total,427,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65409,6024483,Marin,Nicasio,Nicasio,"No ",Total,37,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park","No ",Total,593,3,3,1,0.5,1,1,0,0,1
+2020-01-08,S,21,65417,6024509,Marin,"Novato Unified","Loma Verde Elementary","No ",Total,440,1,1,0,0.2,0,1,0,0,0
+2020-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary","No ",Total,351,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024525,Marin,"Novato Unified","Lynwood Elementary","No ",Total,310,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,2132264,Marin,"Novato Unified","Marin Oaks High","No ",Total,106,4,3,1,2.8,0,1,0,2,1
+2020-01-08,S,21,65417,1,Marin,"Novato Unified","Nonpublic, Nonsectarian Schools","No ",Total,44,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center","No ",Total,81,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6113229,Marin,"Novato Unified","Novato Charter",Yes,Total,285,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High","No ",Total,1477,3,3,0,0.2,2,1,0,0,0
+2020-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary","No ",Total,370,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary","No ",Total,398,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65417,6024582,Marin,"Novato Unified","Rancho Elementary","No ",Total,369,2,1,0,0.3,1,1,0,0,0
+2020-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate","No ",Total,630,1,1,0,0.2,0,0,1,0,0
+2020-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High","No ",Total,1154,2,2,0,0.2,1,1,0,0,0
+2020-01-08,S,21,65417,6024590,Marin,"Novato Unified","San Ramon Elementary","No ",Total,497,2,2,0,0.4,1,1,0,0,0
+2020-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle","No ",Total,822,12,8,0,1,0,9,0,3,0
+2020-01-08,S,21,65425,6024616,Marin,"Reed Union Elementary","Bel Aire Elementary","No ",Total,388,1,1,1,0.3,0,0,0,0,1
+2020-01-08,S,21,65425,6024632,Marin,"Reed Union Elementary","Del Mar Middle","No ",Total,484,9,4,0,0.8,1,6,0,2,0
+2020-01-08,S,21,65425,1,Marin,"Reed Union Elementary","Nonpublic, Nonsectarian Schools","No ",Total,2,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65425,6024657,Marin,"Reed Union Elementary","Reed Elementary","No ",Total,331,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65433,6024673,Marin,"Ross Elementary","Ross Elementary","No ",Total,395,2,2,0,0.5,0,2,0,0,0
+2020-01-08,S,21,75002,6024681,Marin,"Ross Valley Elementary","Brookside Elementary","No ",Total,306,5,2,0,0.7,4,1,0,0,0
+2020-01-08,S,21,75002,124578,Marin,"Ross Valley Elementary","Hidden Valley Elementary","No ",Total,265,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,6024277,Marin,"Ross Valley Elementary","Manor Elementary","No ",Total,239,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,1,Marin,"Ross Valley Elementary","Nonpublic, Nonsectarian Schools","No ",Total,13,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,75002,6024731,Marin,"Ross Valley Elementary","Wade Thomas Elementary","No ",Total,330,1,1,0,0.3,1,0,0,0,0
+2020-01-08,S,21,75002,6024285,Marin,"Ross Valley Elementary","White Hill Middle","No ",Total,694,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024756,Marin,"San Rafael City Elementary","Bahia Vista Elementary","No ",Total,548,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024764,Marin,"San Rafael City Elementary","Coleman Elementary","No ",Total,728,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary","No ",Total,364,3,3,0,0.8,0,1,0,2,0
+2020-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ",Total,1154,4,4,0,0.3,0,2,0,1,0
+2020-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary","No ",Total,259,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,1,Marin,"San Rafael City Elementary","Nonpublic, Nonsectarian Schools","No ",Total,15,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024830,Marin,"San Rafael City Elementary","San Pedro Elementary","No ",Total,453,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024863,Marin,"San Rafael City Elementary","Sun Valley Elementary","No ",Total,470,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ",Total,640,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65466,2133254,Marin,"San Rafael City High","Madrone High Continuation","No ",Total,148,1,1,0,0.7,0,1,0,0,0
+2020-01-08,S,21,65466,1,Marin,"San Rafael City High","Nonpublic, Nonsectarian Schools","No ",Total,25,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High","No ",Total,1321,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High","No ",Total,1280,1,1,0,0.1,0,1,0,0,0
+2020-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy","No ",Total,131,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65474,6118491,Marin,"Sausalito Marin City","Willow Creek Academy Charter",Yes,Total,359,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,77065,135350,Marin,"SBE - Ross Valley Elementary","Ross Valley Charter",Yes,Total,227,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,6051627,Marin,"Shoreline Unified","Bodega Bay Elementary","No ",Total,27,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,6024947,Marin,"Shoreline Unified","Inverness Elementary","No ",Total,30,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,1,Marin,"Shoreline Unified","Nonpublic, Nonsectarian Schools","No ",Total,1,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary","No ",Total,149,3,3,0,2,0,0,0,3,0
+2020-01-08,S,21,73361,2134310,Marin,"Shoreline Unified","Tomales High","No ",Total,167,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,73361,6024954,Marin,"Shoreline Unified","West Marin Elementary","No ",Total,145,3,3,3,2.1,0,0,0,0,3
+2020-01-08,S,21,65482,1,Marin,"Tamalpais Union High","Nonpublic, Nonsectarian Schools","No ",Total,40,0,0,0,0,0,0,0,0,0
+2020-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High","No ",Total,2019,4,3,0,0.1,1,3,0,0,0
+2020-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)","No ",Total,105,1,1,0,1,1,0,0,0,0
+2020-01-08,S,21,65482,2131340,Marin,"Tamalpais Union High","Archie Williams High","No ",Total,1374,4,3,0,0.2,0,4,0,0,0
+2020-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High","No ",Total,1629,3,3,0,0.2,0,0,1,2,0
+2020-01-08,S,21,65482,2130078,Marin,"Tamalpais Union High","Tamiscal High (Alternative)","No ",Total,124,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65300,6024137,Marin,"Bolinas-Stinson Union","Bolinas-Stinson Elementary","No ",Total,96,3,3,1,3.1,0,2,0,0,1
+2019-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle","No ",Total,565,9,9,2,1.6,0,7,0,0,2
+2019-01-08,S,21,65334,6024319,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary","No ",Total,640,9,4,0,0.6,1,7,0,0,0
+2019-01-08,S,21,65334,1,Marin,"Kentfield Elementary","Nonpublic, Nonsectarian Schools","No ",Total,4,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65342,6024327,Marin,"Laguna Joint Elementary","Laguna Elementary","No ",Total,10,1,1,0,10,0,1,0,0,0
+2019-01-08,S,21,65359,6024335,Marin,"Lagunitas Elementary","Lagunitas Elementary","No ",Total,165,4,3,0,1.8,3,1,0,0,0
+2019-01-08,S,21,65359,1,Marin,"Lagunitas Elementary","Nonpublic, Nonsectarian Schools","No ",Total,2,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65359,6024343,Marin,"Lagunitas Elementary","San Geronimo Valley Elementary","No ",Total,88,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65367,129148,Marin,"Larkspur-Corte Madera",Cove,"No ",Total,420,2,2,0,0.5,0,2,0,0,0
+2019-01-08,S,21,65367,6024350,Marin,"Larkspur-Corte Madera","Hall Middle","No ",Total,534,3,3,0,0.6,0,2,0,1,0
+2019-01-08,S,21,65367,6024376,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary","No ",Total,607,3,3,1,0.5,0,2,0,0,1
+2019-01-08,S,21,65367,1,Marin,"Larkspur-Corte Madera","Nonpublic, Nonsectarian Schools","No ",Total,3,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65375,6024392,Marin,"Lincoln Elementary","Lincoln Union Elementary","No ",Total,7,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,10215,113183,Marin,"Marin County Office of Education","Marin County Juvenile Court","No ",Total,67,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education","No ",Total,231,17,11,2,4.8,12,1,0,1,2
+2019-01-08,S,21,10215,2130037,Marin,"Marin County Office of Education","Marin's Community","No ",Total,91,9,5,2,5.5,0,3,0,1,3
+2019-01-08,S,21,10215,1,Marin,"Marin County Office of Education","Nonpublic, Nonsectarian Schools","No ",Total,39,5,3,1,7.7,2,0,0,0,1
+2019-01-08,S,21,10215,2130102,Marin,"Marin County Office of Education","Phoenix Academy",Yes,Total,26,12,8,3,30.8,0,4,0,5,3
+2019-01-08,S,21,65391,6024418,Marin,"Mill Valley Elementary","Edna Maguire Elementary","No ",Total,519,11,11,11,2.1,0,0,0,0,11
+2019-01-08,S,21,65391,6085187,Marin,"Mill Valley Elementary","Mill Valley Middle","No ",Total,1024,25,16,11,1.6,2,6,1,4,11
+2019-01-08,S,21,65391,1,Marin,"Mill Valley Elementary","Nonpublic, Nonsectarian Schools","No ",Total,8,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6024442,Marin,"Mill Valley Elementary","Old Mill Elementary","No ",Total,297,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6024459,Marin,"Mill Valley Elementary","Park Elementary","No ",Total,308,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6024467,Marin,"Mill Valley Elementary","Strawberry Point Elementary","No ",Total,285,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65391,6024475,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary","No ",Total,461,2,2,1,0.4,1,0,0,0,1
+2019-01-08,S,21,65318,6024160,Marin,"Miller Creek Elementary","Lucas Valley Elementary","No ",Total,398,5,3,3,0.8,0,0,0,0,5
+2019-01-08,S,21,65318,6024194,Marin,"Miller Creek Elementary","Mary E. Silveira Elementary","No ",Total,457,7,6,2,1.3,0,2,2,0,2
+2019-01-08,S,21,65318,6024202,Marin,"Miller Creek Elementary","Miller Creek Middle","No ",Total,708,35,25,3,3.5,5,15,0,9,3
+2019-01-08,S,21,65318,1,Marin,"Miller Creek Elementary","Nonpublic, Nonsectarian Schools","No ",Total,8,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65318,6024244,Marin,"Miller Creek Elementary","Vallecito Elementary","No ",Total,512,3,2,1,0.4,0,2,0,0,1
+2019-01-08,S,21,65409,6024483,Marin,Nicasio,Nicasio,"No ",Total,42,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park","No ",Total,598,11,11,2,1.8,0,6,2,0,2
+2019-01-08,S,21,65417,6024509,Marin,"Novato Unified","Loma Verde Elementary","No ",Total,421,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary","No ",Total,409,16,3,0,0.7,0,16,0,0,0
+2019-01-08,S,21,65417,6024525,Marin,"Novato Unified","Lynwood Elementary","No ",Total,292,3,2,1,0.7,1,0,0,0,2
+2019-01-08,S,21,65417,2132264,Marin,"Novato Unified","Marin Oaks High","No ",Total,109,9,7,1,6.4,1,4,0,3,1
+2019-01-08,S,21,65417,1,Marin,"Novato Unified","Nonpublic, Nonsectarian Schools","No ",Total,44,1,1,0,2.3,0,1,0,0,0
+2019-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center","No ",Total,87,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6113229,Marin,"Novato Unified","Novato Charter",Yes,Total,274,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High","No ",Total,1496,76,57,2,3.8,12,17,3,39,2
+2019-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary","No ",Total,368,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary","No ",Total,458,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65417,6024582,Marin,"Novato Unified","Rancho Elementary","No ",Total,351,2,1,0,0.3,0,1,0,0,0
+2019-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate","No ",Total,713,39,26,1,3.6,2,27,1,8,1
+2019-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High","No ",Total,1156,39,33,9,2.9,3,2,0,22,9
+2019-01-08,S,21,65417,6024590,Marin,"Novato Unified","San Ramon Elementary","No ",Total,503,1,1,0,0.2,0,1,0,0,0
+2019-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle","No ",Total,852,22,14,1,1.6,0,13,2,5,2
+2019-01-08,S,21,65425,6024616,Marin,"Reed Union Elementary","Bel Aire Elementary","No ",Total,438,2,1,0,0.2,0,2,0,0,0
+2019-01-08,S,21,65425,6024632,Marin,"Reed Union Elementary","Del Mar Middle","No ",Total,546,13,11,0,2,0,4,0,6,0
+2019-01-08,S,21,65425,1,Marin,"Reed Union Elementary","Nonpublic, Nonsectarian Schools","No ",Total,3,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65425,6024657,Marin,"Reed Union Elementary","Reed Elementary","No ",Total,340,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65433,6024673,Marin,"Ross Elementary","Ross Elementary","No ",Total,387,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,75002,6024681,Marin,"Ross Valley Elementary","Brookside Elementary","No ",Total,358,10,2,0,0.6,0,10,0,0,0
+2019-01-08,S,21,75002,124578,Marin,"Ross Valley Elementary","Hidden Valley Elementary","No ",Total,328,1,1,0,0.3,0,1,0,0,0
+2019-01-08,S,21,75002,6024277,Marin,"Ross Valley Elementary","Manor Elementary","No ",Total,261,6,5,0,1.9,2,4,0,0,0
+2019-01-08,S,21,75002,1,Marin,"Ross Valley Elementary","Nonpublic, Nonsectarian Schools","No ",Total,12,1,1,0,8.3,1,0,0,0,0
+2019-01-08,S,21,75002,6024731,Marin,"Ross Valley Elementary","Wade Thomas Elementary","No ",Total,348,6,1,0,0.3,6,0,0,0,0
+2019-01-08,S,21,75002,6024285,Marin,"Ross Valley Elementary","White Hill Middle","No ",Total,783,9,9,0,1.1,0,4,0,5,0
+2019-01-08,S,21,65458,6024756,Marin,"San Rafael City Elementary","Bahia Vista Elementary","No ",Total,577,2,2,1,0.3,0,0,0,1,1
+2019-01-08,S,21,65458,6024764,Marin,"San Rafael City Elementary","Coleman Elementary","No ",Total,406,3,3,0,0.7,0,3,0,0,0
+2019-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary","No ",Total,394,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ",Total,1217,31,26,0,2.1,0,15,0,16,0
+2019-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary","No ",Total,198,9,9,0,4.5,0,0,0,9,0
+2019-01-08,S,21,65458,1,Marin,"San Rafael City Elementary","Nonpublic, Nonsectarian Schools","No ",Total,20,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,136671,Marin,"San Rafael City Elementary","Old Gallinas","No ",Total,12,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6024830,Marin,"San Rafael City Elementary","San Pedro Elementary","No ",Total,562,3,2,1,0.4,0,2,0,0,1
+2019-01-08,S,21,65458,121517,Marin,"San Rafael City Elementary","Short Elementary","No ",Total,103,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65458,6024863,Marin,"San Rafael City Elementary","Sun Valley Elementary","No ",Total,502,1,1,1,0.2,0,0,0,0,1
+2019-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ",Total,719,18,15,4,2.1,2,2,1,6,5
+2019-01-08,S,21,65466,2133254,Marin,"San Rafael City High","Madrone High Continuation","No ",Total,73,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65466,1,Marin,"San Rafael City High","Nonpublic, Nonsectarian Schools","No ",Total,21,12,1,1,4.8,5,4,0,0,1
+2019-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High","No ",Total,1449,38,30,2,2.1,4,16,5,10,2
+2019-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High","No ",Total,1361,12,9,3,0.7,0,3,0,4,4
+2019-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy","No ",Total,125,2,2,0,1.6,1,1,0,0,0
+2019-01-08,S,21,65474,6118491,Marin,"Sausalito Marin City","Willow Creek Academy Charter",Yes,Total,385,6,5,0,1.3,6,0,0,0,0
+2019-01-08,S,21,77065,135350,Marin,"SBE - Ross Valley Elementary","Ross Valley Charter",Yes,Total,203,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,73361,6051627,Marin,"Shoreline Unified","Bodega Bay Elementary","No ",Total,24,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,73361,6024947,Marin,"Shoreline Unified","Inverness Elementary","No ",Total,36,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary","No ",Total,145,8,7,3,4.8,0,1,0,4,3
+2019-01-08,S,21,73361,2134310,Marin,"Shoreline Unified","Tomales High","No ",Total,172,21,18,4,10.5,3,0,0,14,4
+2019-01-08,S,21,73361,6024954,Marin,"Shoreline Unified","West Marin Elementary","No ",Total,158,1,1,0,0.6,0,1,0,0,0
+2019-01-08,S,21,65482,1,Marin,"Tamalpais Union High","Nonpublic, Nonsectarian Schools","No ",Total,35,0,0,0,0,0,0,0,0,0
+2019-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High","No ",Total,1993,30,25,2,1.3,1,18,0,9,2
+2019-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)","No ",Total,101,2,2,0,2,0,2,0,0,0
+2019-01-08,S,21,65482,2131340,Marin,"Tamalpais Union High","Archie Williams High","No ",Total,1379,19,18,1,1.3,0,8,0,10,1
+2019-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High","No ",Total,1632,8,8,0,0.5,1,1,0,4,0
+2019-01-08,S,21,65482,2130078,Marin,"Tamalpais Union High","Tamiscal High (Alternative)","No ",Total,181,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,1,Marin,"Marin County Office of Education","Nonpublic, Nonsectarian Schools",All,Total,45,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,113183,Marin,"Marin County Office of Education","Marin County Juvenile Court",All,Total,97,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,2130037,Marin,"Marin County Office of Education","Marin's Community",All,Total,133,72,33,15,24.8,2,18,2,21,29
+2018-01-08,S,21,10215,1,Marin,"Marin County Office of Education","Nonpublic, Nonsectarian Schools","No ",Total,45,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education","No ",Total,224,36,21,3,9.4,15,12,0,3,3
+2018-01-08,S,21,10215,2130037,Marin,"Marin County Office of Education","Marin's Community","No ",Total,133,72,33,15,24.8,2,18,2,21,29
+2018-01-08,S,21,10215,6069504,Marin,"Marin County Office of Education","Marin County Special Education",All,Total,224,36,21,3,9.4,15,12,0,3,3
+2018-01-08,S,21,10215,2130102,Marin,"Marin County Office of Education","Phoenix Academy",Yes,Total,22,6,5,2,22.7,0,1,0,3,2
+2018-01-08,S,21,10215,113183,Marin,"Marin County Office of Education","Marin County Juvenile Court","No ",Total,97,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,10215,2130102,Marin,"Marin County Office of Education","Phoenix Academy",All,Total,22,6,5,2,22.7,0,1,0,3,2
+2018-01-08,S,21,65300,6024137,Marin,"Bolinas-Stinson Union","Bolinas-Stinson Elementary","No ",Total,92,3,1,0,1.1,0,3,0,0,0
+2018-01-08,S,21,65300,6024137,Marin,"Bolinas-Stinson Union","Bolinas-Stinson Elementary",All,Total,92,3,1,0,1.1,0,3,0,0,0
+2018-01-08,S,21,65318,6024202,Marin,"Dixie Elementary","Miller Creek Middle",All,Total,671,45,28,5,4.2,4,29,0,3,8
+2018-01-08,S,21,65318,6024160,Marin,"Dixie Elementary","Dixie Elementary",All,Total,433,23,8,8,1.8,1,0,0,0,21
+2018-01-08,S,21,65318,6024194,Marin,"Dixie Elementary","Mary E. Silveira Elementary",All,Total,464,6,5,2,1.1,0,2,2,0,2
+2018-01-08,S,21,65318,6024194,Marin,"Dixie Elementary","Mary E. Silveira Elementary","No ",Total,464,6,5,2,1.1,0,2,2,0,2
+2018-01-08,S,21,65318,1,Marin,"Dixie Elementary","Nonpublic, Nonsectarian Schools","No ",Total,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,1,Marin,"Dixie Elementary","Nonpublic, Nonsectarian Schools",All,Total,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65318,6024244,Marin,"Dixie Elementary","Vallecito Elementary",All,Total,489,2,2,0,0.4,0,2,0,0,0
+2018-01-08,S,21,65318,6024244,Marin,"Dixie Elementary","Vallecito Elementary","No ",Total,489,2,2,0,0.4,0,2,0,0,0
+2018-01-08,S,21,65318,6024202,Marin,"Dixie Elementary","Miller Creek Middle","No ",Total,671,45,28,5,4.2,4,29,0,3,8
+2018-01-08,S,21,65318,6024160,Marin,"Dixie Elementary","Dixie Elementary","No ",Total,433,23,8,8,1.8,1,0,0,0,21
+2018-01-08,S,21,65334,6024319,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary","No ",Total,652,12,5,2,0.8,0,9,0,0,2
+2018-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle","No ",Total,594,17,14,1,2.4,1,8,1,0,1
+2018-01-08,S,21,65334,1,Marin,"Kentfield Elementary","Nonpublic, Nonsectarian Schools","No ",Total,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65334,6024319,Marin,"Kentfield Elementary","Anthony G. Bacich Elementary",All,Total,652,12,5,2,0.8,0,9,0,0,2
+2018-01-08,S,21,65334,6068308,Marin,"Kentfield Elementary","Adaline E. Kent Middle",All,Total,594,17,14,1,2.4,1,8,1,0,1
+2018-01-08,S,21,65334,1,Marin,"Kentfield Elementary","Nonpublic, Nonsectarian Schools",All,Total,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65342,1,Marin,"Laguna Joint Elementary","Nonpublic, Nonsectarian Schools","No ",Total,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65342,6024327,Marin,"Laguna Joint Elementary","Laguna Elementary",All,Total,15,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65342,1,Marin,"Laguna Joint Elementary","Nonpublic, Nonsectarian Schools",All,Total,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65342,6024327,Marin,"Laguna Joint Elementary","Laguna Elementary","No ",Total,15,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65359,6024335,Marin,"Lagunitas Elementary","Lagunitas Elementary",All,Total,158,3,2,0,1.3,0,3,0,0,0
+2018-01-08,S,21,65359,6024343,Marin,"Lagunitas Elementary","San Geronimo Valley Elementary","No ",Total,84,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65359,6024335,Marin,"Lagunitas Elementary","Lagunitas Elementary","No ",Total,158,3,2,0,1.3,0,3,0,0,0
+2018-01-08,S,21,65359,6024343,Marin,"Lagunitas Elementary","San Geronimo Valley Elementary",All,Total,84,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65367,6024350,Marin,"Larkspur-Corte Madera","Hall Middle","No ",Total,538,6,6,0,1.1,0,1,0,2,0
+2018-01-08,S,21,65367,6024376,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary",All,Total,607,12,4,2,0.7,4,4,0,0,4
+2018-01-08,S,21,65367,129148,Marin,"Larkspur-Corte Madera",Cove,"No ",Total,434,22,10,2,2.3,1,19,0,0,2
+2018-01-08,S,21,65367,1,Marin,"Larkspur-Corte Madera","Nonpublic, Nonsectarian Schools",All,Total,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65367,1,Marin,"Larkspur-Corte Madera","Nonpublic, Nonsectarian Schools","No ",Total,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65367,129148,Marin,"Larkspur-Corte Madera",Cove,All,Total,434,22,10,2,2.3,1,19,0,0,2
+2018-01-08,S,21,65367,6024350,Marin,"Larkspur-Corte Madera","Hall Middle",All,Total,538,6,6,0,1.1,0,1,0,2,0
+2018-01-08,S,21,65367,6024376,Marin,"Larkspur-Corte Madera","Neil Cummins Elementary","No ",Total,607,12,4,2,0.7,4,4,0,0,4
+2018-01-08,S,21,65375,6024392,Marin,"Lincoln Elementary","Lincoln Union Elementary",All,Total,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65375,6024392,Marin,"Lincoln Elementary","Lincoln Union Elementary","No ",Total,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024418,Marin,"Mill Valley Elementary","Edna Maguire Elementary",All,Total,542,3,3,0,0.6,1,2,0,0,0
+2018-01-08,S,21,65391,6024442,Marin,"Mill Valley Elementary","Old Mill Elementary","No ",Total,293,1,1,0,0.3,0,1,0,0,0
+2018-01-08,S,21,65391,1,Marin,"Mill Valley Elementary","Nonpublic, Nonsectarian Schools","No ",Total,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024459,Marin,"Mill Valley Elementary","Park Elementary",All,Total,312,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,1,Marin,"Mill Valley Elementary","Nonpublic, Nonsectarian Schools",All,Total,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024418,Marin,"Mill Valley Elementary","Edna Maguire Elementary","No ",Total,542,3,3,0,0.6,1,2,0,0,0
+2018-01-08,S,21,65391,6024442,Marin,"Mill Valley Elementary","Old Mill Elementary",All,Total,293,1,1,0,0.3,0,1,0,0,0
+2018-01-08,S,21,65391,6024459,Marin,"Mill Valley Elementary","Park Elementary","No ",Total,312,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65391,6024475,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary","No ",Total,467,21,3,3,0.6,6,4,0,0,9
+2018-01-08,S,21,65391,6085187,Marin,"Mill Valley Elementary","Mill Valley Middle",All,Total,1056,38,30,10,2.8,1,9,1,10,16
+2018-01-08,S,21,65391,6024467,Marin,"Mill Valley Elementary","Strawberry Point Elementary",All,Total,343,4,1,1,0.3,0,1,0,0,3
+2018-01-08,S,21,65391,6085187,Marin,"Mill Valley Elementary","Mill Valley Middle","No ",Total,1056,38,30,10,2.8,1,9,1,10,16
+2018-01-08,S,21,65391,6024475,Marin,"Mill Valley Elementary","Tamalpais Valley Elementary",All,Total,467,21,3,3,0.6,6,4,0,0,9
+2018-01-08,S,21,65391,6024467,Marin,"Mill Valley Elementary","Strawberry Point Elementary","No ",Total,343,4,1,1,0.3,0,1,0,0,3
+2018-01-08,S,21,65409,6024483,Marin,Nicasio,Nicasio,"No ",Total,41,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65409,6024483,Marin,Nicasio,Nicasio,All,Total,41,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate","No ",Total,706,61,42,2,5.9,3,37,1,17,2
+2018-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle",All,Total,839,31,23,1,2.7,0,15,1,13,1
+2018-01-08,S,21,65417,6058614,Marin,"Novato Unified","Sinaloa Middle","No ",Total,839,31,23,1,2.7,0,15,1,13,1
+2018-01-08,S,21,65417,2132264,Marin,"Novato Unified","Marin Oaks High","No ",Total,119,14,12,4,10.1,0,2,0,7,5
+2018-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary",All,Total,455,7,5,0,1.1,5,1,0,0,0
+2018-01-08,S,21,65417,6024582,Marin,"Novato Unified","Rancho Elementary","No ",Total,344,6,6,0,1.7,0,6,0,0,0
+2018-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High",All,Total,1172,72,57,5,4.9,9,13,0,38,6
+2018-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary","No ",Total,381,3,2,0,0.5,1,2,0,0,0
+2018-01-08,S,21,65417,6024590,Marin,"Novato Unified","San Ramon Elementary",All,Total,478,1,1,0,0.2,0,1,0,0,0
+2018-01-08,S,21,65417,124081,Marin,"Novato Unified","San Jose Intermediate",All,Total,706,61,42,2,5.9,3,37,1,17,2
+2018-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary",All,Total,400,1,1,0,0.3,0,0,1,0,0
+2018-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center",All,Total,92,1,1,0,1.1,1,0,0,0,0
+2018-01-08,S,21,65417,6024582,Marin,"Novato Unified","Rancho Elementary",All,Total,344,6,6,0,1.7,0,6,0,0,0
+2018-01-08,S,21,65417,6024517,Marin,"Novato Unified","Lu Sutton Elementary","No ",Total,400,1,1,0,0.3,0,0,1,0,0
+2018-01-08,S,21,65417,6024525,Marin,"Novato Unified","Lynwood Elementary","No ",Total,303,8,3,0,1,0,7,0,0,0
+2018-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park","No ",Total,615,19,16,2,2.6,1,16,0,0,2
+2018-01-08,S,21,65417,6024509,Marin,"Novato Unified","Loma Verde Elementary","No ",Total,419,4,2,0,0.5,0,4,0,0,0
+2018-01-08,S,21,65417,6113229,Marin,"Novato Unified","Novato Charter",Yes,Total,274,1,1,0,0.4,0,1,0,0,0
+2018-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High",All,Total,1480,83,62,2,4.2,3,33,2,34,2
+2018-01-08,S,21,65417,2130045,Marin,"Novato Unified","Nova Education Center","No ",Total,92,1,1,0,1.1,1,0,0,0,0
+2018-01-08,S,21,65417,6024491,Marin,"Novato Unified","Hamilton Meadow Park",All,Total,615,19,16,2,2.6,1,16,0,0,2
+2018-01-08,S,21,65417,1,Marin,"Novato Unified","Nonpublic, Nonsectarian Schools","No ",Total,43,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65417,2133056,Marin,"Novato Unified","San Marin High","No ",Total,1172,72,57,5,4.9,9,13,0,38,6
+2018-01-08,S,21,65417,2132264,Marin,"Novato Unified","Marin Oaks High",All,Total,119,14,12,4,10.1,0,2,0,7,5
+2018-01-08,S,21,65417,6024590,Marin,"Novato Unified","San Ramon Elementary","No ",Total,478,1,1,0,0.2,0,1,0,0,0
+2018-01-08,S,21,65417,6024558,Marin,"Novato Unified","Olive Elementary",All,Total,381,3,2,0,0.5,1,2,0,0,0
+2018-01-08,S,21,65417,2132272,Marin,"Novato Unified","Novato High","No ",Total,1480,83,62,2,4.2,3,33,2,34,2
+2018-01-08,S,21,65417,6024525,Marin,"Novato Unified","Lynwood Elementary",All,Total,303,8,3,0,1,0,7,0,0,0
+2018-01-08,S,21,65417,6113229,Marin,"Novato Unified","Novato Charter",All,Total,274,1,1,0,0.4,0,1,0,0,0
+2018-01-08,S,21,65417,6024574,Marin,"Novato Unified","Pleasant Valley Elementary","No ",Total,455,7,5,0,1.1,5,1,0,0,0
+2018-01-08,S,21,65417,6024509,Marin,"Novato Unified","Loma Verde Elementary",All,Total,419,4,2,0,0.5,0,4,0,0,0
+2018-01-08,S,21,65417,1,Marin,"Novato Unified","Nonpublic, Nonsectarian Schools",All,Total,43,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65425,6024616,Marin,"Reed Union Elementary","Bel Aire Elementary","No ",Total,467,3,3,0,0.6,1,1,1,0,0
+2018-01-08,S,21,65425,6024616,Marin,"Reed Union Elementary","Bel Aire Elementary",All,Total,467,3,3,0,0.6,1,1,1,0,0
+2018-01-08,S,21,65425,1,Marin,"Reed Union Elementary","Nonpublic, Nonsectarian Schools","No ",Total,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65425,1,Marin,"Reed Union Elementary","Nonpublic, Nonsectarian Schools",All,Total,0,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65425,6024632,Marin,"Reed Union Elementary","Del Mar Middle",All,Total,545,27,21,0,3.9,1,26,0,0,0
+2018-01-08,S,21,65425,6024657,Marin,"Reed Union Elementary","Reed Elementary",All,Total,376,2,1,0,0.3,0,2,0,0,0
+2018-01-08,S,21,65425,6024632,Marin,"Reed Union Elementary","Del Mar Middle","No ",Total,545,27,21,0,3.9,1,26,0,0,0
+2018-01-08,S,21,65425,6024657,Marin,"Reed Union Elementary","Reed Elementary","No ",Total,376,2,1,0,0.3,0,2,0,0,0
+2018-01-08,S,21,65433,6024673,Marin,"Ross Elementary","Ross Elementary",All,Total,404,2,2,1,0.5,1,0,0,0,1
+2018-01-08,S,21,65433,6024673,Marin,"Ross Elementary","Ross Elementary","No ",Total,404,2,2,1,0.5,1,0,0,0,1
+2018-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary",All,Total,196,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary",All,Total,396,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024830,Marin,"San Rafael City Elementary","San Pedro Elementary","No ",Total,565,4,3,0,0.5,3,1,0,0,0
+2018-01-08,S,21,65458,6024764,Marin,"San Rafael City Elementary","Coleman Elementary",All,Total,413,2,1,0,0.2,1,1,0,0,0
+2018-01-08,S,21,65458,121517,Marin,"San Rafael City Elementary","Short Elementary",All,Total,173,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024863,Marin,"San Rafael City Elementary","Sun Valley Elementary","No ",Total,517,1,1,0,0.2,0,1,0,0,0
+2018-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle","No ",Total,1247,88,58,11,4.7,5,36,1,25,15
+2018-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8","No ",Total,700,19,17,1,2.4,1,4,2,9,1
+2018-01-08,S,21,65458,1,Marin,"San Rafael City Elementary","Nonpublic, Nonsectarian Schools",All,Total,14,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024764,Marin,"San Rafael City Elementary","Coleman Elementary","No ",Total,413,2,1,0,0.2,1,1,0,0,0
+2018-01-08,S,21,65458,6024756,Marin,"San Rafael City Elementary","Bahia Vista Elementary",All,Total,585,9,5,1,0.9,5,2,0,0,1
+2018-01-08,S,21,65458,6024863,Marin,"San Rafael City Elementary","Sun Valley Elementary",All,Total,517,1,1,0,0.2,0,1,0,0,0
+2018-01-08,S,21,65458,6024814,Marin,"San Rafael City Elementary","Laurel Dell Elementary","No ",Total,196,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024772,Marin,"San Rafael City Elementary","Venetia Valley K-8",All,Total,700,19,17,1,2.4,1,4,2,9,1
+2018-01-08,S,21,65458,1,Marin,"San Rafael City Elementary","Nonpublic, Nonsectarian Schools","No ",Total,14,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024756,Marin,"San Rafael City Elementary","Bahia Vista Elementary","No ",Total,585,9,5,1,0.9,5,2,0,0,1
+2018-01-08,S,21,65458,6024780,Marin,"San Rafael City Elementary","Glenwood Elementary","No ",Total,396,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65458,6024830,Marin,"San Rafael City Elementary","San Pedro Elementary",All,Total,565,4,3,0,0.5,3,1,0,0,0
+2018-01-08,S,21,65458,6058622,Marin,"San Rafael City Elementary","James B. Davidson Middle",All,Total,1247,88,58,11,4.7,5,36,1,25,15
+2018-01-08,S,21,65458,121517,Marin,"San Rafael City Elementary","Short Elementary","No ",Total,173,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,1,Marin,"San Rafael City High","Nonpublic, Nonsectarian Schools",All,Total,18,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High","No ",Total,1325,42,36,1,2.7,0,16,1,22,1
+2018-01-08,S,21,65466,2133254,Marin,"San Rafael City High","Madrone High Continuation",All,Total,77,17,15,3,19.5,2,7,0,5,3
+2018-01-08,S,21,65466,1,Marin,"San Rafael City High","Nonpublic, Nonsectarian Schools","No ",Total,18,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High",All,Total,1377,125,92,16,6.7,19,51,2,32,18
+2018-01-08,S,21,65466,2133254,Marin,"San Rafael City High","Madrone High Continuation","No ",Total,77,17,15,3,19.5,2,7,0,5,3
+2018-01-08,S,21,65466,2134005,Marin,"San Rafael City High","Terra Linda High",All,Total,1325,42,36,1,2.7,0,16,1,22,1
+2018-01-08,S,21,65466,2133262,Marin,"San Rafael City High","San Rafael High","No ",Total,1377,125,92,16,6.7,19,51,2,32,18
+2018-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy","No ",Total,133,12,10,7,7.5,1,4,0,0,7
+2018-01-08,S,21,65474,6118491,Marin,"Sausalito Marin City","Willow Creek Academy",All,Total,419,15,13,3,3.1,4,5,0,3,3
+2018-01-08,S,21,65474,6024889,Marin,"Sausalito Marin City","Bayside Martin Luther King Jr. Academy",All,Total,133,12,10,7,7.5,1,4,0,0,7
+2018-01-08,S,21,65474,6118491,Marin,"Sausalito Marin City","Willow Creek Academy",Yes,Total,419,15,13,3,3.1,4,5,0,3,3
+2018-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High",All,Total,1637,73,62,4,3.8,4,10,1,51,6
+2018-01-08,S,21,65482,2130078,Marin,"Tamalpais Union High","Tamiscal High (Alternative)","No ",Total,155,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,1,Marin,"Tamalpais Union High","Nonpublic, Nonsectarian Schools","No ",Total,35,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2131340,Marin,"Tamalpais Union High","Archie Williams High","No ",Total,1331,25,22,0,1.7,5,12,1,7,0
+2018-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)",All,Total,122,4,3,0,2.5,1,3,0,0,0
+2018-01-08,S,21,65482,2130078,Marin,"Tamalpais Union High","Tamiscal High (Alternative)",All,Total,155,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High",All,Total,1964,51,48,5,2.4,2,16,2,23,5
+2018-01-08,S,21,65482,1,Marin,"Tamalpais Union High","Nonpublic, Nonsectarian Schools",All,Total,35,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,65482,2133692,Marin,"Tamalpais Union High","Tamalpais High","No ",Total,1637,73,62,4,3.8,4,10,1,51,6
+2018-01-08,S,21,65482,2131340,Marin,"Tamalpais Union High","Archie Williams High",All,Total,1331,25,22,0,1.7,5,12,1,7,0
+2018-01-08,S,21,65482,2134419,Marin,"Tamalpais Union High","San Andreas High (Continuation)","No ",Total,122,4,3,0,2.5,1,3,0,0,0
+2018-01-08,S,21,65482,2132587,Marin,"Tamalpais Union High","Redwood High","No ",Total,1964,51,48,5,2.4,2,16,2,23,5
+2018-01-08,S,21,73361,6024954,Marin,"Shoreline Unified","West Marin Elementary",All,Total,154,2,2,0,1.3,2,0,0,0,0
+2018-01-08,S,21,73361,2134310,Marin,"Shoreline Unified","Tomales High",All,Total,162,16,14,6,8.6,3,1,1,5,6
+2018-01-08,S,21,73361,6051627,Marin,"Shoreline Unified","Bodega Bay Elementary",All,Total,29,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,6024947,Marin,"Shoreline Unified","Inverness Elementary",All,Total,35,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,2134310,Marin,"Shoreline Unified","Tomales High","No ",Total,162,16,14,6,8.6,3,1,1,5,6
+2018-01-08,S,21,73361,6051627,Marin,"Shoreline Unified","Bodega Bay Elementary","No ",Total,29,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary",All,Total,157,9,4,1,2.5,7,1,0,0,1
+2018-01-08,S,21,73361,6024954,Marin,"Shoreline Unified","West Marin Elementary","No ",Total,154,2,2,0,1.3,2,0,0,0,0
+2018-01-08,S,21,73361,6024921,Marin,"Shoreline Unified","Tomales Elementary","No ",Total,157,9,4,1,2.5,7,1,0,0,1
+2018-01-08,S,21,73361,6024947,Marin,"Shoreline Unified","Inverness Elementary","No ",Total,35,0,0,0,0,0,0,0,0,0
+2018-01-08,S,21,75002,6024731,Marin,"Ross Valley Elementary","Wade Thomas Elementary",All,Total,378,5,5,0,1.3,2,2,0,0,0
+2018-01-08,S,21,75002,6024681,Marin,"Ross Valley Elementary","Brookside Elementary",All,Total,370,10,2,0,0.5,0,8,0,0,0
+2018-01-08,S,21,75002,6024285,Marin,"Ross Valley Elementary","White Hill Middle",All,Total,758,31,28,6,3.7,4,9,2,10,6
+2018-01-08,S,21,75002,6024731,Marin,"Ross Valley Elementary","Wade Thomas Elementary","No ",Total,378,5,5,0,1.3,2,2,0,0,0
+2018-01-08,S,21,75002,6024277,Marin,"Ross Valley Elementary","Manor Elementary","No ",Total,286,2,1,0,0.3,1,1,0,0,0
+2018-01-08,S,21,75002,124578,Marin,"Ross Valley Elementary","Hidden Valley Elementary",All,Total,338,2,2,0,0.6,0,2,0,0,0
+2018-01-08,S,21,75002,124578,Marin,"Ross Valley Elementary","Hidden Valley Elementary","No ",Total,338,2,2,0,0.6,0,2,0,0,0
+2018-01-08,S,21,75002,1,Marin,"Ross Valley Elementary","Nonpublic, Nonsectarian Schools","No ",Total,15,2,1,0,6.7,0,2,0,0,0
+2018-01-08,S,21,75002,6024285,Marin,"Ross Valley Elementary","White Hill Middle","No ",Total,758,31,28,6,3.7,4,9,2,10,6
+2018-01-08,S,21,75002,6024681,Marin,"Ross Valley Elementary","Brookside Elementary","No ",Total,370,10,2,0,0.5,0,8,0,0,0
+2018-01-08,S,21,75002,6024277,Marin,"Ross Valley Elementary","Manor Elementary",All,Total,286,2,1,0,0.3,1,1,0,0,0
+2018-01-08,S,21,75002,1,Marin,"Ross Valley Elementary","Nonpublic, Nonsectarian Schools",All,Total,15,2,1,0,6.7,0,2,0,0,0
+2018-01-08,S,21,77065,135350,Marin,"SBE - Ross Valley Elementary","Ross Valley Charter",All,Total,176,2,1,0,0.6,1,1,0,0,0
+2018-01-08,S,21,77065,135350,Marin,"SBE - Ross Valley Elementary","Ross Valley Charter",Yes,Total,176,2,1,0,0.6,1,1,0,0,0
