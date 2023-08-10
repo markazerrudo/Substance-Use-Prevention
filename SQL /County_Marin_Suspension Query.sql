@@ -1,4 +1,5 @@
-USE `SUSDATA`;
+USE `Suspension data`;
+
 #Table Creation for 2018-2021 suspenion data
 CREATE TABLE `SusDataTotal`
 (
@@ -25,19 +26,23 @@ CREATE TABLE `SusDataTotal`
     );
     
 #Data Import 
-LOAD DATA LOCAL INFILE '/Users/markzerrudo/Desktop/suspension_data.csv' INTO TABLE `SusDataTotal`
-FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
-IGNORE 1 LINES; 
-    
-LOAD DATA LOCAL INFILE '/Users/markzerrudo/Desktop/untitled folder/2020_21 Suspension Data.csv' INTO TABLE `SusDataTotal`
+LOAD DATA LOCAL INFILE '/Users/markzerrudo/Documents/GitHub/Substance-Use-Prevention/Raw Data/2018-19 Suspension.csv' 
+INTO TABLE `SusDataTotal`
 FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
 IGNORE 1 LINES;
 
-LOAD DATA LOCAL INFILE '/Users/markzerrudo/Desktop/untitled folder/2019_2020 Suspension.csv' INTO TABLE `SusDataTotal`
+LOAD DATA LOCAL INFILE '/Users/markzerrudo/Documents/GitHub/Substance-Use-Prevention/Raw Data/2019-20 Suspension.csv' 
+INTO TABLE `SusDataTotal`
 FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
 IGNORE 1 LINES;
 
-LOAD DATA LOCAL INFILE '/Users/markzerrudo/Desktop/untitled folder/2018-19 Suspension.csv' INTO TABLE `SusDataTotal`
+LOAD DATA LOCAL INFILE '/Users/markzerrudo/Documents/GitHub/Substance-Use-Prevention/Raw Data/2020-21 Suspension.csv' 
+INTO TABLE `SusDataTotal`
+FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
+IGNORE 1 LINES;
+
+LOAD DATA LOCAL INFILE '/Users/markzerrudo/Documents/GitHub/Substance-Use-Prevention/Raw Data/2021-22 Suspension.csv' 
+INTO TABLE `SusDataTotal`
 FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
 IGNORE 1 LINES;
 
@@ -45,15 +50,18 @@ IGNORE 1 LINES;
 UPDATE `SusDataTotal`
 SET `AcademicYear` = 
 	CASE
-		WHEN `AcademicYear` = '8-1-2018' THEN '2018-08-01'
-        WHEN `AcademicYear` = '8-1-2019' THEN '2019-08-01'
-        WHEN `AcademicYear` = '8-1-2020' THEN '2020-08-01'
-		WHEN `AcademicYear` = '8-1-2021' THEN '2021-08-01'
+		WHEN `AcademicYear` = '2018-19' THEN '2018-08-01'
+        WHEN `AcademicYear` = '2019-20' THEN '2019-08-01'
+        WHEN `AcademicYear` = '2020-21' THEN '2020-08-01'
+        WHEN `AcademicYear` = '2021-22' THEN '2021-08-01'
         ELSE AcademicYear
         END;
+        
+SELECT `AcademicYear`, COUNT(`AcademicYear`) FROM `SusDataTotal`
+GROUP BY `AcademicYear`;
 
 UPDATE `SusDataTotal`
-SET `AcademicYear` = STR_TO_DATE(AcademicYear, '%Y-%d-%m');
+SET `AcademicYear` = STR_TO_DATE(`AcademicYear`, '%Y-%d-%m');
 
 DESCRIBE `SusDataTotal`;
 
@@ -65,26 +73,11 @@ ORDER BY `AcademicYear`,`ReportingCategory`;
 
 SELECT * FROM County_Marin_Suspensions;
 
-
-    
 CREATE VIEW District_Marin_Suspensions AS
 SELECT * FROM `SusDataTotal`
 WHERE `CountyName` = 'Marin' 
 	AND `AggregateLevel` = 'D' 
 ORDER BY `AcademicYear`,`ReportingCategory`;
-
-SELECT * FROM District_Marin_Suspensions;
-
-CREATE VIEW Schools_Marin_Suspensions AS
-SELECT * FROM `SusDataTotal`
-WHERE `CountyName` = 'Marin' 
-	AND `AggregateLevel` = 'S' 
-ORDER BY `AcademicYear`,`ReportingCategory`;
-
-SELECT * FROM Schools_Marin_Suspensions;
-
-SELECT * FROM `SusDataTotal`
-ORDER BY `AcademicYear`;
 
 UPDATE `SusDataTotal`
 SET `ReportingCategory` = Case `Reportingcategory`
@@ -116,7 +109,6 @@ SET `SchoolName` = 'Archie Williams High'
 WHERE `SchoolName` = 'Sir Francis Drake high';
 
 #I need to change the academic years to dates as well. 
-
 
 #I need to change Drake to Archie Willian for continuity August 8th
 #Changing from code to actual reporting category name for tableau export

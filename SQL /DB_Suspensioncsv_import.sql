@@ -26,12 +26,16 @@ CREATE TABLE `SusData`
     Other_Suspension_Reason INT
     );
     
-    LOAD DATA LOCAL INFILE '/Users/markzerrudo/Desktop/suspension_data.csv' INTO TABLE `SusData`
+LOAD DATA LOCAL INFILE 
+    '/Users/markzerrudo/Documents/GitHub/Substance-Use-Prevention/Raw Data/2018-19 Suspension.csv' 
+    INTO TABLE `SusData`
     FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
      LINES
         STARTING BY '2021-22'
         TERMINATED BY '\r\n'
     IGNORE 1 LINES;
+    
+
     
     LOAD DATA LOCAL INFILE '/Users/markzerrudo/Desktop/untitled folder/2020_21 Suspension Data.csv' INTO TABLE `SusData`
     FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
