@@ -108,6 +108,8 @@ UPDATE `SusDatatotal`
 SET `SchoolName` = 'Archie Williams High'
 WHERE `SchoolName` = 'Sir Francis Drake high';
 
+
+
 #I need to change the academic years to dates as well. 
 
 #I need to change Drake to Archie Willian for continuity August 8th
