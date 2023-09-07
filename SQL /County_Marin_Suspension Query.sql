@@ -50,7 +50,14 @@ IGNORE 1 LINES;
 UPDATE `SusDataTotal`
 SET `AcademicYear` = 
 	CASE
-		WHEN `AcademicYear` = '2018-19' THEN '2018-08-01'
+		WHEN `AcademicYear` = '2011-12' THEN '2011-08-01'
+        WHEN `AcademicYear` = '2012-13' THEN '2012-08-01'
+        WHEN `AcademicYear` = '2013-14' THEN '2013-08-01'
+        WHEN `AcademicYear` = '2014-15' THEN '2014-08-01'
+        WHEN `AcademicYear` = '2015-16' THEN '2015-08-01'
+        WHEN `AcademicYear` = '2016-17' THEN '2016-08-01'
+        WHEN `AcademicYear` = '2017-18' THEN '2017-08-01'
+        WHEN `AcademicYear` = '2018-19' THEN '2018-08-01'
         WHEN `AcademicYear` = '2019-20' THEN '2019-08-01'
         WHEN `AcademicYear` = '2020-21' THEN '2020-08-01'
         WHEN `AcademicYear` = '2021-22' THEN '2021-08-01'
@@ -108,7 +115,7 @@ UPDATE `SusDatatotal`
 SET `SchoolName` = 'Archie Williams High'
 WHERE `SchoolName` = 'Sir Francis Drake high';
 
-
+SELECT * FROM `SusDataTotal`;
 
 #I need to change the academic years to dates as well. 
 
